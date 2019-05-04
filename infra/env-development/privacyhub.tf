@@ -1,3 +1,6 @@
+# Copyright (c) 2019 Geoffrey Huntley. All rights reserved.
+# SPDX-License-Identifier: AGPL-3.0
+
 # privacyhub.dev.asics.digital
 
 locals {
@@ -63,3 +66,5 @@ module "privacyhub" {
   cloudfront_default_cache_forwarded_values_query_string = true
   route53_toplevel_zone                                  = "${local.tld}"
 }
+
+

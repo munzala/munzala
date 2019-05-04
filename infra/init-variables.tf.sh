@@ -1,4 +1,7 @@
 #!/bin/bash
+# Copyright (c) 2019 Geoffrey Huntley. All rights reserved.
+# SPDX-License-Identifier: AGPL-3.0
+
 
 FILE=variables.tf
 
@@ -78,3 +81,5 @@ if [ ! -s $FILE ]; then
   echo "$VARIABLES_TF"
   echo "$VARIABLES_TF" > $FILE
 fi
+
+

@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-# Copyright (c) 2019 Digital Asset (Switzerland) GmbH and/or its affiliates. All rights reserved.
-# SPDX-License-Identifier: Apache-2.0
+# Copyright (c) 2019 Geoffrey Huntley. All rights reserved.
+# SPDX-License-Identifier: AGPL-3.0
 
 
 set -euxo pipefail
@@ -28,3 +28,4 @@ bazel test -j 200 //... --experimental_execution_log_file "$ARTIFACT_DIRS/test_e
 bazel query 'deps(//...)' > /dev/null
 # Check that we can load damlc in ghci
 da-ghci damlc -e '()'
+

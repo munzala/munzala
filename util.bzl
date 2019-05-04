@@ -1,5 +1,5 @@
-# Copyright (c) 2019 Digital Asset (Switzerland) GmbH and/or its affiliates. All rights reserved.
-# SPDX-License-Identifier: Apache-2.0
+# Copyright (c) 2019 Geoffrey Huntley. All rights reserved.
+# SPDX-License-Identifier: AGPL-3.0
 
 # Helpers for setting up Hazel rules
 
@@ -44,3 +44,4 @@ def hazel_github_external(project, repoName, commit, sha, directory = "", name =
 # Things we get from the digital-asset GitHub
 def hazel_github(repoName, commit, sha, directory = "", name = None):
     return hazel_github_external("digital-asset", repoName, commit, sha, directory = directory, name = name)
+

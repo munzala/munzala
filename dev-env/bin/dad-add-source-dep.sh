@@ -1,5 +1,5 @@
-# Copyright (c) 2019 Digital Asset (Switzerland) GmbH and/or its affiliates. All rights reserved.
-# SPDX-License-Identifier: Apache-2.0
+# Copyright (c) 2019 Geoffrey Huntley. All rights reserved.
+# SPDX-License-Identifier: AGPL-3.0
 
 
 #!/bin/bash
@@ -26,6 +26,7 @@ echo "ln -i -r -s -t $LINK_DIR $TGT"
 mkdir -p $TGT
 mkdir -p $LINK_DIR
 ln -f -r -s -t $LINK_DIR $TGT
+
 
 
 

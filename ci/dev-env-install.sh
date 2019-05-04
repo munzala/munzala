@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-# Copyright (c) 2019 Digital Asset (Switzerland) GmbH and/or its affiliates. All rights reserved.
-# SPDX-License-Identifier: Apache-2.0
+# Copyright (c) 2019 Geoffrey Huntley. All rights reserved.
+# SPDX-License-Identifier: AGPL-3.0
 
 # shellcheck disable=SC2174
 
@@ -32,3 +32,4 @@ source dev-env/lib/ensure-nix
 export NIX_CONF_DIR=$PWD/dev-env/etc
 
 step "Building dev-env dependencies"
+

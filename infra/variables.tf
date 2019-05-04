@@ -1,3 +1,6 @@
+# Copyright (c) 2019 Geoffrey Huntley. All rights reserved.
+# SPDX-License-Identifier: AGPL-3.0
+
 #  Variables.tf declares has the default variables that are shared by all environments
 # $var.region, $var.domain, $var.tf_s3_bucket
 
@@ -72,3 +75,5 @@ variable "dev_state_file" {
 variable "price_class" {
   default = "PriceClass_All"
 }
+
+

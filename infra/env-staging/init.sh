@@ -1,4 +1,7 @@
 #!/bin/bash
+# Copyright (c) 2019 Geoffrey Huntley. All rights reserved.
+# SPDX-License-Identifier: AGPL-3.0
+
 
 # Usage: ./init.sh once to initialize remote storage for this environment.
 # Subsequent tf actions in this environment don't require re-initialization,
@@ -62,3 +65,5 @@ terraform init -backend=true \
 
  echo "set remote s3 state to ${s3_bucket}/${s3_prefix}/${tf_env}.tfstate"
 # vim: set et fenc=utf-8 ff=unix sts=2 sw=2 ts=2 :
+
+
