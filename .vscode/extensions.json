@@ -2,6 +2,8 @@
     "recommendations": [
         "alanz.vscode-hie-server",
         "bbenoist.nix",
+        "bazelbuild.vscode-bazel",
+        "devondcarew.bazel-code",
         "editorconfig.editorconfig",
         "jebbs.plantuml",
         "justusadam.language-haskell",

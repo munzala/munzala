@@ -10,6 +10,7 @@
     "remote.SSH.defaultExtensions": [
         "alanz.vscode-hie-server",
         "bbenoist.nix",
+        "bazelbuild.vscode-bazel",
         "editorconfig.editorconfig",
         "jebbs.plantuml",
         "justusadam.language-haskell",
