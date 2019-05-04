@@ -1,0 +1,11 @@
+name: munzala
+root: <%= Dir.pwd %>
+
+windows:
+  - repl:
+      root: <%= Dir.pwd %>
+      layout: f030,181x43,0,0{105x43,0,0,0,75x43,106,0[75x21,106,0,2,75x21,106,22,5]}
+      panes:
+        - make repl
+        - bash
+        - bash

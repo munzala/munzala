@@ -1,0 +1,18 @@
+{
+    "recommendations": [
+        "alanz.vscode-hie-server",
+        "bbenoist.nix",
+        "editorconfig.editorconfig",
+        "jebbs.plantuml",
+        "justusadam.language-haskell",
+        "ms-kubernetes-tools.vscode-kubernetes-tools",
+        "ms-vscode-remote.vscode-remote-extensionpack",
+        "ms-vscode.PowerShell",
+        "ms-vsliveshare.vsliveshare-pack",
+        "ms-vsts.team",
+        "peterjausovec.vscode-docker",
+        "vscode-icons-team.vscode-icons",
+        "redhat.vscode-yaml",
+        "robbowen.synthwave-vscode",
+    ]
+}

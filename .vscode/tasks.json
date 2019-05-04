@@ -1,0 +1,32 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "command": "make",
+            "type": "process",
+            "args": [
+                "build",
+            ],
+            "problemMatcher": "$tsc"
+        },
+        {
+            "label": "shell",
+            "command": "make",
+            "type": "process",
+            "args": [
+                "shell",
+            ],
+            "problemMatcher": "$tsc"
+        },
+        {
+            "label": "watch",
+            "command": "make",
+            "type": "process",
+            "args": [
+                "watch",
+            ],
+            "problemMatcher": "$tsc"
+        }
+    ]
+}
