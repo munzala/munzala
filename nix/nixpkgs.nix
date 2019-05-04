@@ -4,7 +4,7 @@
 
 let
   # See ./nixpkgs/README.md for upgrade instructions.
-  src = import ./nixpkgs/nixos-18.09;
+  src = import ./nixpkgs/nixos-19.03;
 
   # package overrides
   overrides = _: pkgs: rec {
