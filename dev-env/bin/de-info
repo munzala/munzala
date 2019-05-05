@@ -99,7 +99,7 @@ if [[ "$opt_devenv" == "1" ]]; then
     # dev-env derivation is system-agnostic, so we use Linux version on all machines.
     DE_LATEST_PACKAGE_LINUX=$(
         curl -s -L -H"Accept: application/json" \
-             http://hydra.da-int.net/jobset/da/master-dade-linux/latest-eval/store-paths | \
+             http://hydra.de-int.net/jobset/da/master-dade-linux/latest-eval/store-paths | \
             jq 'map(select(contains ("dev-env")))[0]' -r)
 
     echo "Base dade hashes:" $(removeLines "$currentHash")

@@ -34,7 +34,7 @@ source "$DE_CURRENT_SCRIPT_DIR/../lib/ensure-nix"
 bash $DE_REPO_ROOT/dev-env/profile_bash.sh
 
 # 2. Install our git-hooks
-bash $DE_REPO_ROOT/dev-env/bin/da-install-git-hooks
+bash $DE_REPO_ROOT/dev-env/bin/de-install-git-hooks
 
 # n. Notify
 echo "=========================================================================="

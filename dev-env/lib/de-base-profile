@@ -1,6 +1,6 @@
 # DEPRECATED. Base profile for both bash and zsh -*- shell-script -*-
 #
-# TODO(gleber): delete when `da-ops` and `nixBash` switches to `dade-dump-profile`.
+# TODO(gleber): delete when `de-ops` and `nixBash` switches to `dade-dump-profile`.
 # Sourcable wrapper around `dade-dump-profile`. See it for details.
 
 # TODO(gleber): Compatibility mode until JBH is ugraded.

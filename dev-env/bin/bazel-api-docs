@@ -32,7 +32,7 @@ while getopts "hp:" flag; do
 done
 
 # Temporary working directory.
-SCRATCH=$(mktemp -d --tmpdir da-bazel-api-docs.XXXX)
+SCRATCH=$(mktemp -d --tmpdir de-bazel-api-docs.XXXX)
 
 cleanup() {
     echo Deleting $SCRATCH ...

@@ -22,9 +22,9 @@ def main():
     args, remainingArgs = parser.parse_known_args()
 
     if args.data == None:
-        ghciCmd = "da-ghci"
+        ghciCmd = "de-ghci"
     else:
-        ghciCmd = f"da-ghci --data {args.data}"
+        ghciCmd = f"de-ghci --data {args.data}"
 
     try:
         subprocess.call(["ghcid","-c",ghciCmd] + remainingArgs)

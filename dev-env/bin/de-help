@@ -22,9 +22,9 @@ dade test-sh:               Tests all OSHT and Bats tests in provided directorie
 
 dade copyright-headers:     Update copyright headers on our source files.
 
-da-ghci:                    Run GHCi with import paths to our packages.
-da-watch-tests:             Watch source files for changes and run tests.
-da-test-daml-foundations:   Run the test suite for DAML Foundations
+de-ghci:                    Run GHCi with import paths to our packages.
+de-watch-tests:             Watch source files for changes and run tests.
+de-test-daml-foundations:   Run the test suite for DAML Foundations
 
 EOF
 

@@ -2,7 +2,7 @@
 
 This tool installs DA-built Nix distribution for MacOS X or Linux. It downloads
 the release from:
-- http://hydra.da-int.net/jobset/nix/release-3
+- http://hydra.de-int.net/jobset/nix/release-3
 
 Runtime prerequisites:
 - `uname`, `mktemp`, `tar`, `curl`, `awk` to download and perform installation
@@ -17,7 +17,7 @@ Notes:
 
 This tool is meant to be run from a root account and precache all relevant
 dev-env provided tools on a given machine. It finds the right user to
-impersonate and downloads most recently built tools from `hydra.da-int.net`.
+impersonate and downloads most recently built tools from `hydra.de-int.net`.
 
 Runtime prerequisites:
 - Nix installed in a single-user mode (e.g. via `dade-nix-install`)
@@ -34,10 +34,10 @@ get deleted with next `nix-collect-garbage` invocation.
 
 Non-code dependencies:
 - Hydra jobsets
-  - http://hydra.da-int.net/jobset/da/master-dade-linux
-  - http://hydra.da-int.net/jobset/da/master-dade-darwin
-  - http://hydra.da-int.net/jobset/da/dev-env-next-dade-linux
-  - http://hydra.da-int.net/jobset/da/dev-env-next-dade-darwin
+  - http://hydra.de-int.net/jobset/da/master-dade-linux
+  - http://hydra.de-int.net/jobset/da/master-dade-darwin
+  - http://hydra.de-int.net/jobset/da/dev-env-next-dade-linux
+  - http://hydra.de-int.net/jobset/da/dev-env-next-dade-darwin
 
 Used by:
 - Casper policy to deploy jobs (owned by Edward Newman)
@@ -45,13 +45,13 @@ Used by:
 
 Tested by:
 - https://github.com/DACH-NY/da/pipeline/jenkins/src/jobs/pipeline/dev-env/dadeRawPreload.Jenkinsjob
-- http://ci.da-int.net/job/pipeline/job/dev-env/job/de-raw-preload/
+- http://ci.de-int.net/job/pipeline/job/dev-env/job/de-raw-preload/
 
 Implementation sketch:
 - finds out the Nix store owner;
 - checks for the skip file;
 - finds the user's Nix profile and sources it;
-- creates a temporary nix.conf to ensure `hydra.da-int.net` is used;
+- creates a temporary nix.conf to ensure `hydra.de-int.net` is used;
 - sets up a temporary nix-shell with required tools (e.g. jq);
 - fetches all store paths from all last evaluations of all jobsets;
 - downloads them (aka "realizes" with `nix-store -r`).
