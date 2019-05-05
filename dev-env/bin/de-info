@@ -83,13 +83,13 @@ toolInfo() {
         echo "  * notice: missing local gcroot $target"
     fi
     if [[ "$hash" != "$currentHash" ]]; then
-        echo "  * notice: hash mismatch (run the tool to update it, or use dade-preload):"
+        echo "  * notice: hash mismatch (run the tool to update it, or use de-preload):"
         echo "      expected:" $(removeLines "$currentHash")
         echo "      got:     " $(removeLines "$hash")
     fi
 }
 
-currentHash="$(dadeBaseHash)"
+currentHash="$(deBaseHash)"
 
 echo "This will output debugging information about development environment on this machine."
 echo
@@ -99,10 +99,10 @@ if [[ "$opt_devenv" == "1" ]]; then
     # dev-env derivation is system-agnostic, so we use Linux version on all machines.
     DE_LATEST_PACKAGE_LINUX=$(
         curl -s -L -H"Accept: application/json" \
-             http://hydra.de-int.net/jobset/da/master-dade-linux/latest-eval/store-paths | \
+             http://hydra.de-int.net/jobset/da/master-de-linux/latest-eval/store-paths | \
             jq 'map(select(contains ("dev-env")))[0]' -r)
 
-    echo "Base dade hashes:" $(removeLines "$currentHash")
+    echo "Base de hashes:" $(removeLines "$currentHash")
     echo
     echo "Repo root:             $DE_REPO_ROOT"
     echo "DADE root dir:         $DE_BASE_ROOT"
@@ -122,7 +122,7 @@ fi
 
 if [[ "$opt_tools" == "1" ]]; then
     echo "Available tools:"
-    for tool in $(dadeListTools); do
+    for tool in $(deListTools); do
         toolInfo $tool
     done
 fi

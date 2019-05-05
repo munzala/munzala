@@ -7,7 +7,7 @@ export OSHT_JUNIT=1
 
 function usage
 {
-    echo "Usage: dade-test-sh [-s] PATH..."
+    echo "Usage: de-test-sh [-s] PATH..."
     echo "    -h - this help message"
     exit 0
 }

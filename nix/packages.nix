@@ -250,7 +250,7 @@ in rec {
     semver = pkgs.callPackage ./tools/semver-tool {};
     osht = pkgs.callPackage ./tools/osht {};
     bats = pkgs.callPackage ./tools/bats {};
-    dade-test-sh = pkgs.callPackage ./tools/de-test-sh {};
+    de-test-sh = pkgs.callPackage ./tools/de-test-sh {};
 
     undmg = pkgs.undmg;
     jfrog = pkgs.callPackage ./tools/jfrog-cli {};
@@ -276,7 +276,7 @@ in rec {
       inherit (pkgs.python36Packages)
         pyyaml semver GitPython;
     };
-    # Packages used in command-line tools, e.g. `dade-info`.
+    # Packages used in command-line tools, e.g. `de-info`.
     cli-tools = {
       inherit (pkgs) coreutils nix-info getopt;
     };
@@ -326,7 +326,7 @@ in rec {
     cabal2nix = tools.cabal2nix;
   };
 
-  dade = {
+  de = {
     tools-list = pkgs.runCommand "tools-list" {
       ts = builtins.concatStringsSep " " (builtins.attrNames tools);
       preferLocalBuild = true;

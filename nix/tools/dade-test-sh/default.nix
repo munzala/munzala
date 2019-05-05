@@ -5,7 +5,7 @@
 
 stdenv.mkDerivation rec {
   version = "0.1.0";
-  name = "dade-test-sh-${version}";
+  name = "de-test-sh-${version}";
   src = ./de-test-sh;
   buildInputs = [ makeWrapper ];
   phases = [ "installPhase" ];

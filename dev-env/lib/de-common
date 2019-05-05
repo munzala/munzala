@@ -50,24 +50,24 @@ DE_GC_ROOTS="${DE_GC_ROOTS_ROOT:-}${DE_VAR_DIR}/gc-roots"
 # Make sure that Nix is available
 source "${DE_CURRENT_SCRIPT_DIR}/ensure-nix"
 
-# Compute expected dade base hash
-dadeBaseHash() {
+# Compute expected de base hash
+deBaseHash() {
     nix-hash "$DE_DEVENV_DIR/../nix"
 }
 
-# List tools defined in dade
-dadeListTools() {
-    cat $(nix-build $DE_BASE_ROOT/nix -A dade.tools-list)
+# List tools defined in de
+deListTools() {
+    cat $(nix-build $DE_BASE_ROOT/nix -A de.tools-list)
 }
 
-# dadeGetOutput get output of a target
+# deGetOutput get output of a target
 #
 #   target: Attribute in the $DE_BASE_ROOT/nix/packages.nix tools attrset to
 #     realize.
 #   outputName: the output name of the Nix derivation, where the derivation is
 #     relalized into. This is necessary, since Nix's --add-root produces a
 #     unpredictable symlink name.
-dadeGetOutput() {
+deGetOutput() {
     local target=$1
     local outputName=$2
     local output="$target"
@@ -93,7 +93,7 @@ buildTool() {
   local target="$DE_GC_ROOTS/$attr"
   local hashfile="${target}.hash"
   local hash="nope"
-  local currentHash="$(dadeBaseHash)"
+  local currentHash="$(deBaseHash)"
   local forced=""
   test -e "$hashfile" && hash="$(cat "$hashfile")"
 
@@ -101,7 +101,7 @@ buildTool() {
   # hash of the definitions is different.
   # We depend on the behavior of nix-build to name a gc root as target-foo, for
   # a non-out output.
-  DE_BUILD_RESULT="$(dadeGetOutput $target $outputName)"
+  DE_BUILD_RESULT="$(deGetOutput $target $outputName)"
   if [[ ! -e "$DE_BUILD_RESULT" || "$force" -eq 1 || "$hash" != "$currentHash" ]]; then
     set -e
     test "$force" -eq 1 && forced=" (forced)"
@@ -109,9 +109,9 @@ buildTool() {
     # Allow to fail, so we can capture outpath and to capture the exit code too.
     set +e
     outpath=$(nix-build "${DE_BASE_ROOT}/nix/default.nix" -A tools.$attr -Q -o "${target}")
-    local dade_build_exit_code=$?
+    local de_build_exit_code=$?
     set -e
-    if [[ "$dade_build_exit_code" != "0" ]]; then
+    if [[ "$de_build_exit_code" != "0" ]]; then
       errcho "Build of tools.$attr has failed!"
       exit 1
     fi

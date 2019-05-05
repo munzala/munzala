@@ -1,7 +1,7 @@
 # DEPRECATED. Base profile for both bash and zsh -*- shell-script -*-
 #
-# TODO(gleber): delete when `de-ops` and `nixBash` switches to `dade-dump-profile`.
-# Sourcable wrapper around `dade-dump-profile`. See it for details.
+# TODO(gleber): delete when `de-ops` and `nixBash` switches to `de-dump-profile`.
+# Sourcable wrapper around `de-dump-profile`. See it for details.
 
 # TODO(gleber): Compatibility mode until JBH is ugraded.
 export DE_DEVENV_DIR="${DE_DEVENV_DIR:-${DE_BASE:-}}"
@@ -9,7 +9,7 @@ export DE_DEVENV_DIR="${DE_DEVENV_DIR:-${DE_BASE:-}}"
 # TODO(nikola): Compatibility mode until JBH is upgraded.
 
 # This file is sourced from nixBash by setting BASH_ENV to point to
-# dade-base-profile. The script in BASH_ENV is envoked automatically
+# de-base-profile. The script in BASH_ENV is envoked automatically
 # when a new shell is spawned, including when Bash invokes a shell
 # script with '$()'. We must therefore unset the variable to avoid an
 # infinite recursion.

@@ -11,7 +11,7 @@ else
   exe="${DE_CURRENT_SCRIPT_DIR}/de-${cmd}"
   if [ -x "$exe" ]; then
       shift
-      DE_CURRENT_COMMAND="dade-${cmd}" exec "$exe" "$@"
+      DE_CURRENT_COMMAND="de-${cmd}" exec "$exe" "$@"
   else
       echo "Unrecognized command ${cmd}, executable ${exe}."
       exit 1

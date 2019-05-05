@@ -247,7 +247,7 @@ def process_file(filename, check_only):
 # Main
 
 def usage():
-  print("usage: dade-copyright-headers <check|update> [DIRECTORY]")
+  print("usage: de-copyright-headers <check|update> [DIRECTORY]")
   print("  If DIRECTORY is provided, checks only in that directory")
   print("  Otherwise, checks in 'pkgs'.")
   print("  Note that the provided directory must be relative to the")

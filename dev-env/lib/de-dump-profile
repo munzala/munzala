@@ -28,7 +28,7 @@ errcho() {
 }
 
 check_nix_version() {
-    # Keep in sync with dade-nix-install.
+    # Keep in sync with de-nix-install.
     NIX_MAJOR="$1"
     NIX_MINOR="$2"
     NIX_PATCH="$3"
