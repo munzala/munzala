@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # coding: utf8
 #
-## Idempotently add DA copyright headers to source files.
+## Idempotently add copyright headers to source files.
 #
 # To check that all files have required headers:
 # $ de-copyright-headers check
