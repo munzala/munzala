@@ -1,3 +1,6 @@
+# Copyright (c) 2019 Geoffrey Huntley. All rights reserved.
+# SPDX-License-Identifier: AGPL-3.0
+
 { buildGoPackage }:
 buildGoPackage {
   name = "nix-store-gcs-proxy";
@@ -5,3 +8,4 @@ buildGoPackage {
   src = ./.;
   goDeps = ./deps.nix;
 }
+

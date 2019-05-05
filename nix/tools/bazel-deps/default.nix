@@ -1,3 +1,6 @@
+# Copyright (c) 2019 Geoffrey Huntley. All rights reserved.
+# SPDX-License-Identifier: AGPL-3.0
+
 # Based on upstream nixpkgs Nix expression for bazel-deps.
 # Revision b36dc66bfea6b0a733cf13bed85d80462d39c736
 
@@ -99,3 +102,4 @@ buildBazelPackage rec {
     '';
   };
 }
+

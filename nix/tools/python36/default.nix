@@ -1,3 +1,6 @@
+# Copyright (c) 2019 Geoffrey Huntley. All rights reserved.
+# SPDX-License-Identifier: AGPL-3.0
+
 { pkgs, src }:
 let python = pkgs.python36.override {
   packageOverrides = self: super: rec {
@@ -84,3 +87,4 @@ in pkgs.lib.overrideDerivation python (drv: rec {
       rm $out/lib/python3.6/_manylinux.py
     '';
   })
+

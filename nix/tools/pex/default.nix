@@ -1,3 +1,6 @@
+# Copyright (c) 2019 Geoffrey Huntley. All rights reserved.
+# SPDX-License-Identifier: AGPL-3.0
+
 # This has been submitted as a PR for upstream, please see:
 # https://github.com/NixOS/nixpkgs/pull/45497.
 { stdenv, python3Packages }:
@@ -29,3 +32,4 @@ with python3Packages; buildPythonApplication rec {
       maintainers = with maintainers; [ copumpkin ];
     };
   }
+

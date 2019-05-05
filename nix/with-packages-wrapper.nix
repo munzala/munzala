@@ -1,3 +1,6 @@
+# Copyright (c) 2019 Geoffrey Huntley. All rights reserved.
+# SPDX-License-Identifier: AGPL-3.0
+
 # This is based on the version that is in nixpkgs (commit 5d19e3e78fb89f01e7fb48acc341687e54d6888f)
 # but we patch ghcWithPackages so that it provides package config files with extra-libraries
 # instead of hs-libraries which is required for GHCi and TH to pick up static Haskell libs.
@@ -130,3 +133,4 @@ symlinkJoin {
     inherit (ghc) version meta;
   };
 }
+

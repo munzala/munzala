@@ -1,3 +1,6 @@
+# Copyright (c) 2019 Geoffrey Huntley. All rights reserved.
+# SPDX-License-Identifier: AGPL-3.0
+
 { mkDerivation, array, base, bytestring, containers, directory
 , dlist, filepath, HUnit, language-c, pretty, process, shelly
 , stdenv, test-framework, test-framework-hunit, text, transformers
@@ -21,3 +24,4 @@ mkDerivation {
   description = "C->Haskell FFI tool that gives some cross-language type safety";
   license = stdenv.lib.licenses.gpl2;
 }
+

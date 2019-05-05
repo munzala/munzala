@@ -1,3 +1,6 @@
+# Copyright (c) 2019 Geoffrey Huntley. All rights reserved.
+# SPDX-License-Identifier: AGPL-3.0
+
 # Build instructions for Hydra CI
 { damlSrc ? { outPath = "${toString ../.}"; rev = "dirty"; }
 , releaseBuild ? false
@@ -21,3 +24,4 @@ with nixpkgs.lib;
   tools = withSystem (system: (packages system).tools);
   cached = withSystem (system: (packages system).cached);
 }
+

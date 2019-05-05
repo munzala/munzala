@@ -1,3 +1,6 @@
+# Copyright (c) 2019 Geoffrey Huntley. All rights reserved.
+# SPDX-License-Identifier: AGPL-3.0
+
 { python3Packages }: [
   (python3Packages.fetchPypi {
     pname = "certifi";
@@ -42,3 +45,4 @@
     sha256 = "afce268508aa5596c90dda234abe345deebc401a57d287bcbd76baa140a1aa58";
   })
 ]
+

@@ -1,3 +1,6 @@
+# Copyright (c) 2019 Geoffrey Huntley. All rights reserved.
+# SPDX-License-Identifier: AGPL-3.0
+
 { mkDerivation, array, base, containers, directory, filepath
 , ghc-prim, happy, mtl, pretty, pretty-show, smallcheck, stdenv
 , tasty, tasty-golden, tasty-smallcheck
@@ -17,3 +20,4 @@ mkDerivation {
   description = "Manipulating Haskell source: abstract syntax, lexer, parser, and pretty-printer";
   license = stdenv.lib.licenses.bsd3;
 }
+

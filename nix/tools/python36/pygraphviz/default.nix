@@ -1,3 +1,6 @@
+# Copyright (c) 2019 Geoffrey Huntley. All rights reserved.
+# SPDX-License-Identifier: AGPL-3.0
+
 # From https://github.com/NixOS/nixpkgs/blob/release-18.03/pkgs/development/python-modules/pygraphviz/default.nix, adjusted for v1.5.
 { stdenv, buildPythonPackage, fetchPypi, graphviz
 , pkgconfig, doctest-ignore-unicode, mock, nose }:

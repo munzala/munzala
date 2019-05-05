@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+set -euo pipefail
 
 # This hook is called with the following parameters:
 #
@@ -13,7 +14,7 @@
 #   <local ref> <local sha1> <remote ref> <remote sha1>
 #
 
-protected_branches=('master')
+protected_branches=('mainline')
 
 IFS=' '
 while read local_ref local_sha remote_ref remote_sha

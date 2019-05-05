@@ -1,3 +1,6 @@
+# Copyright (c) 2019 Geoffrey Huntley. All rights reserved.
+# SPDX-License-Identifier: AGPL-3.0
+
 # This file defines the GHC along with any overrides that is used for the
 # nix builds and stack builds.
 
@@ -64,3 +67,4 @@ let
   };
 
 in packages
+

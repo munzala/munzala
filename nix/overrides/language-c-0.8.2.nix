@@ -1,3 +1,6 @@
+# Copyright (c) 2019 Geoffrey Huntley. All rights reserved.
+# SPDX-License-Identifier: AGPL-3.0
+
 { mkDerivation, alex, array, base, bytestring, containers, deepseq
 , directory, filepath, happy, pretty, process, stdenv, syb
 }:
@@ -17,3 +20,4 @@ mkDerivation {
   description = "Analysis and generation of C code";
   license = stdenv.lib.licenses.bsd3;
 }
+

@@ -1,3 +1,6 @@
+# Copyright (c) 2019 Geoffrey Huntley. All rights reserved.
+# SPDX-License-Identifier: AGPL-3.0
+
 # Pinned version of nixpkgs that we use for our development and deployment.
 
 { system ? builtins.currentSystem }:
@@ -105,3 +108,4 @@ let
   };
 in
   nixpkgs
+

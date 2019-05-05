@@ -1,3 +1,6 @@
+# Copyright (c) 2019 Geoffrey Huntley. All rights reserved.
+# SPDX-License-Identifier: AGPL-3.0
+
 # Install Pipenv as a Python virtualenv that lives directly in
 # /nix/store. Using the normal native Nix packaging results in simple
 # things like this failing:
@@ -39,3 +42,4 @@ stdenv.mkDerivation rec {
     patch -d $out -p1 < ${./pip-no-input.patch}
   '';
 }
+

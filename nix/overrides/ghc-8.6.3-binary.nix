@@ -1,3 +1,6 @@
+# Copyright (c) 2019 Geoffrey Huntley. All rights reserved.
+# SPDX-License-Identifier: AGPL-3.0
+
 { stdenv
 , fetchurl, perl, gcc, llvm_39
 , ncurses5, gmp, glibc, libiconv
@@ -163,3 +166,4 @@ stdenv.mkDerivation rec {
   meta.license = stdenv.lib.licenses.bsd3;
   meta.platforms = ["x86_64-linux" "i686-linux" "x86_64-darwin"];
 }
+

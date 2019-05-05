@@ -1,3 +1,6 @@
+# Copyright (c) 2019 Geoffrey Huntley. All rights reserved.
+# SPDX-License-Identifier: AGPL-3.0
+
 { stdenv, callPackage, lib, fetchurl, fetchpatch, runCommand, makeWrapper
 , zip, unzip, getopt, postgresql, bash, writeCBin, coreutils, diffutils
 , which, python, perl, gawk, gnused, gnutar, gnugrep, gzip, findutils
@@ -320,3 +323,4 @@ stdenv.mkDerivation rec {
   dontStrip = true;
   dontPatchELF = true;
 }
+

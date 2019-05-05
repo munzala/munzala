@@ -1,3 +1,6 @@
+# Copyright (c) 2019 Geoffrey Huntley. All rights reserved.
+# SPDX-License-Identifier: AGPL-3.0
+
 { pkgs }:
 
 let
@@ -17,3 +20,4 @@ let
   generated = import ./requirements_generated.nix { inherit pkgs python; };
 
 in (fix' generated).cram
+

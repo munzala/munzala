@@ -1,3 +1,6 @@
+# Copyright (c) 2019 Geoffrey Huntley. All rights reserved.
+# SPDX-License-Identifier: AGPL-3.0
+
 { mkDerivation, base, containers, haskell-src-exts, HUnit, pretty
 , stdenv, syb, template-haskell, test-framework
 , test-framework-hunit, th-orphans
@@ -16,3 +19,4 @@ mkDerivation {
   description = "Parse source to template-haskell abstract syntax";
   license = stdenv.lib.licenses.bsd3;
 }
+

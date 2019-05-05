@@ -1,3 +1,6 @@
+# Copyright (c) 2019 Geoffrey Huntley. All rights reserved.
+# SPDX-License-Identifier: AGPL-3.0
+
 # This Nix expression is taken from the upstream nixpkgs repository.
 # It was only introduced there at revision 18aa9b0b6509, which is not captured
 # by any stable release at the time of writing.
@@ -105,3 +108,4 @@ in stdenv.mkDerivation (fBuildAttrs // {
     runHook postBuild
   '';
 })
+

@@ -1,3 +1,6 @@
+# Copyright (c) 2019 Geoffrey Huntley. All rights reserved.
+# SPDX-License-Identifier: AGPL-3.0
+
 { mkDerivation, aeson, ansi-terminal, base, bytestring, cmdargs
 , containers, cpphs, data-default, directory, extra, filepath
 , haskell-src-exts, haskell-src-exts-util, hscolour, process
@@ -22,3 +25,4 @@ mkDerivation {
   description = "Source code suggestions";
   license = stdenv.lib.licenses.bsd3;
 }
+

@@ -1,3 +1,6 @@
+# Copyright (c) 2019 Geoffrey Huntley. All rights reserved.
+# SPDX-License-Identifier: AGPL-3.0
+
 # This file originates from node2nix
 
 {stdenv, nodejs, python2, utillinux, libtool, runCommand, writeTextFile}:
@@ -540,3 +543,4 @@ in
   buildNodePackage = stdenv.lib.makeOverridable buildNodePackage;
   buildNodeShell = stdenv.lib.makeOverridable buildNodeShell;
 }
+

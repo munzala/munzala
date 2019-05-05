@@ -1,3 +1,6 @@
+# Copyright (c) 2019 Geoffrey Huntley. All rights reserved.
+# SPDX-License-Identifier: AGPL-3.0
+
 { stdenv, pkgs }:
 
 let
@@ -26,3 +29,4 @@ pkgs.chromedriver.overrideAttrs (old: rec {
         sha256 = spec.sha256;
       };
   })
+

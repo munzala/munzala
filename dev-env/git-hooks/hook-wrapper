@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
+set -euo pipefail
 
 # Git hooks should be linked to this file. This file will run first the hook in CUSTOM_HOOKS_DIR
-# and then a local hook in NATIVE_HOOKS_DIR. A local hook is the hook not installed by `da-install-git-hooks`
+# and then a local hook in NATIVE_HOOKS_DIR. A local hook is the hook not installed by `de-install-git-hooks`
 # script, added by the developer locally.
 #
 # It will run these two hooks and then exit with the joint error code (failure if any of them fails)

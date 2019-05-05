@@ -1,3 +1,6 @@
+# Copyright (c) 2019 Geoffrey Huntley. All rights reserved.
+# SPDX-License-Identifier: AGPL-3.0
+
 # The root file providing all definitions for the DA nix packages.
 # They are explained below.
 
@@ -330,3 +333,4 @@ in rec {
     } "echo $ts > $out";
   };
 }
+

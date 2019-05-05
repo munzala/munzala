@@ -1,3 +1,6 @@
+# Copyright (c) 2019 Geoffrey Huntley. All rights reserved.
+# SPDX-License-Identifier: AGPL-3.0
+
 { fetchzip, runCommand, stdenv }:
 
 let
@@ -11,3 +14,4 @@ in runCommand "dependency-check-${version}-wrapper" { src = dependencyCheck; } '
   cp $src/bin/dependency-check.sh $out/bin/dependency-check
   chmod +x $out/bin/dependency-check
 ''
+

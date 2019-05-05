@@ -1,3 +1,6 @@
+# Copyright (c) 2019 Geoffrey Huntley. All rights reserved.
+# SPDX-License-Identifier: AGPL-3.0
+
 { stdenv, fetchurl }:
 
 let version = "0.3.13"; in
@@ -15,4 +18,5 @@ stdenv.mkDerivation rec {
 		cp -r lib $out
 	'';
 }
+
 

@@ -1,3 +1,6 @@
+# Copyright (c) 2019 Geoffrey Huntley. All rights reserved.
+# SPDX-License-Identifier: AGPL-3.0
+
 # Bazel MUST only use this file to source dependencies
 #
 # This allows CI to pre-build and cache the build outputs
@@ -94,3 +97,4 @@ rec {
     glibcLocales
     ;
   } else {})
+
