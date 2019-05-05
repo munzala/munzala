@@ -15,6 +15,7 @@
         "jebbs.plantuml",
         "justusadam.language-haskell",
         "mauve.terraform",
+        "ms-azuretools.vscode-azureterraform",
         "ms-kubernetes-tools.vscode-kubernetes-tools",
         "ms-vscode-remote.vscode-remote-extensionpack",
         "ms-vscode.PowerShell",
