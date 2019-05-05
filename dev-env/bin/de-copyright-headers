@@ -32,6 +32,7 @@ filetypes = \
   { 'hs'     : { 'start' : '-' * 80 , 'line' : '--'   , 'end' : ''    , 'empty_line' : '', 'skip' : '#!'  } ,
     'lhs'    : { 'start' : '-' * 80 , 'line' : '--'   , 'end' : ''    , 'empty_line' : '' } ,
     'chs'    : { 'start' : '-' * 80 , 'line' : '--'   , 'end' : ''    , 'empty_line' : '' } ,
+    'cabal'  : { 'start' : '-' * 80 , 'line' : '--'   , 'end' : ''    , 'empty_line' : '' } ,
     'js'     : { 'start' : ''       , 'line' : '//'   , 'end' : ''    , 'empty_line' : '' } ,
     'ts'     : { 'start' : ''       , 'line' : '//'   , 'end' : ''    , 'empty_line' : '' } ,
     'tsx'    : { 'start' : ''       , 'line' : '//'   , 'end' : ''    , 'empty_line' : '' } ,
