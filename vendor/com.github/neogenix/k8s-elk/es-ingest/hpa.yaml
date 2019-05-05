@@ -1,0 +1,17 @@
+apiVersion: autoscaling/v1
+kind: HorizontalPodAutoscaler
+metadata:
+  name: es-ingest
+  namespace: default
+  labels:
+    application: logging
+    component: elasticsearch
+    role: ingest
+spec:
+  scaleTargetRef:
+    apiVersion: apps/v1beta1
+    kind: Deployment
+    name: es-ingest
+  minReplicas: 2
+  maxReplicas: 10
+  targetCPUUtilizationPercentage: 50

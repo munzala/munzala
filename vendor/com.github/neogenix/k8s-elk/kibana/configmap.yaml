@@ -1,0 +1,48 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: kibana-config
+  namespace: default
+  labels:
+    application: logging
+    component: kibana
+data:
+  kibana.yml: |
+    logging.dest: stdout
+    logging.verbose: false
+    #logging.silent: false
+    #logging.quiet: false
+
+    #pid.file: /var/run/kibana.pid
+    #ops.interval: 5000
+    #i18n.defaultLocale: "en"
+
+    server.port: 5601
+    server.host: "0.0.0.0"
+    #server.name: "your-hostname"
+
+    elasticsearch.url: "http://es-ingest:9200"
+    #elasticsearch.preserveHost: true
+    #elasticsearch.username: "user"
+    #elasticsearch.password: "pass"
+    #elasticsearch.ssl.certificate: /path/to/your/client.crt
+    #elasticsearch.ssl.key: /path/to/your/client.key
+    #elasticsearch.ssl.certificateAuthorities: [ "/path/to/your/CA.pem" ]
+    #elasticsearch.ssl.verificationMode: full
+    #elasticsearch.pingTimeout: 1500
+    #elasticsearch.requestTimeout: 30000
+    #elasticsearch.requestHeadersWhitelist: [ authorization ]
+    #elasticsearch.customHeaders: {}
+    #elasticsearch.shardTimeout: 0
+    #elasticsearch.startupTimeout: 5000
+
+    kibana.index: ".kibana"
+    kibana.defaultAppId: "discover"
+
+    #server.ssl.enabled: false
+    #server.ssl.certificate: /path/to/your/server.crt
+    #server.ssl.key: /path/to/your/server.key
+
+    xpack.security.enabled: false
+    #xpack.security.encryptionKey: "something_at_least_32_characters"
+    #xpack.security.sessionTimeout: 600000

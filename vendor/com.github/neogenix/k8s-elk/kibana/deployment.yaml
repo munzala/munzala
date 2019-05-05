@@ -1,0 +1,62 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: kibana
+  namespace: default
+  labels:
+    application: logging
+    component: kibana
+spec:
+  revisionHistoryLimit: 2
+  selector:
+    matchLabels:
+      component: kibana
+  template:
+    metadata:
+      labels:
+        application: logging
+        component: kibana
+    spec:
+      containers:
+      - name: kibana
+        imagePullPolicy: IfNotPresent
+        image: docker.elastic.co/kibana/kibana:6.2.3
+        resources:
+          requests:
+            memory: 2Gi
+            cpu: 1
+          limits:
+            memory: 4Gi
+            cpu: 1
+        env:
+        - name: NODE_NAME
+          valueFrom:
+            fieldRef:
+              fieldPath: metadata.name
+        - name: SERVER_NAME
+          value: "kibana.test.com"
+        - name: ELASTICSEARCH_URL
+          value: "http://es-ingest:9200"
+        ports:
+        - containerPort: 5601
+          name: http
+          protocol: TCP
+        readinessProbe:
+          tcpSocket:
+            port: http
+          initialDelaySeconds: 5
+          periodSeconds: 10
+        livenessProbe:
+          tcpSocket:
+            port: http
+          initialDelaySeconds: 15
+          periodSeconds: 20
+        volumeMounts:
+        - name: config
+          mountPath: /usr/share/kibana/config/kibana.yml
+          subPath: kibana.yml
+      volumes:
+      - name: config
+        configMap:
+          name: kibana-config
+      restartPolicy: Always
