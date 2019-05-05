@@ -52,7 +52,7 @@ for t in $all_osht_tests; do
   echo "[INFO]: running tests in file: ${t}"
   (
     export OSHT_JUNIT_OUTPUT="${t}-tests.xml"
-    source "$(nix-build --no-out-link -A tools.osht ${DADE_REPO_ROOT}/nix)/bin/osht"
+    source "$(nix-build --no-out-link -A tools.osht ${DE_REPO_ROOT}/nix)/bin/osht"
     source "${t}"
   )
 done

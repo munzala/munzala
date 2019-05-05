@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 BIN_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
-source "$BIN_DIR/../lib/dade-common"
+source "$BIN_DIR/../lib/de-common"
 
 set -Eeuo pipefail
 

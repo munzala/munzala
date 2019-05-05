@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+
+DE_CURRENT_SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+source "$DE_CURRENT_SCRIPT_DIR/../lib/de-common"
+DE_CURRENT_SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+
+if [ $# -lt 1 ]; then
+   "$DE_CURRENT_SCRIPT_DIR"/de-help
+else
+  cmd="$1"
+  exe="${DE_CURRENT_SCRIPT_DIR}/de-${cmd}"
+  if [ -x "$exe" ]; then
+      shift
+      DE_CURRENT_COMMAND="dade-${cmd}" exec "$exe" "$@"
+  else
+      echo "Unrecognized command ${cmd}, executable ${exe}."
+      exit 1
+  fi
+fi

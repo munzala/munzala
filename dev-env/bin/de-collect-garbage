@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+DE_CURRENT_SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+source "$DE_CURRENT_SCRIPT_DIR/../lib/de-common"
+nix-store --gc

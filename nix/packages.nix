@@ -207,7 +207,7 @@ in rec {
         '';
 
     bazel = pkgs.writeScriptBin "bazel" (''
-      if [ -z "''${DADE_REPO_ROOT:-}" ]; then
+      if [ -z "''${DE_REPO_ROOT:-}" ]; then
           >&2 echo "Please run bazel inside of the dev-env"
           exit 1
       fi
@@ -247,7 +247,7 @@ in rec {
     semver = pkgs.callPackage ./tools/semver-tool {};
     osht = pkgs.callPackage ./tools/osht {};
     bats = pkgs.callPackage ./tools/bats {};
-    dade-test-sh = pkgs.callPackage ./tools/dade-test-sh {};
+    dade-test-sh = pkgs.callPackage ./tools/de-test-sh {};
 
     undmg = pkgs.undmg;
     jfrog = pkgs.callPackage ./tools/jfrog-cli {};

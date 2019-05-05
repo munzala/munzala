@@ -33,7 +33,7 @@ ci-release scan type arguments:
 HUB_DETECT_REPO_PATH="BlackDuckSoftware-cache/5.0.0/hub-detect-5.0.0.jar"
 
 # The local directory for the Hub Direct JAR
-HUB_DETECT_JAR_PATH="${DADE_VAR_DIR}/lib"
+HUB_DETECT_JAR_PATH="${DE_VAR_DIR}/lib"
 
 # If you want to pass any java options to the invocation, specify this variable.
 # For example to specify a 6 gigabyte heap size, you would set

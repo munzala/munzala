@@ -45,7 +45,7 @@ Used by:
 
 Tested by:
 - https://github.com/DACH-NY/da/pipeline/jenkins/src/jobs/pipeline/dev-env/dadeRawPreload.Jenkinsjob
-- http://ci.da-int.net/job/pipeline/job/dev-env/job/dade-raw-preload/
+- http://ci.da-int.net/job/pipeline/job/dev-env/job/de-raw-preload/
 
 Implementation sketch:
 - finds out the Nix store owner;

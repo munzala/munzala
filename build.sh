@@ -5,7 +5,7 @@
 
 set -euxo pipefail
 
-eval "$($(dirname "$0")/dev-env/bin/dade-assist)"
+eval "$($(dirname "$0")/dev-env/bin/de-assist)"
 
 execution_log_postfix=${1:-}
 
@@ -26,6 +26,3 @@ ARTIFACT_DIRS="${BUILD_ARTIFACTSTAGINGDIRECTORY:-$PWD}"
 bazel test -j 200 //... --experimental_execution_log_file "$ARTIFACT_DIRS/test_execution${execution_log_postfix}.log"
 # Make sure that Bazel query works.
 bazel query 'deps(//...)' > /dev/null
-# Check that we can load damlc in ghci
-da-ghci damlc -e '()'
-
