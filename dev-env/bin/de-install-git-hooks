@@ -2,7 +2,7 @@
 
 set -Eeuo pipefail
 
-HOOK_NAMES=(pre-push)
+HOOK_NAMES=(pre-commit pre-push)
 
 TOP_DIR=$(git rev-parse --show-toplevel)
 HOOK_DIR=$TOP_DIR/.git/hooks
