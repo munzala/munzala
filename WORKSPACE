@@ -62,3 +62,32 @@ load(
 )
 
 haskell_register_ghc_bindists(version = "8.6.3")
+
+
+
+load("@bazel_tools//tools/build_defs/repo:git.bzl", "git_repository")
+
+git_repository(
+    name = "io_bazel_rules_docker",
+    commit = "f737dd01fa2255feb84c87adf442e2d32824f420",
+    shallow_since = "1556732024 -0400",
+    remote = "https://github.com/bazelbuild/rules_docker.git",
+)
+
+load(
+    "@io_bazel_rules_docker//repositories:repositories.bzl",
+    container_repositories = "repositories",
+)
+container_repositories()
+
+# This requires rules_docker to be fully instantiated before
+# it is pulled in.
+git_repository(
+    name = "io_bazel_rules_k8s",
+    commit = "94e92d11da6fa178d035cedf9041bae9a104b948",
+    remote = "https://github.com/bazelbuild/rules_k8s.git",
+)
+
+load("@io_bazel_rules_k8s//k8s:k8s.bzl", "k8s_repositories")
+
+k8s_repositories()
