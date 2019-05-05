@@ -62,6 +62,7 @@ filetypes = \
     'css'    : { 'start' : '/*'     , 'line' : ''     , 'end' : ' */' } ,
     'scss'   : { 'start' : '/*'     , 'line' : ''     , 'end' : ' */' } ,
     'nix'     : { 'start' : '#' * 80 , 'line' : '#'    , 'end' : ''    , 'empty_line' : '' },
+    'yaml'    : { 'start' : '#' * 80 , 'line' : '#'    , 'end' : ''    , 'empty_line' : '' },
     'yml'     : { 'start' : '#' * 80 , 'line' : '#'    , 'end' : ''    , 'empty_line' : '' } 
   }
 
