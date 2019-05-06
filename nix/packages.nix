@@ -175,13 +175,7 @@ in rec {
 
     sphinx183 = bazel_dependencies.sphinx183;
 
-    texlive   = bazel_dependencies.texlive;
-    bibtex    = bazel_dependencies.texlive;
-    latexmk   = bazel_dependencies.texlive;
-    makeindex = bazel_dependencies.texlive;
-    pdflatex  = bazel_dependencies.texlive;
-    lualatex  = bazel_dependencies.texlive;
-
+   
     convert = bazel_dependencies.imagemagick;
 
     # The sass derivation in nixos-18.09 is broken, so we add our own
@@ -253,7 +247,6 @@ in rec {
     de-test-sh = pkgs.callPackage ./tools/de-test-sh {};
 
     undmg = pkgs.undmg;
-    jfrog = pkgs.callPackage ./tools/jfrog-cli {};
 
     # Cloud tools
     gcloud = pkgs.google-cloud-sdk;

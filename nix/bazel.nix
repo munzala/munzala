@@ -49,48 +49,7 @@ rec {
     inherit pkgs;
     pythonPackages = pkgs.python36Packages;
   };
-
-  # Custom combination of latex packages for our latex needs
-  texlive = pkgs.texlive.combine {
-    inherit (pkgs.texlive)
-      bera
-      capt-of
-      collection-fontsrecommended
-      collection-luatex
-      datetime
-      enumitem
-      environ
-      epigraph
-      eqparbox
-      eulervm
-      fancyhdr
-      fmtcount
-      fncychap
-      footmisc
-      footnotebackref
-      framed
-      latexmk
-      lipsum
-      mathpartir
-      mathpazo
-      mnsymbol
-      multirow
-      needspace
-      palatino
-      scheme-small
-      tabulary
-      threeparttable
-      tikzsymbols
-      titlesec
-      tocbibind
-      todonotes
-      trimspaces
-      varwidth
-      wrapfig
-      xargs
-    ;
-  };
-
+  
   bazel-cc-toolchain = pkgs.callPackage ./tools/bazel-cc-toolchain {};
 } // (if pkgs.stdenv.isLinux then {
   inherit (pkgs)
