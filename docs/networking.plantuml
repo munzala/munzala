@@ -35,17 +35,19 @@ Rel(developer, github, "ships software to")
 Rel_Neighbor(azureDevOps, github, "netrieves source code")
 Rel_Back_Neighbor(azureDevOps, github, "notifies on source code changes")
 
-Enterprise_Boundary(e1, "hq resource group") {
+Enterprise_Boundary(hqrg, "hq resource group") {
     AzureContainerRegistry(dockerRegistry, "docker registry", "restricted", "geo-replicated")
     Rel(azureDevOps, dockerRegistry, "publishes images to")
 
-    System_Boundary(sb1, "kubernetes cluster") {
+    System_Boundary(hqk8, "kubernetes cluster") {
         AzureKubernetesService(k8hq, "hq", "restricted")
         Rel(k8hq, dockerRegistry, "retrieves images from")
         Container(nixCache, "nixcache", "container")
         Container(bazelCache, "bazelcache", "container")
         Container(memeGen, "memegen", "container")
-        Container(ntpDC, "ntp", "container")
+        Container(hqprometheus, "prometheus", "container")
+        Rel(hqprometheus, pagerduty, "raises alerts to")
+
         Rel(developer, nixCache, "reads from")
         Rel(developer, bazelCache, "reads from")
         Rel(azureDevOps, nixCache, "reads from and publishes to")
@@ -59,11 +61,14 @@ Enterprise_Boundary(e1, "hq resource group") {
 
 }
 
-Enterprise_Boundary(e2, "data center resource group") {
+Enterprise_Boundary(dcrg, "data center resource group") {
 
-    System_Boundary(restrictedBoundary, "restricted") {
+    System_Boundary(dcrestrictedboundary, "restricted") {
         AzureEventHub(kafkadc, "test", "test")
-        Container(ntpDC, "ntp", "container")
+        Container(dcprometheus, "prometheus", "container")
+        Rel(hqprometheus,dcprometheus, "pulls telemetry from")
+        Rel(dcprometheus, pagerduty, "raises alerts to")
+                
         AzureKubernetesService(k8restricted, "restricted", "restricted")
         Rel(k8restricted, dockerRegistry, "retrieves images from")
         Container(logstash, "logstash", "container")
