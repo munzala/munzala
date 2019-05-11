@@ -4,9 +4,9 @@
 @startuml LAYOUT_LEFT_RIGHT
 !pragma revision 1
 
-!include ../vendor/com.github/ricardoniepel/c4-plantuml/C4_Container.puml
-!include ../vendor/com.github/ricardoniepel/c4-plantuml/C4_Component.puml
-!define AzurePuml ../vendor/com.github/ricardoniepel/azure-plantuml/dist
+!include ../vendor/github.com/ricardoniepel/c4-plantuml/C4_Container.puml
+!include ../vendor/github.com/ricardoniepel/c4-plantuml/C4_Component.puml
+!define AzurePuml ../vendor/github.com/ricardoniepel/azure-plantuml/dist
 
 !include AzurePuml/AzureCommon.puml
 !include AzurePuml/AzureC4Integration.puml
