@@ -24,3 +24,7 @@ $ nix copy --to http://localhost:3000?secret-key=$PWD/cache.key nixpkgs.hello
 ## TODO
 
 * Section that explains how to setup GCS with the LB CDN.
+
+<!-- Copyright (c) 2019 Geoffrey Huntley. All rights reserved. -->
+<!-- SPDX-License-Identifier: AGPL-3.0 -->
+

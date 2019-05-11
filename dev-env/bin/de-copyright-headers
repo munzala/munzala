@@ -65,7 +65,8 @@ filetypes = \
     'yml'      : { 'start' : '#' * 80 , 'line' : '#'    , 'end' : ''    , 'empty_line' : '' }, 
     'yaml'     : { 'start' : '#' * 80 , 'line' : '#'    , 'end' : ''    , 'empty_line' : '' },
     'puml'     : { 'start' : '\'' * 80 , 'line' : '\''  , 'end' : ''    , 'empty_line' : '' },
-    'plantuml' : { 'start' : '\'' * 80 , 'line' : '\''  , 'end' : ''    , 'empty_line' : '' }
+    'plantuml' : { 'start' : '\'' * 80 , 'line' : '\''  , 'end' : ''    , 'empty_line' : '' },
+    'md'       : { 'start' : '<!--'    , 'line' : ''    , 'end' : '-->' , 'skip' : '' } ,
   }
 
 #########################

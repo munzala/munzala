@@ -32,3 +32,7 @@ The Current production [terraform version](https://github.com/FitnessKeeper/terr
 We are trying to follow a pattern where we have an infrastructure repo with 3 tiers - dev, stage, and production, known as FitnessKeeper/terraform-runkeeper. We will use that control repo to build VPC, ECS Clusters, DNS Zones, and other resources that can be presented as a platform for use by services.  
 
   Services, will be created using atomic control repos, based off this skel, and have distinct state files for each of the tiers. In this way, we can make changes to the state of a service living atop our infrastructure, without having to push stage changes to the underlying resources.
+
+<!-- Copyright (c) 2019 Geoffrey Huntley. All rights reserved. -->
+<!-- SPDX-License-Identifier: AGPL-3.0 -->
+

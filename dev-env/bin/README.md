@@ -66,3 +66,7 @@ executable.  However, having that script gives us an opportunity to wrap some
 of those commands in special ways; this section is meant to document in what
 ways the commands available in `dev-env/bin` have been modified from their
 vanilla variants.
+
+<!-- Copyright (c) 2019 Geoffrey Huntley. All rights reserved. -->
+<!-- SPDX-License-Identifier: AGPL-3.0 -->
+
