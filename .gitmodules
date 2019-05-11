@@ -1,0 +1,6 @@
+[submodule "vendor/com.github/ricardoniepel/azure-plantuml"]
+	path = vendor/com.github/ricardoniepel/azure-plantuml
+	url = git@github.com:RicardoNiepel/Azure-PlantUML.git
+[submodule "vendor/com.github/ricardoniepel/c4-plantuml"]
+	path = vendor/com.github/ricardoniepel/c4-plantuml
+	url = git@github.com:RicardoNiepel/C4-PlantUML.git
