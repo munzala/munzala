@@ -1,0 +1,145 @@
+' Copyright (c) 2019 Geoffrey Huntley. All rights reserved.
+' SPDX-License-Identifier: AGPL-3.0
+
+@startuml LAYOUT_LEFT_RIGHT
+!pragma revision 1
+
+!include ../vendor/com.github/ricardoniepel/c4-plantuml/C4_Container.puml
+!include ../vendor/com.github/ricardoniepel/c4-plantuml/C4_Component.puml
+!define AzurePuml ../vendor/com.github/ricardoniepel/azure-plantuml/dist
+
+!include AzurePuml/AzureCommon.puml
+!include AzurePuml/AzureC4Integration.puml
+!include AzurePuml/Containers/AzureContainerRegistry.puml
+!include AzurePuml/Containers/AzureKubernetesService.puml
+!include AzurePuml/Compute/AzureVirtualMachine.puml
+!include AzurePuml/Analytics/AzureEventHub.puml
+!include AzurePuml/Web/AzureWebApp.puml
+!include AzurePuml/Web/AzureCDN.puml
+!include AzurePuml/Storage/AzureBlobStorage.puml
+!include AzurePuml/Storage/AzureQueueStorage.puml
+
+' LAYOUT_WITH_LEGEND
+
+System_Ext(pagerduty, "PagerDuty")
+System_Ext(github, "GitHub")
+System_Ext(azureDevOps, "Azure DevOps")
+
+Person(developer, "Developer")
+Rel(developer, azureDevOps, "diagnoses builds and releases software")
+Rel(developer, github, "ships software to")
+
+Rel_Neighbor(azureDevOps, github, "netrieves source code")
+Rel_Back_Neighbor(azureDevOps, github, "notifies on source code changes")
+
+Enterprise_Boundary(e1, "hq resource group") {
+    AzureContainerRegistry(dockerRegistry, "docker registry", "restricted", "geo-replicated")
+    Rel(azureDevOps, dockerRegistry, "publishes images to")
+
+    System_Boundary(sb1, "kubernetes cluster") {
+        AzureKubernetesService(k8hq, "hq", "restricted")
+        Rel(k8hq, dockerRegistry, "retrieves images from")
+        Container(nixCache, "nixcache", "container")
+        Container(bazelCache, "bazelcache", "container")
+        Container(memeGen, "memegen", "container")
+        Container(ntpDC, "ntp", "container")
+        Rel(developer, nixCache, "reads from")
+        Rel(developer, bazelCache, "reads from")
+        Rel(azureDevOps, nixCache, "reads from and publishes to")
+        Rel(azureDevOps, bazelCache, "reads from and publishes to")
+
+        Container(elasticsearch, "elastic search", "container")
+        Container(kibana, "kibana", "container")
+        Rel(kibana, elasticsearch, "reads from")
+
+    }
+
+}
+
+Enterprise_Boundary(e2, "data center resource group") {
+
+    System_Boundary(restrictedBoundary, "restricted") {
+        AzureEventHub(kafkadc, "test", "test")
+        Container(ntpDC, "ntp", "container")
+        AzureKubernetesService(k8restricted, "restricted", "restricted")
+        Rel(k8restricted, dockerRegistry, "retrieves images from")
+        Container(logstash, "logstash", "container")
+        Rel(logstash,kafkadc, "publishes telemetry to")
+        Rel(elasticsearch,kafkadc, "pulls telemetry from")
+    }
+
+    System_Boundary(dmzBoundary, "dmz") {
+        AzureKubernetesService(k8dmz, "dmz", "bootstrap")
+        Rel(k8dmz, dockerRegistry, "retrieves images from")
+        Rel(k8dmz,logstash, "publishes telemetry to")        
+        
+        Container(railgun, "railgun", "container")
+        Rel(railgun,logstash, "publishes telemetry to")
+        
+        Container(webhooks, "webhooks", "container")
+        Rel(webhooks,logstash, "publishes telemetry to")
+
+        Container(api, "api", "container")
+        Rel(api,logstash, "publishes telemetry to")
+
+        Container(www, "www", "container")
+        Rel(www,logstash, "publishes telemetry to")
+        Rel(www,api,"uses")
+    }
+
+    System_Boundary(confidentialBoundary, "confidential") {
+        AzureKubernetesService(k8confidential, "confidential", "confidential")
+        Rel(k8confidential, dockerRegistry, "retrieves images from")
+    }
+}
+
+
+
+
+' Person(user, "User")
+' Rel(user, k8public, "uses")
+
+
+
+
+' Container(spa, "Single-Page App", "Angular, JS")
+' AzureWebApp(webApp, "Web & API App", "ASP.NET Core MVC 2.1, C#", "Delivers the SPA and provides RESTful web APIs which are consumed from the SPA")
+' AzureCDN(cdn, "CDN", "Akamai S2", "caches publicly available content for lower latency and faster delivery of content")
+
+' AzureBlobStorage(staticBlobStorage, "Static Content", "General Purpose v2, Hot, LRS")
+
+' AzureQueueStorage(queue, "Queue", "General Purpose v2, LRS")
+' AzureSearch(search, "Search Index", "Standard S1", "provides search suggestions, fuzzy search, and language-specific search, consolidates a single search index from multiple data stores")
+' AzureRedisCache(redisCache, "Cache", "Standard C2")
+
+' AzureCosmosDb(cosmosDb, "Document DB", "SQL API, 400 RUs")
+' AzureSqlDatabase(sqlDb, "SQL DB", "Standard S3")
+
+' AzureWebApp(webJob, "Web Job", "WebJobs SDK v3, C#", "runs long-running tasks in the background")
+
+' Rel(user, spa, "Uses", "HTTPS")
+' Rel(user, webApp, "Uses", "HTTPS")
+' Rel(user, cdn, "Uses", "HTTPS")
+
+' Rel_Neighbor(spa, webApp, "Uses", "JSON, HTTPS")
+' Rel_Back_Neighbor(spa, webApp, "Delivers")
+
+' Rel_Neighbor(cdn, staticBlobStorage, "Reads from")
+
+' Rel(webApp, queue, "Puts background jobs into")
+' Rel(webApp, sqlDb, "Reads from and writes to", "ADO.NET")
+' Rel(webApp, cosmosDb, "Reads from and writes to", "SQL API")
+' Rel(webApp, redisCache, "Reads from and writes to")
+' Rel(webApp, search, "Reads from")
+
+' Rel_U(webJob, queue, "Gets next job from")
+' Rel_U(webJob, sqlDb, "Reads from and writes to", "ADO.NET")
+' Rel_U(webJob, cosmosDb, "Reads from and writes to", "SQL API")
+' Rel_U(webJob, redisCache, "Reads from and writes to")
+
+' Rel_Back_Neighbor(cosmosDb, search, "Builds index from")
+' Rel_Neighbor(search, sqlDb, "Builds index from")
+
+' Lay_D(search, webJob)
+
+@enduml

@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="667px" preserveAspectRatio="none" style="width:1383px;height:667px;" version="1.1" viewBox="0 0 1383 667" width="1383px" zoomAndPan="magnify"><defs/><g><!--entity github--><rect fill="#999999" height="38.625" style="stroke: #8A8A8A; stroke-width: 1.5;" width="79" x="995.5" y="203"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="59" x="1005.5" y="227.8516">GitHub</text><!--entity azureDevOps--><rect fill="#999999" height="38.625" style="stroke: #8A8A8A; stroke-width: 1.5;" width="146" x="674" y="203"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="126" x="684" y="227.8516">Azure DevOps</text><!--entity dockerRegistry--><rect fill="#FFFFFF" height="126.5625" style="stroke: #3C7FC0; stroke-width: 1.5;" width="180" x="340" y="383"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="160" x="350" y="404.1387">«AzureContainerRegistry»</text><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="138" x="361" y="421.8203">docker registry</text><image height="60" width="70" x="395" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAAA8CAIAAABU9Vt0AAAEiElEQVR4Xu2aPW4bMRCFdcm9gq6gK+gKKtM6bToDadO4SJsAKoIgRYDESBEEKQLIT3zWaDQz/NVKggMPXmFxl1x+5MyQ3PVid549fP199/HH+v235dstNL35xD9QsvnwHVdthcvbwha02eOff+gxGaoC3vbnX9vExawbCTDoou93Vat3X64D1od0//mX72uX4KW20bmtAwme5rs4IEyXbXpWa0Uac7acQAUHts+YyZqQ5uWhOFcAgzNj/vEIlEBMlSgcZq4jwft9h2ZRNWGCcGAZqCAhR/knXVm9YBUkNOefcRO1p8oSEsbGNz0sBowvbxeq2y5GVkKaa4rQFYl15oPhlluoskh4tm+xV4UdA9qHL1UzhFfVA7NIZyY69BWzYRuNDMy9bLlhomWRzvF7P5DoBGYM/S5sz1He+NDy/iOL1DVsIvTYLJGA8R1F48DODXYLW67uroDkWynLnyB4APF3amG8wRZuFBhsuUSClm2Fg8VIXbkhXAoRSF3zjEZysRcGG37a+w52LpJv2sP4FQm9zKVy3OkHiIZa+twZzu0uROo65Gkk5gB9VVYk44F6mQq9q5pIClctUu+OQSPpchNaOSTpVuhdbD8XbDk7QRo4tHokCS3mOl4KkcS9cZsEkvEuEYOthe2INMAzOSRhENflzzISZRJmjk3zh/aMtB09RBgkya1yA3+2I9H9dKgU2MJwekbyAdqoSyBJidmFhEsw+fUM75F6U4LWFZCYSPVuI8fGRLJHGp6i6VpIUiKxSkNQebbFcBRRt0JikpB29Pq+0E0M6FZIUiK7cpmuhZ+4Lt0caTo84ojkk2OXqki5UMadxkFeDFK7uIDOgKSvDShE8vHJDHufXqwWEuzy8JGKGkSad5Z8a+FpanfYp67TtzbfrNTlQEhJE1JhzFpkkLTMol4w5IkH9TXRP0Uk+U0XsuSIZHJRrzwSfUwKxTDYKEfXme4KxnWm4KIm37DWEWlsAy7SSOtoH7lNm05fC93dpC8U1ZncpiPwJtq5UhypI9LOOUyXNJI2s6JXJYR+UIxVg3CP5EexXR7pIZ2i/Z1dWqZv8lVHlSDULrpHMqt4lzTSXXTSltv0T8yGREuuiqneQkgXfT4v+ZWkUT49aEl0hRsibegN7mzkLIfi8aCeSy9leaRl9HInRHpMr4cYPx4SJRx1Rk65e5rwiIQmymMTyiDJUsj0IMtIDkkXcrzv0xGIqCGnTGYuQ5y8IUKF8mB4GaSN2+PxZzuSDgGubyjXnsYGNS2dVnpu3+PtOr9ZXAdJSsQL+JNpgyUn65K39iXltkgUSypINAaDruz1wpBojEi0jm6Fkjunl4LUbtMr0itSCWmrvgP9D0hGMyOtDv/oIA/gpbmQuObqWvrSOm075kSSpUw/lZfGkNbpH9lyDJPa2rFB2pxIj9EndF5qQeKJowAwnZ4yTp6tbE4kmo7U6fCGKETSHlUQt/bhOSK0+ZFowChsqVa1E1F1Kgp2KSRa115xnT5GNE5FwS6LRNMRr7VKbx7D8985dg2kXcoE63Ri64qKMXsCQ7TS9xYfSvoAAAAASUVORK5CYII=" y="425.5938"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="138" x="361" y="496.7324">[registry.munzala.net]</text><!--entity k8public--><rect fill="#FFFFFF" height="136.5625" style="stroke: #3C7FC0; stroke-width: 1.5;" width="186" x="6" y="154"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="166" x="16" y="175.1387">«AzureKubernetesService»</text><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="51" x="73.5" y="192.8203">public</text><image height="70" width="70" x="64" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAABGCAIAAAD+THXTAAADz0lEQVR4Xu2ZP67TQBDGcyeukCv4CrlCrvA6WlLShpYuEi1NCkSBBJILhCiQwHoFQhRIy/fmk4fxrne93veKGM2nUZTY3tn57R9nxt6F/067+MD25UhbkCNtQY60BTnSqMun+9Pbb/wCG379ia+o1vXLz7s3X/Gl//H7/O77Y1xR65DY/f7Fh2fP3x9e9TiCILqXH2HH15/BFjfICwAYFLrCZxDn1lUzWxUSulcSdIlQQBIhqeFKBBe7GEUSXEYSXIzoIyS1tcNELSOxS3SA6PEdn0G6zyHRcBahA8C6wsDroOAUIubxHJJaeZgiVSEhFO4cLvdQgaRmqeAH3tCWB+uRaJUz5kiO1DlS2tyaI+XlSLE5Utzc2lMiIW6bWYZqJLQaTKqG7ziCJg1IuNiOTkHLSHCE6JmnIiBOVxkJp86ZnBqRaU5UgzSbWJW1jET1JnHmmM0i1SRjQGUrzVxnkWpczaoWSYVuONIW6diUMvdjgm+RCjNcqXkkxge/uXHSUwir3L16yLkKprvyAqu8bIKkw4ZJYMu21RwSVzB1VWCb1XWsO6PJzEX1gGT3iS5uRVIreFHRle4TLEi6ItIqV0rC3ZvbcugiWqg7dt9JhWdvQSlSwQvFG2MndzPuNAg/U6SyK/wkCfcV/z9C8cZIV1yZOzRA6PxRiaQW3RJAMsjdzLrqikhqbEX18u8H55zGSiS1HQepDYn/USq6akOyrtAv4nakf+ZIU3OkuHnOlSPF5khTu1GkkyQmbUhspTo93V/tRV6INCLtJR1EBFepGrRxASmX/+MUGuKsddUVkZjsRa4GSYj2km1ex1c1YQnpOL7veEhbGQFyKhhP5JDYh+0+UuqqyyAtukJbJo1kY1QhQUoz4ElxcZZXLAzIIjE4e+WiNCBbXKirdIZzGqYlcDBIuahmSsBeSp0wuqvvPlUvtQaRorFcK12B/dLLwhmkRWFsMELcLWcpScp9FMRAdfjTVdSgFUh2n/A2EKaPU3IrIZWS0FW6SR4zTMtIgzx8Y/fsjP8bKZJaYeufxpoXzWGckBTJslUOk2oZCR4RIpcZ13EYF0nIINHSGzS+H+RhIIHpMxSR1O6mTzkLqkLi5g4rkWh2Ywy38wDZkSbmSHFza46UlyPF5khxc2uOlNdFygTYIOVGPVKaFg1SYmiOU4+0Ki1aRgqmjtpL/dsXc7xDpualLpLF0xUuJnMO6dCUmFchUf30nU2KlE5LTsO0sEuRVk1LpBVIqqtUGVw2Z6mXmrvvxzdrYVzMhRmuVAvSjcuRtiBH2oIcaQtypC3oL7FxoyWFHb8tAAAAAElFTkSuQmCC" y="196.5938"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="71" x="63.5" y="277.7324">[bootstrap]</text><!--entity k8restricted--><rect fill="#FFFFFF" height="136.5625" style="stroke: #3C7FC0; stroke-width: 1.5;" width="186" x="448" y="154"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="166" x="458" y="175.1387">«AzureKubernetesService»</text><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="89" x="496.5" y="192.8203">restricted</text><image height="70" width="70" x="506" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAABGCAIAAAD+THXTAAADz0lEQVR4Xu2ZP67TQBDGcyeukCv4CrlCrvA6WlLShpYuEi1NCkSBBJILhCiQwHoFQhRIy/fmk4fxrne93veKGM2nUZTY3tn57R9nxt6F/067+MD25UhbkCNtQY60BTnSqMun+9Pbb/wCG379ia+o1vXLz7s3X/Gl//H7/O77Y1xR65DY/f7Fh2fP3x9e9TiCILqXH2HH15/BFjfICwAYFLrCZxDn1lUzWxUSulcSdIlQQBIhqeFKBBe7GEUSXEYSXIzoIyS1tcNELSOxS3SA6PEdn0G6zyHRcBahA8C6wsDroOAUIubxHJJaeZgiVSEhFO4cLvdQgaRmqeAH3tCWB+uRaJUz5kiO1DlS2tyaI+XlSLE5Utzc2lMiIW6bWYZqJLQaTKqG7ziCJg1IuNiOTkHLSHCE6JmnIiBOVxkJp86ZnBqRaU5UgzSbWJW1jET1JnHmmM0i1SRjQGUrzVxnkWpczaoWSYVuONIW6diUMvdjgm+RCjNcqXkkxge/uXHSUwir3L16yLkKprvyAqu8bIKkw4ZJYMu21RwSVzB1VWCb1XWsO6PJzEX1gGT3iS5uRVIreFHRle4TLEi6ItIqV0rC3ZvbcugiWqg7dt9JhWdvQSlSwQvFG2MndzPuNAg/U6SyK/wkCfcV/z9C8cZIV1yZOzRA6PxRiaQW3RJAMsjdzLrqikhqbEX18u8H55zGSiS1HQepDYn/USq6akOyrtAv4nakf+ZIU3OkuHnOlSPF5khTu1GkkyQmbUhspTo93V/tRV6INCLtJR1EBFepGrRxASmX/+MUGuKsddUVkZjsRa4GSYj2km1ex1c1YQnpOL7veEhbGQFyKhhP5JDYh+0+UuqqyyAtukJbJo1kY1QhQUoz4ElxcZZXLAzIIjE4e+WiNCBbXKirdIZzGqYlcDBIuahmSsBeSp0wuqvvPlUvtQaRorFcK12B/dLLwhmkRWFsMELcLWcpScp9FMRAdfjTVdSgFUh2n/A2EKaPU3IrIZWS0FW6SR4zTMtIgzx8Y/fsjP8bKZJaYeufxpoXzWGckBTJslUOk2oZCR4RIpcZ13EYF0nIINHSGzS+H+RhIIHpMxSR1O6mTzkLqkLi5g4rkWh2Ywy38wDZkSbmSHFza46UlyPF5khxc2uOlNdFygTYIOVGPVKaFg1SYmiOU4+0Ki1aRgqmjtpL/dsXc7xDpualLpLF0xUuJnMO6dCUmFchUf30nU2KlE5LTsO0sEuRVk1LpBVIqqtUGVw2Z6mXmrvvxzdrYVzMhRmuVAvSjcuRtiBH2oIcaQtypC3oL7FxoyWFHb8tAAAAAElFTkSuQmCC" y="196.5938"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="71" x="505.5" y="277.7324">[bootstrap]</text><!--entity k8confidential--><rect fill="#FFFFFF" height="136.5625" style="stroke: #3C7FC0; stroke-width: 1.5;" width="186" x="227" y="154"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="166" x="237" y="175.1387">«AzureKubernetesService»</text><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="102" x="269" y="192.8203">confidential</text><image height="70" width="70" x="285" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAABGCAIAAAD+THXTAAADz0lEQVR4Xu2ZP67TQBDGcyeukCv4CrlCrvA6WlLShpYuEi1NCkSBBJILhCiQwHoFQhRIy/fmk4fxrne93veKGM2nUZTY3tn57R9nxt6F/067+MD25UhbkCNtQY60BTnSqMun+9Pbb/wCG379ia+o1vXLz7s3X/Gl//H7/O77Y1xR65DY/f7Fh2fP3x9e9TiCILqXH2HH15/BFjfICwAYFLrCZxDn1lUzWxUSulcSdIlQQBIhqeFKBBe7GEUSXEYSXIzoIyS1tcNELSOxS3SA6PEdn0G6zyHRcBahA8C6wsDroOAUIubxHJJaeZgiVSEhFO4cLvdQgaRmqeAH3tCWB+uRaJUz5kiO1DlS2tyaI+XlSLE5Utzc2lMiIW6bWYZqJLQaTKqG7ziCJg1IuNiOTkHLSHCE6JmnIiBOVxkJp86ZnBqRaU5UgzSbWJW1jET1JnHmmM0i1SRjQGUrzVxnkWpczaoWSYVuONIW6diUMvdjgm+RCjNcqXkkxge/uXHSUwir3L16yLkKprvyAqu8bIKkw4ZJYMu21RwSVzB1VWCb1XWsO6PJzEX1gGT3iS5uRVIreFHRle4TLEi6ItIqV0rC3ZvbcugiWqg7dt9JhWdvQSlSwQvFG2MndzPuNAg/U6SyK/wkCfcV/z9C8cZIV1yZOzRA6PxRiaQW3RJAMsjdzLrqikhqbEX18u8H55zGSiS1HQepDYn/USq6akOyrtAv4nakf+ZIU3OkuHnOlSPF5khTu1GkkyQmbUhspTo93V/tRV6INCLtJR1EBFepGrRxASmX/+MUGuKsddUVkZjsRa4GSYj2km1ex1c1YQnpOL7veEhbGQFyKhhP5JDYh+0+UuqqyyAtukJbJo1kY1QhQUoz4ElxcZZXLAzIIjE4e+WiNCBbXKirdIZzGqYlcDBIuahmSsBeSp0wuqvvPlUvtQaRorFcK12B/dLLwhmkRWFsMELcLWcpScp9FMRAdfjTVdSgFUh2n/A2EKaPU3IrIZWS0FW6SR4zTMtIgzx8Y/fsjP8bKZJaYeufxpoXzWGckBTJslUOk2oZCR4RIpcZ13EYF0nIINHSGzS+H+RhIIHpMxSR1O6mTzkLqkLi5g4rkWh2Ywy38wDZkSbmSHFza46UlyPF5khxc2uOlNdFygTYIOVGPVKaFg1SYmiOU4+0Ki1aRgqmjtpL/dsXc7xDpualLpLF0xUuJnMO6dCUmFchUf30nU2KlE5LTsO0sEuRVk1LpBVIqqtUGVw2Z6mXmrvvxzdrYVzMhRmuVAvSjcuRtiBH2oIcaQtypC3oL7FxoyWFHb8tAAAAAElFTkSuQmCC" y="196.5938"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="71" x="284.5" y="277.7324">[bootstrap]</text><!--entity user--><rect fill="#08427B" height="38.625" style="stroke: #073B6F; stroke-width: 1.5;" width="61" x="68.5" y="8"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="41" x="78.5" y="32.8516">User</text><!--entity developer--><rect fill="#08427B" height="38.625" style="stroke: #073B6F; stroke-width: 1.5;" width="110" x="1013" y="8"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="90" x="1023" y="32.8516">Developer</text><!--entity nixCache--><rect fill="#FFFFFF" height="121.5625" style="stroke: #3C7FC0; stroke-width: 1.5;" width="161" x="823.5" y="385.5"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="141" x="833.5" y="406.6387">«AzureVirtualMachine»</text><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="77" x="865.5" y="424.3203">nixcache</text><image height="55" width="70" x="869" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAAA3CAIAAAA+Mqu3AAACOklEQVR4Xu2aPU7EMBCFc0lfIVfYK3CFlLRLS4dES0OxLUgpEKJAWiIKhCiQzGMesbIxyWaTCXgkj16R9frvw45nPGzhvd/u9uVF7c7v7Arz31w+1C8fwCnAE9cwKoA175+F9fXpCStUxKWmVd08Z6TklZEsKCNZkAIS3Bp6Uddsb1ktRKK39isYup1HtRQJYVWYgaLYJzqPRzwqHSRMIv5qiUiVkX7010gTXw8bSKh5+/iGylf3r0fBUkcCADD4xtNQf/yYThrp7PqpC9M13ECHqFJHgsK5HAybEG3xVdzEJY7kZTUwdYxEGH4kJ57jJi59pN6ybNqkB/HiJs4KEo31g2WkScpIkY4iYYDucddFAs/QpJNGcuJqt7t9F6kRVxvXDEodiWIMgfpTktU2kE5SRjqQDtJK9j9IeCtCKKBrI0HtuJYiURh7SEPL2Ei2ZETxKBOlgzSuPo0YQr64popWR8Lfu08jZhKJu46X81+tGr3YzpYyUimZym4ENNGa4bvTqdJHwszmSWsrKiOloIxkQRnJgjLSZNHPBk/KXFev0EkgPy/cHtFaSIxWQzIVnhSXWV7X69alVm2yUjeGWAsJwtRxM3dtWryUDARjC64MPawlJK5JKSkHrgxKyMkkhJcwzxISY3DmvivJBxGJMKBCeVjAuPlsrYjkoq1FJJZ7+V2jPaTeeRCQWL6RrP8qSLo9dlUe3rrDc/ygqO+fGA7938qocEkp6rm5mATFnVx4McDxeLUrnjqwLxeTbCkBdNIeAAAAAElFTkSuQmCC" y="428.0938"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="10" x="899" y="494.2324">[]</text><!--entity bazelCache--><rect fill="#FFFFFF" height="121.5625" style="stroke: #3C7FC0; stroke-width: 1.5;" width="161" x="1151.5" y="385.5"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="141" x="1161.5" y="406.6387">«AzureVirtualMachine»</text><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="97" x="1183.5" y="424.3203">bazelcache</text><image height="55" width="70" x="1197" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAAA3CAIAAAA+Mqu3AAACOklEQVR4Xu2aPU7EMBCFc0lfIVfYK3CFlLRLS4dES0OxLUgpEKJAWiIKhCiQzGMesbIxyWaTCXgkj16R9frvw45nPGzhvd/u9uVF7c7v7Arz31w+1C8fwCnAE9cwKoA175+F9fXpCStUxKWmVd08Z6TklZEsKCNZkAIS3Bp6Uddsb1ktRKK39isYup1HtRQJYVWYgaLYJzqPRzwqHSRMIv5qiUiVkX7010gTXw8bSKh5+/iGylf3r0fBUkcCADD4xtNQf/yYThrp7PqpC9M13ECHqFJHgsK5HAybEG3xVdzEJY7kZTUwdYxEGH4kJ57jJi59pN6ybNqkB/HiJs4KEo31g2WkScpIkY4iYYDucddFAs/QpJNGcuJqt7t9F6kRVxvXDEodiWIMgfpTktU2kE5SRjqQDtJK9j9IeCtCKKBrI0HtuJYiURh7SEPL2Ei2ZETxKBOlgzSuPo0YQr64popWR8Lfu08jZhKJu46X81+tGr3YzpYyUimZym4ENNGa4bvTqdJHwszmSWsrKiOloIxkQRnJgjLSZNHPBk/KXFev0EkgPy/cHtFaSIxWQzIVnhSXWV7X69alVm2yUjeGWAsJwtRxM3dtWryUDARjC64MPawlJK5JKSkHrgxKyMkkhJcwzxISY3DmvivJBxGJMKBCeVjAuPlsrYjkoq1FJJZ7+V2jPaTeeRCQWL6RrP8qSLo9dlUe3rrDc/ygqO+fGA7938qocEkp6rm5mATFnVx4McDxeLUrnjqwLxeTbCkBdNIeAAAAAElFTkSuQmCC" y="428.0938"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="10" x="1227" y="494.2324">[]</text><!--link azureDevOps to github--><path d="M790.4397,242.0278 C806.5308,248.2784 825.1477,254.3837 842.75,257.5 C871.1965,262.5361 944.8033,264.8178 972.75,257.5 C983.0574,254.801 993.4595,249.97 1002.7311,244.7424 " fill="none" id="azureDevOps-github" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="1007.1865,242.1519,997.3955,243.2179,1002.8641,244.6652,1001.4168,250.1338,1007.1865,242.1519" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="123" x="843.75" y="238.5669">Retrieves source</text><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="36" x="889.75" y="253.6997">code</text><!--link azureDevOps to github--><path d="M825.3188,222.5 C880.3352,222.5 951.6306,222.5 995.3056,222.5 " fill="none" id="azureDevOps-github" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="820.0469,222.5,829.0469,226.5,825.0469,222.5,829.0469,218.5,820.0469,222.5" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="134" x="838.25" y="200.5669">Notifies on source</text><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="103" x="856.25" y="215.6997">code changes</text><!--link azureDevOps to dockerRegistry--><path d="M736.5665,242.3217 C720.9193,270.3693 688.9067,321.7009 649,353 C612.5054,381.623 565.9377,403.1155 525.1347,418.2302 " fill="none" id="azureDevOps-dockerRegistry" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="520.1883,420.0419,530.015,420.7024,524.8833,418.3222,527.2635,413.1905,520.1883,420.0419" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="91" x="683" y="341.5669">Publishes to</text><!--link k8public to dockerRegistry--><path d="M147.9148,291.177 C165.9055,312.9966 187.6423,335.879 211,353 C248.1671,380.2432 294.4885,401.4887 334.9455,416.7946 " fill="none" id="k8public-dockerRegistry" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="339.8492,418.6317,332.8248,411.7283,335.1671,416.8774,330.0179,419.2197,339.8492,418.6317" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="128" x="212" y="341.5669">Retrieves images</text><!--link k8restricted to dockerRegistry--><path d="M521.4063,291.0635 C514.5021,311.489 505.9421,333.5895 496,353 C491.6819,361.4306 486.6832,369.9636 481.4073,378.2686 " fill="none" id="k8restricted-dockerRegistry" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="478.4503,382.8569,486.688,377.4587,481.1589,378.6541,479.9634,373.125,478.4503,382.8569" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="128" x="512" y="341.5669">Retrieves images</text><!--link k8confidential to dockerRegistry--><path d="M337.6254,291.1895 C344.0466,311.6193 352.1895,333.6907 362,353 C366.2958,361.4551 371.3224,369.9743 376.6636,378.2459 " fill="none" id="k8confidential-dockerRegistry" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="379.6606,382.8137,378.0677,373.0945,376.9177,378.6332,371.3789,377.4832,379.6606,382.8137" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="128" x="363" y="341.5669">Retrieves images</text><!--link user to k8public--><path d="M99,47.2708 C99,70.9885 99,112.1201 99,148.5744 " fill="none" id="user-k8public" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="99,153.9163,103,144.9163,99,148.9163,95,144.9163,99,153.9163" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="34" x="100" y="105.0669">uses</text><!--link developer to azureDevOps--><path d="M1012.9795,34.507 C954.7433,42.7761 867.5129,57.8554 840,77 C796.553,107.2321 768.7993,164.9697 755.7578,197.894 " fill="none" id="developer-azureDevOps" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="753.7909,202.957,760.7786,196.0164,755.6016,198.2964,753.3216,193.1193,753.7909,202.957" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="126" x="841" y="90.0669">diagnoses builds</text><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="95" x="856.5" y="105.1997">and releases</text><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="65" x="874" y="120.3325">software</text><!--link developer to github--><path d="M1019.3171,47.0006 C1006.9002,54.4504 995.0752,64.3021 988,77 C965.8328,116.7834 994.4858,168.5912 1015.7988,198.439 " fill="none" id="developer-github" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="1018.8832,202.6794,1016.8239,193.0482,1015.942,198.6359,1010.3543,197.7541,1018.8832,202.6794" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="129" x="989" y="105.0669">ships software to</text><!--link developer to nixCache--><path d="M1098.5572,47.1685 C1108.238,55.1447 1117.7736,65.2649 1123,77 C1172.9055,189.056 1190.5975,250.6394 1123,353 C1093.4311,397.7752 1037.551,421.1824 989.6401,433.3794 " fill="none" id="developer-nixCache" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="984.7334,434.5968,994.4318,436.3116,989.5862,433.3927,992.5052,428.5471,984.7334,434.5968" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="82" x="1168" y="227.0669">reads from</text><!--link developer to bazelCache--><path d="M1123.2194,46.1573 C1169.4609,65.1574 1232.0886,99.6433 1259,154 C1294.3231,225.347 1276.525,318.4492 1257.2578,380.2419 " fill="none" id="developer-bazelCache" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="1255.6306,385.3779,1262.1623,378.0065,1257.1409,380.6115,1254.536,375.5901,1255.6306,385.3779" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="82" x="1280" y="227.0669">reads from</text><!--link azureDevOps to nixCache--><path d="M759.8642,242.1328 C776.7839,267.8249 807.5857,314.1514 835,353 C841.5138,362.2307 848.4796,371.897 855.3879,381.3668 " fill="none" id="azureDevOps-nixCache" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="858.3436,385.4114,856.263,375.7848,855.3935,381.3745,849.8039,380.505,858.3436,385.4114" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="115" x="836" y="334.0669">reads from and</text><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="91" x="850.5" y="349.1997">publishes to</text><!--link azureDevOps to bazelCache--><path d="M789.6462,242.0939 C832.8468,261.9508 901.5874,293.5698 961,321 C1023.1449,349.6916 1093.2629,382.166 1146.6044,406.8917 " fill="none" id="azureDevOps-bazelCache" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="1151.3876,409.1089,1144.9045,401.6948,1146.8513,407.0061,1141.54,408.9529,1151.3876,409.1089" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="115" x="1028" y="334.0669">reads from and</text><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="91" x="1042.5" y="349.1997">publishes to</text><rect fill="#DDDDDD" height="128.0781" rx="5" ry="5" style="stroke: #000000; stroke-width: 1.0;" width="252" x="1120" y="528"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="0" x="1196" y="547.9951"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="39" x="1201" y="547.9951">Type</text><rect fill="#08427B" height="16.2969" style="stroke: none; stroke-width: 1.0;" width="70" x="1126" y="551.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1150" y="564.292"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="49" x="1200" y="564.292">person</text><rect fill="#686868" height="16.2969" style="stroke: none; stroke-width: 1.0;" width="70" x="1126" y="567.5938"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1150" y="580.5889"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="108" x="1200" y="580.5889">external person</text><rect fill="#1168BD" height="16.2969" style="stroke: none; stroke-width: 1.0;" width="70" x="1126" y="583.8906"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1138" y="596.8857"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="50" x="1200" y="596.8857">system</text><rect fill="#999999" height="16.2969" style="stroke: none; stroke-width: 1.0;" width="70" x="1126" y="600.1875"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1150" y="613.1826"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="109" x="1200" y="613.1826">external system</text><rect fill="#438DD5" height="16.2969" style="stroke: none; stroke-width: 1.0;" width="70" x="1126" y="616.4844"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1138" y="629.4795"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="65" x="1200" y="629.4795">container</text><rect fill="#FFFFFF" height="16.2969" style="stroke: none; stroke-width: 1.0;" width="70" x="1126" y="632.7813"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1154" y="645.7764"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="162" x="1200" y="645.7764">Azure service container</text><line style="stroke: #000000; stroke-width: 1.0;" x1="1126" x2="1366" y1="535" y2="535"/><line style="stroke: #000000; stroke-width: 1.0;" x1="1126" x2="1366" y1="551.2969" y2="551.2969"/><line style="stroke: #000000; stroke-width: 1.0;" x1="1126" x2="1366" y1="567.5938" y2="567.5938"/><line style="stroke: #000000; stroke-width: 1.0;" x1="1126" x2="1366" y1="583.8906" y2="583.8906"/><line style="stroke: #000000; stroke-width: 1.0;" x1="1126" x2="1366" y1="600.1875" y2="600.1875"/><line style="stroke: #000000; stroke-width: 1.0;" x1="1126" x2="1366" y1="616.4844" y2="616.4844"/><line style="stroke: #000000; stroke-width: 1.0;" x1="1126" x2="1366" y1="632.7813" y2="632.7813"/><line style="stroke: #000000; stroke-width: 1.0;" x1="1126" x2="1366" y1="649.0781" y2="649.0781"/><line style="stroke: #000000; stroke-width: 1.0;" x1="1126" x2="1126" y1="535" y2="649.0781"/><line style="stroke: #000000; stroke-width: 1.0;" x1="1196" x2="1196" y1="535" y2="649.0781"/><line style="stroke: #000000; stroke-width: 1.0;" x1="1366" x2="1366" y1="535" y2="649.0781"/><!--
+@startuml
+!pragma revision 1
+
+
+
+
+
+
+skinparam defaultTextAlignment center
+
+skinparam wrapWidth 200
+skinparam maxMessageSize 150
+
+skinparam rectangle {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam database {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam Arrow {
+    Color #666666
+    FontColor #666666
+    FontSize 12
+}
+
+skinparam rectangle<<boundary>> {
+    Shadowing false
+    StereotypeFontSize 0
+    FontColor #444444
+    BorderColor #444444
+    BorderStyle dashed
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+
+skinparam rectangle<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+
+skinparam rectangle<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+
+skinparam rectangle<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+
+skinparam database<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+
+skinparam database<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+
+skinparam database<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam defaultTextAlignment center
+
+skinparam wrapWidth 200
+skinparam maxMessageSize 150
+
+skinparam rectangle {
+    StereotypeFontSize 12
+}
+
+skinparam Arrow {
+    Color #666666
+    FontColor #666666
+    FontSize 12
+}
+
+
+
+
+
+
+
+
+
+
+
+sprite $AzureContainerRegistry [70x60/16z] {
+rPP9mkCe34OHQBx_VRkh24hm82VOgtghVtmM7vASSaOZCNCpuLPk0cm-8VMEGtoFBdlGpw0r2VivkY8Hpr1uA8bg05bKXV5QI7w5JSQMIwh_JkvHJrYvjkOP
+V9gNB9KYK0gW_gO1xwHz2sJveQulo70J_rvK3nP94wngt28ykUveypqCtI6lggXEehGO3pOB0NXwCa54fF6Wot2Zgt1NeU8s8hkqM3ZUtLBZhgM5YCqTijqK
+bggZM_gXu7EGAMjkMT-69S9vMzhdhetWwu8BYxPIvMq1Ty5-a14HN4h28hs99ajSROW4BpP2MBWKFrh8k4sY5XPTiqHFDnbPrqXssLALQXT5rdhB4fi1NwBg
+3oo2K03DdPvONdCjxlBGujrYNooH8DC3omvCB7vXeN6HoEe3iyLQRFF-gYJssLUuisXg-GlNCW5jKhbE5iujHgM3r61IVSudRmjcbZ5ezVKOKyQfheeSHL4J
+zv9OEh1RlChOtOUe2gUMndw62JMOejA_5aWiPFC75qHMorGLIw5pIwpyc82_r1QoOrXwQebb7nOW74-7YYJgmL21PNiNKFVJY48uP0qvuktVw_9CcpAM0lsK
+wbuwSdSpMBmfEcYFzai9K1zReeDui6n9-3SjLPzQWjoYzTfY-fdCr6BkcbY4THeYA1S0knyiYBfP3kKhFJRNDYpL9onMmYyqyu6Q1r720hlvaYXX5OfgOaNU
+0-Hx2ly3
+}
+
+skinparam rectangle<<AzureContainerRegistry>> {
+    BackgroundColor #FFFFFF
+    BorderColor #3C7FC0
+}
+sprite $AzureKubernetesService [70x70/16z] {
+xPQ7qXiX38HLGHAy__F6cfp6vioazx1_jHT_LtTFy0Vew4WQYE36u0wa6sEtSam7ZJ1P3MfZ3k0qFWEY1oAQ9YNL-Oc8ERea9MNo2OYCK57WeaHuepJmmIO3
+A4fjOK_11bIKKc9GcA0e9VaHb4Cv5Erlb8v9wVf6COAzoAVtzaBnIh3DQ4MfPEnLmGrBoYqgg1d7f9JnQR7Df9Xi0fyK_rJ3261j0Ha8dzJyVYuYsBweNa6g
+exqR-33ulSm6S7sYIgmFf3fjIpNPGBmPYPXH9yaK0I1cg05SbEljbCze3X28gu5ZklRNosu2dGIAijnG3HNiefGK04Y5e2WbnNTAIuhUA6KG_yUKGsbVVTV9
+XZA6yKAfwCTmNYZUhWICphS4O1RAD4dAsa2NaPIR8Lu3n19JzJcHDXE5f87lCmjgr32p5WcWuhP34Hjz_M0bPg2sMS1PAP_gxULSZ8_jRN93pAotgsS-8SmE
+C-Aah6UqnNGdICfdHpBfjZxLwkgYTxu_rJgUcU7FeHoAEowKoW26oKBvP0RKvtZ9aIiMt-O8BaerqwT6iifqvtilLQO5FY_EVjcjfEmNLuG_GaT77m
+}
+
+skinparam rectangle<<AzureKubernetesService>> {
+    BackgroundColor #FFFFFF
+    BorderColor #3C7FC0
+}
+sprite $AzureVirtualMachine [70x55/16z] {
+xTPLUiKm34JXaM9Pcjd_ViiC5woKUxuy_o4JWkh5SeJwqQWT2ktH_A7Aly9v89weq70WusbA0VPkG9sgcDxDlbRX3afj66mg701WanqbSPUpewJXkgsoeS1p
+0fvftb1k7wCSQ2f00Rz7cNQdU3KKCO22pUuCuAZW5y_fldAeKnKw3kGyJP5uN-4suqCh-n5ksrgx6dTGM1lkcbnIQ8ONcP-l-Eksttdo-5TObB9Ob5Irg1HI
+iWYuD06kAVAX1CEivBwi13XSuMCKvh92f4s55uRbidBx7k5oH4C9kAwLG1rKg4EHbCYxwzqYjKERK-qIm3QQEN09
+}
+
+skinparam rectangle<<AzureVirtualMachine>> {
+    BackgroundColor #FFFFFF
+    BorderColor #3C7FC0
+}
+sprite $AzureWebApp [70x70/16z] {
+dLY9WeIe3ZG9kVp__trlLrgBbc0xcxcHBYgLWqnlQoDHyyZCZ71jlFtTH6E_MNgZlq2mvbwRosiCtnyizGq6ZHWPRcRcaUDY-ma2NyA41d1Mm0S_EnCNYIns
+jaln9xVQXqZ4lq1K7MCddMMuFZjIjjW1iz0-5ruvoD91AXQfb0ymFZxJdXsFOKnPWC1TBs5Oshycjc3JrmqBULkWvaFIH5RAjJl8nZc4bAQIY48vxcjKYDYs
+JMAVBQPpj-Zh5R_Ks4lhodM54P7Syrh0ScJcHCEq2RDzIyDPesns87p1XEBq-FB9Ju9rtG0cbMOrF-7cuun_LQ0fXG1JTIWzbWSgebqg60L2aL5tEP2XO_E1
+gxT00oQ0CONHBbfo_F09f0kMYMoVoIH-EM1p0ZbWObt2UYPcp_F-Kowci21TTmBg-lOof4-aV0PHPB4i-adsr0deJTAamPsKmS6KXRv2L-5wJs3Ow0MlOFhh
+8KShwfPksREtCaf-A4T8eT6yQ8Qj5COGu7m0GIysjiWm_bhrBcxXKLRN5SmWRqzmhnqgf8mPHiwWMA_ikrcP7h3k59yeMeSeVg3OY8AYV1PcSZl-AmhDpu7o
+tgEzv88OqIjrvo09yWKRfXZ0xeoJhnMz79JQePeC1ZmxVi6fTXDNAXIAiGDQXmr2YJ4GqA3guIvT-gd1NQ6yIg2jEyDwgChEmYzX7AEwmwj7itxHK6SWo4id
+6ky0Nz91cSVPnP4mWiaNWM2H2WqtI7U4paWds6BGoAEVBKTAEk6i62jR_amWnai-WxPDqIL_A0bGaV7AlarOK0T65PKOivgZt2Wv-dJJECPpPHYO9j8wptJC
+HCJI35I-hyLyGYb7NeQC7Q6C0rS086zLsx2dNf3ps1npoB94uSG59Sqy4f39nOa9b3bCAL20kBZy8OtNDUVXIdElqXLnBM7glRP-5FGJH9UH0CtyGOS3_NGD
+yzpXs7_lqVBV1fZuguxCkNwRH2nVlsEXYUnq5MOYPcaMM7VWBuriVxIGxPMHvWeYZLz1G0COjDh-QlobHRe-UF9_
+}
+
+skinparam rectangle<<AzureWebApp>> {
+    BackgroundColor #FFFFFF
+    BorderColor #3C7FC0
+}
+sprite $AzureCDN [70x32/16z] {
+hTC5SkWm40DGBHYa-z_tOtcTrCxq3PfHs6Sv9iNPq_1KJBqRZYTywhDXMB51BGq0MTiOM9XQcm2QLXA5QOrM9hcRXbfgGEW2wnrdEKhBY0ICkZ9HUEiVDCEB
+hck93OPFMwc8RtYRaZY6xWJksD2MZXjExU6JIIh35QDEP-ai9-tQv-lVu33gT2-itp6rZoNAJmuqy4-mf6zetymm0B3MFmfWwWWxLeOE3InqdMgeKgU8odJi
+PuvKKZ1BZZRKjGDmFhWNbghW-HlD-lm-Z_-BSr4RdRiXm7-Mdpd-CTzW0F0R
+}
+
+skinparam rectangle<<AzureCDN>> {
+    BackgroundColor #FFFFFF
+    BorderColor #3C7FC0
+}
+sprite $AzureBlobStorage [70x59/16z] {
+fPVTZiOW24H7L8Hv__VT7zF4PXNRRpttFJ5CIGRynVb8mHELptZ2dkHyWM9Fuoi4EpBVOTXXV4b6JE5R737ErrH4A2zEqXP-GZj9UI1FANl4b7OysYO8oFwq
+JZMOVgpnpG8PWA9B_ceq7cs9_-0Uv5qZOSePYQ6bQ-AqRMqnwzzuQ_vhcJHvMg3POeAkrslwc3G-fJnP3EWM0ve2piMcr6c19aksz6ifgAH0gRzKG9Vh99mi
+5x-MBc15kTo0BjDkBomQM2XZWGuiDbBUMZAq3sTjOHaBjBDKP7f22onzmCaZYvK2vE86Y40OMAWzvT0Y7MSJfEoXXG9XO9c8BGrsQEdaodEB9tXiyLRL-Kjh
+lh4Ke8GMb-l7DW5QO1bR6rWAn1H21xQM300IMHAKJ70l9XjBGqVN5kyFAFtxZSNJr9zcItsoL5oKWxVuilmC2xj5O5jB6PQyj0WA3OaxYmLrOLWK443f8e28
+hImI5DHXeKeI9JrtLXQDolARFGeBbGyBkAFTB3MibtNVubq0ZtkGtLwP9EIUQDvqGqlO8hxhXsDcDKj83aOxfNtMcoi_mKzlYKuvksj6okVjMz0v6x1YWvvS
+90C_I7bGFXljKTeP3yY_3gnl
+}
+
+skinparam rectangle<<AzureBlobStorage>> {
+    BackgroundColor #FFFFFF
+    BorderColor #3C7FC0
+}
+sprite $AzureQueueStorage [70x60/16z] {
+fPO7bkmW30IRBEd-z_s1VYClPXAhsZWEPMWiMxWpx2EQy85iNz3n0R5lo7XBjQyGl2EfVKV56xfzYKQZ9JqQBSd1QCd02zHEAC5eYOPMsMaWdmhel9oA7TD3
+qRvUxMQ_GABHaXgCrWFUemq6B6OzuP2YQy2DPN46wsuiqLOqFMCmpVApW0haV86INkMKpIqg6_foioRKgvpaiYJi22EyepCJcJ9cv1OWvGK0OrhoGcB55EH7
+mBfQbdYwMzhzEJTdoamp_rmMS0FH0hUWg6zkVl4s0nPaMoqj-V6IW5ffQSb7gHbeXHPDSv1LRfQXPHxFx8VHCZTpb2CX3QkqM9-3qdwtpDFxd4rMSyiyeQer
+RgPbPbBD17gpy78rCL2tS8QvS3Cj_2TJTRTmwcdOQc7QtEmM0SPSITajfgsghPR9jTblaCBRBcyMibiSjmn0hR8OVslXGei_62vBrnLQjiq5-gZg358lomuj
+E-hHFf27fM0Zgrd3HfahMHajoRISmI9gowWhoZYZ0pAZTP8Apkdt29ffguUC_SqXWLTZyEtOOaqGqM13HWfscf5Whwh1JegKQ5T7HZ1Qaa-RiN3tBNYD1gCb
+DHejaQC22WPSyPuUZ9Oa3KPBIlz8mvs_
+}
+
+skinparam rectangle<<AzureQueueStorage>> {
+    BackgroundColor #FFFFFF
+    BorderColor #3C7FC0
+}
+
+        hide <<person>> stereotype
+        hide <<external_system>> stereotype
+        hide <<system>> stereotype
+        hide <<external_system>> stereotype
+        hide <<container>> stereotype
+        legend right
+        |=              |= Type |
+        |<#08427B>      | person |
+        |<#686868>      | external person |
+        |<#1168BD>   | system |
+        |<#999999>      | external system |
+        |<#438DD5>   | container |
+        |<#FFFFFF>       | Azure service container |
+        endlegend
+
+rectangle "==GitHub" <<external_system>> as github
+rectangle "==Azure DevOps" <<external_system>> as azureDevOps
+azureDevOps -> github : "===Retrieves source code"
+azureDevOps <- github : "===Notifies on source code changes"
+
+rectangle "==docker registry\n<color:#0072C6><$AzureContainerRegistry></color>\n//<size:12>[registry.munzala.net]</size>//" <<AzureContainerRegistry>> as dockerRegistry
+azureDevOps - -> dockerRegistry : "===Publishes to"
+
+rectangle "==public\n<color:#0072C6><$AzureKubernetesService></color>\n//<size:12>[bootstrap]</size>//" <<AzureKubernetesService>> as k8public
+k8public - -> dockerRegistry : "===Retrieves images"
+
+rectangle "==restricted\n<color:#0072C6><$AzureKubernetesService></color>\n//<size:12>[bootstrap]</size>//" <<AzureKubernetesService>> as k8restricted
+k8restricted - -> dockerRegistry : "===Retrieves images"
+
+rectangle "==confidential\n<color:#0072C6><$AzureKubernetesService></color>\n//<size:12>[bootstrap]</size>//" <<AzureKubernetesService>> as k8confidential
+k8confidential - -> dockerRegistry : "===Retrieves images"
+
+
+rectangle "==User" <<person>> as user
+user - -> k8public : "===uses"
+
+rectangle "==Developer" <<person>> as developer
+developer - -> azureDevOps : "===diagnoses builds and releases software"
+developer - -> github : "===ships software to"
+
+rectangle "==nixcache\n<color:#0072C6><$AzureVirtualMachine></color>\n//<size:12>[]</size>//" <<AzureVirtualMachine>> as nixCache
+rectangle "==bazelcache\n<color:#0072C6><$AzureVirtualMachine></color>\n//<size:12>[]</size>//" <<AzureVirtualMachine>> as bazelCache
+developer - -> nixCache : "===reads from"
+developer - -> bazelCache : "===reads from"
+azureDevOps - -> nixCache : "===reads from and publishes to"
+azureDevOps - -> bazelCache : "===reads from and publishes to"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@enduml
+
+PlantUML version 1.2019.03(Sun Mar 10 22:04:44 AEDT 2019)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 11.0.3+7-Ubuntu-1ubuntu1
+Operating System: Linux
+OS Version: 5.0.0-13-generic
+Default Encoding: UTF-8
+Language: en
+Country: AU
+--></g></svg>

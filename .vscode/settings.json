@@ -11,6 +11,7 @@
         "alanz.vscode-hie-server",
         "bbenoist.nix",
         "bazelbuild.vscode-bazel",
+        "cssho.vscode-svgviewer",
         "editorconfig.editorconfig",
         "jebbs.plantuml",
         "justusadam.language-haskell",
@@ -27,5 +28,11 @@
     ],
     "search.exclude": {
         // "bazel-*/*": true,
-    }
+    },
+    "plantuml.exportFormat": "svg",
+    "plantuml.exportOutDir": "./",
+    "plantuml.exportSubFolder": false,
+    "plantuml.exportConcurrency": 16,
+    // "plantuml.render": "PlantUMLServer",
+    // "plantuml.server": "http://localhost:8080/"
 }

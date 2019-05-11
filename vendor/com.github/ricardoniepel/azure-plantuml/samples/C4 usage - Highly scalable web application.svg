@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="1138px" preserveAspectRatio="none" style="width:1315px;height:1138px;" version="1.1" viewBox="0 0 1315 1138" width="1315px" zoomAndPan="magnify"><defs/><g><!--entity user--><rect fill="#08427B" height="38.625" style="stroke: #073B6F; stroke-width: 1.5;" width="61" x="571" y="8"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="41" x="581" y="32.8516">User</text><!--entity spa--><rect fill="#438DD5" height="52.5938" style="stroke: #3C7FC0; stroke-width: 1.5;" width="163" x="213" y="220.5"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="143" x="223" y="245.3516">Single-Page App</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="77" x="256" y="260.2637">[Angular, JS]</text><!--entity webApp--><rect fill="#FFFFFF" height="218.0469" style="stroke: #3C7FC0; stroke-width: 1.5;" width="206" x="498.5" y="138"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="99" x="552" y="159.1387">«AzureWebApp»</text><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="136" x="533.5" y="176.8203">Web &amp; API App</text><image height="70" width="70" x="566.5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAABGCAIAAAD+THXTAAAFHElEQVR42s1bsaoVQQzNT/oL/oK/4C9Y2mprJ9jaWNgqvELEQlCxELEQ9EBgGE8y2Uyye32P5cHbt3c2J3NykszMlT9n/3z7+fvNxx/P3n558vrz41efHr348PD53bjwJy7cxwMv33+/+/rrdAPkrIEUBsx98PTd1gWcQAh48MW9gAQ3AwnM2kXiXsAG1/w3SAADC05BYucNbropJDAkA0YjB08iqMY1oivzcbDxFpBimsFc2A3yHAYGHlDSxt7BgLsSIltMW0W/Tgh+lxUMExJIyxYPJf9Kd3JUlGdsHeGCRzDJq+lKjpyC5L4G1qs6kXebqALhSbLgGJI7+swEAKAJBMhTEp3lRQaV7OJxBwVCm2FOKURcA+LcJVt4AkLbh3dRwVOwFUE7X7hjaR/PleTjB3dimyxP4o/AOzAayA/TlE1lQcTKSt928aibrXFWf2FKoYayqFYRKxnL8gLqxvQoAvDfQl07m5FxtAOJPql/biVNt2brgJnjk+5YqZBYu9Tl+L1bNBFh9CpMC+ZBOyuYDvrYXGyDSmLK1SCpuhCMJCrAAIZYpmnCiX4SCPH85yk1W4BKyZmMWOv6WdNlfo68NUfFVo0zfJFBVWv7KEDmHCirKdLGO4jCVapx1cWW7f0edjVRMkyxkj9DypT3roK7qHCn35CTtI6IEnce9X3zzcPqZoWHwnIQr9NcuRM1NEyC/81uiEUvxjNQ2TakiYpmQnO6qEFuCUP3V1SxuXXVwNmCvYmK4kWpJLZCHeJGGuhyL4NnjkO3tujE1axqSiWhzEW1oFUVXUzVdL7q3mNzLUs7qMhHGEdo7kjZSNm3ipqAVG6ZUkNl7Zc4YDK8qq1+2Aw21+xl3cMcCIWstaNQbub7WVtZF1BROMmsDa5S70La7c+tDMIkrbi1itd6PBBGGkFmiLZP3CVeoWYPFgmTnTUZKTOhrYMLrCtHeaZHdFGRHMhsNH2A8lLyyqxSbK0Z0mUZSHb+A4kUvCZ3nXXJDCTrsggSPW0D97pwyvPcuuz+QqKkmR9/A9LtiVcbnyEFipd024nyUBM9Vrw4LxUW3zrNQoYXtnTkvDQHjKUpOeBS1uWdSNu4VAAJQbQ+Xm3L5buJs3Iu9cWDgdQccXNhq8ZCwu1s8dtlQD3rMTw1u1g3pynSxBbnzTJvd2eguUFIqQzWitvrJjO6+m/1QJ+EmR1kYin8KG6vG2d0YMAn50kIVoj04YtQUQmv4iSrdZYgNbm+j09FzCGqG5iZ4x4ZBtoYFpdd42VWxON6J5BH7eRowbCTl1dmi2v6eFNhqzzZz/VT2WpNTtwcN/ahrNczAp08N9Wsoey+BENyV80zG4mFM0f22o0ru3Xkb5mRBa5Nu+/OLJePvYz84GTY7GgJBMTdtOsvxuf3Z3VzVhOGHnbTJV4KB4pGiQlq10SvhlQ4AEF1qdjIdnegO+pUW5ZZpTgyz0qLbDUt5TQS60Re9O2uafbAzYp+ZUjuWRwK7hEnq/Ovlj5uuylJv+pwnWS/Ol8XZ4UhDPk9AQnGsl7pn7LTo13jQH9Gtd2mMMj40j+5demPa0NMFimMeGl7d6j+h+SX2rw3D9yXi6nMS1MnkFdLHFf0rcHx4+S7pEmD3RNNsSSu6vctqks/WJvf2dEDufEJsK0BpRa1cb4fGj3OBY70Mpeeh98nqa1bFL/sgzdtLVkWatNylLa+klU7SxwXe/FO8+WQkvGQ/+7cKcbI6RKcjBOFcXiMtfDzF9rdpsgeZO/DAAAAAElFTkSuQmCC" y="180.5938"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="175" x="514" y="261.7324">[ASP.NET Core MVC 2.1, C#]</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="603.5" y="277.5576"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="143" x="528" y="293.8545">Delivers the SPA and</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="182" x="508.5" y="310.1514">provides RESTful web APIs</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="179" x="510" y="326.4482">which are consumed from</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="54" x="574.5" y="342.7451">the SPA</text><!--entity cdn--><rect fill="#FFFFFF" height="163.75" style="stroke: #3C7FC0; stroke-width: 1.5;" width="220" x="739.5" y="165"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="74" x="812.5" y="186.1387">«AzureCDN»</text><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="38" x="830.5" y="203.8203">CDN</text><image height="32" width="70" x="814.5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAAAgCAIAAAAg4ZmUAAAByklEQVR42tWZsU7EMAyG/ZK8Aq/AK/AKjKywsiGxsjCwgnQDQgxIgBgQYkCCT4pkojaXxonThpN1qnqt69/+89vpyc/Wn7fP78v79+Orp6OLh8Pz3cHpHd8cn1w/c55frQ5lQzA3jx+EDoa8gXb3+jU6JEIsATMBVlgxyVMCR4EMjYYfdQud6nxyF4VtgmRN5D7Dj/o8u31p9EZGKiFRIhc8pFYJ046nBFWuSi6UA4aKgQuekKaMYOQgkYwKjoGBGwGAaToplEuCkmS2KR7JIERaxKJxWUaRuMART55+0q+Bxse+JVL6dYcUShrrJE9FvjF3PMGSmi5eNekXd8bgcxdIFKcHr6q5J/8XT7C5Jkkj37bFsxcSjDRFpgzuIc1Wm/dcqQgreBmhROkqWcPStl0xW6wkD9ZxeyjWxXuWP0h0K1OhdAzdpBHNKRPmyZh+ElZF4SCHacP22k15MVDpUy/iI1QpycN6SCOspeS6qIc0guIlGSgto8OAkLCmgWhM7sk8ykVN1247yACRg1SedZXyzSfxhbVUHlw8iVib9aqKZ+qe8TBS8UJ4pb5kZdFkxKJc1n2K72SUnh7CXyPllnxFiBPOr2aT/cUvvrtqtu3+GtwAAAAASUVORK5CYII=" y="207.5938"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="75" x="812" y="250.7324">[Akamai S2]</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="851.5" y="266.5576"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="167" x="764" y="282.8545">caches publicly available</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="200" x="749.5" y="299.1514">content for lower latency and</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="170" x="764.5" y="315.4482">faster delivery of content</text><!--entity staticBlobStorage--><rect fill="#FFFFFF" height="125.5625" style="stroke: #3C7FC0; stroke-width: 1.5;" width="213" x="1082" y="184"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="125" x="1126" y="205.1387">«AzureBlobStorage»</text><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="129" x="1124" y="222.8203">Static Content</text><image height="59" width="70" x="1153.5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAAA7CAIAAABJ8GvMAAADaElEQVR42s2ascoVMRCF5yV9BV/BV/AVLG21tRNsbSxsFf5CxEJQsRCxEPTAgSFkdyfJ2dlkL8Pl3svd7HyZ5OwkGfs3/nr88uHR8w8T7PXHn4J7NnrBi/ff5vDA0Hc/fv+9Fgk3mBYi2rO3X69Fevrmy0we2sP3P1chvfv8az4P7MmrT1choeklSDD0Zj4SxGcVD3UiH2myKmwNSpuJBNlZyzMk6G0kCM5yHhr0NgdpiXCfEXQ7KdwYD1mWJegmqwKiN/oQjPuuk6qZ+JmWzvXrTzpVU9BNSOfK6KPPoIcnbZQqTvxMUAUPfVY+UQlsD1Uw5k0QbqYnCGOWjm3v3qQKBN2EdK4TCY3AKufwFd7Ayt93+7RJdZT4mZDONZFA4gOj7J1qDrj8HI2UmOpIJ0xI52Kk6tHhSP47QuRsvJeciO0KrwnpXBMJf8A7UzJHoqh4ZBhG3q4SQHe06cxu4mdCOtc5lyqkksE7eHeQezx7+ncr6CakcylIdOU80lbQTViH3w2pmr0mrMM1JF7lXlZT6wxSlfiZsDunIXHycCz4tN4d6gJSqRMm7M41FQ995t2GP+Mz2ndHMQI5CI/USEAqdcKEdXgTiU6Xxi7z9QiuDTJUDcmnqwnr8PQcLwuJiZ8J2fRtkeibCdv2t0WiSJiwR9dEYrqNzoJP28a3mXgWEjXJhJ3UGAm+Vo9zV+oyQw8yFQ3JrzJhfRojsavgOtqksFKBqrVAOpIvn0zYf4yR+Mhzb/iV21qg9UDlIpWLXBN2iQMkD4V7zKCVAOlI1RLDhBO+ISTmQZciVQtBE05cbhWl7XLdhHOxeC5VSAQom81F2m6+mnB6GSPRYwaczlX/TETa3SI34agiRvKM2B9B9IzPK/+Rn3cHRT/S7galCZUAzewBruBm+APe3S20iQsrO4N0tI1sQr3GHXK84FDQhGMYf05ffdoXIAVHJyYcoXtzVxTflCliz9HJ2PnSkaCXQeeESbQe7Y3LIEw7ePbN1ItewYZ48xDa5PIA3BIDDx2WGyU0qKlCL9L80q7zBR3tIoGZBXgpZTdd1SkLC6KEIsoupFVla1oJW29Z1PIalf4ai16ktToxVA46UGK4qt5rtGh3rLZ1SaBGK2HGkObXTo4Wtip14pMFfaiqVUSaWXHYWVNYvf4DRNxN1N2ePIQAAAAASUVORK5CYII=" y="226.5938"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="193" x="1092" y="296.7324">[General Purpose v2, Hot, LRS]</text><!--entity queue--><rect fill="#FFFFFF" height="126.5625" style="stroke: #3C7FC0; stroke-width: 1.5;" width="183" x="1062" y="512.5"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="139" x="1084" y="533.6387">«AzureQueueStorage»</text><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="58" x="1124.5" y="551.3203">Queue</text><image height="60" width="70" x="1118.5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAAA8CAIAAABU9Vt0AAADV0lEQVR42tVaPa4UMQz+LskVuAJXeFegpIWW7km0NBS0IL0CIYonPRAFQhRIYMmSZdlxxs7OZDIjF7s7M15/ifPFP8G/+nX37tuzV58myPM3Dz9+/62ah+oLD9//zMHD8vL94+GQXrz9MhMSCQ3igZDuP/+cjIeEBvEoSOTW5NzzIZHQUB4Cidz6FDzME/tDmswKt/AElmWFYZ7AsqzghfbD3SCdxQpePnz9tQOkE1lhjCewLHFH8vrj002QpoVzOwZ+PUjkuKvhyRA6LsEKJUIPIZHLLounH/jhKqyQD/xwFVbI8wQuxApJnkAnnKMXBvLkoy8acb0oPE8gYoVkQHXKpWNObyciVuDFRwjpl3VEAOjVbgI/ROEcP7dCTtEkOj36JvBDlOR5SPQmfR0Q7fq3KxGi0+6nAz9ESZ6HdAtViJ5quacZzYj7iVpN6IiSPA9J1huZlRS/0cmPeSViq55tNk97luBEFM51ICUXmN40PKRkwKUJzTiwX/+sHFGSF0HK5IX0f4aFPCS/w3glJjUyD/NdzRMc+CEq/USQSBF7QmQQvSKuQv7MBGUgiZJozkmznk82xvydrB894fR3iLwogkTGySR4g/S4MowmJK3EzzndFcBaiR9B8W3Nh4hcqAPJWM8atIlkt9myPSRjEz3Gr4har6TpFKxQ6I0MRvToJiQ9nKRRnM2s+z4k7ah0SwalqaRpJ9+S5UMfEJXpMpCM04uflCCZGe4o8ZAkEeRXeM4RFVOTkISaxHMGIIkn95VEOw1nQ8IWiEreeUiZkCwDaVOJgSRbFv8uSS6irWZxSIbBdSkCUb0hgkTIS+lAE1JVid+XTDyud3BEqVU/ehjuWO8StjZZIcxqBYOHlCmxR70psWaz/LtZJxWO5QnwRRVErbFlU0AT2vkxQuQk7KwEjL6uI+JjPNbNAiWiumS1jz3zEnJurgV0qseyhy4lwjRRDQsrN2fHWjK4XCdmkzlxrX5Zpr2Ja3U1MzvkRmNzwS7TZmUb+TBk/f5fFtJSPJE5doNS0Ln+oYcspNPPRJWOsKEagyzYbx4/j3cuT+QTrQKkE897lQ7t1s62nhL4VY9W1yCdwhOlg60jh6on88RA2laGNDnwGyi/lCFxPEFzNUHGai//AY1SeZNbwDdrAAAAAElFTkSuQmCC" y="555.0938"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="163" x="1072" y="626.2324">[General Purpose v2, LRS]</text><!--entity search--><rect fill="#FFFFFF" height="227.6406" style="stroke: #3C7FC0; stroke-width: 1.5;" width="220" x="491.5" y="462"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="92" x="555.5" y="483.1387">«AzureSearch»</text><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="116" x="543.5" y="500.8203">Search Index</text><image height="47" width="70" x="566.5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAAAvCAIAAADRtytBAAACqElEQVR42s1asUoEQQzNT/oL/oK/4C9Y2mprJ9jaWNgqWIhYCCoWIhaCPgksQ2Ynl0kye3OEY7nby8zLJHlJ9uh3H6+Ht+/L+4/jq+eji8fD84eD0zu84xqf4HN8G1FOG4PBjrF1YNAF9+DO2SHdPH1awAhg+NWkkE6uX7rAlHJ2+zodJESIGw8LNEwEKY6nF1U3pPevHwQuHAlrQHABx2jlqIi/1QJtyZCwb8XkyMLC6RHZiXhYLNmCcuMbwJZVmXByBTpzIPXGAzwTko5nUR6F5Ihv2HLEERkPagckhMegnUVEr5hIT27jjB0RnXxp4yNCjQO1HGy4QNbprZJYiRNS4hFxisext+ihi8H0cCKFhbLwIMG0wIgV7Ub0QMoiSiPlL9Fr9EPFRqQ0NoMKM+7/OKLq3GXMSZ5TikOqPR4A6kPAJwLYzqWdsRSHJGgenqyYX9ys87sz4wXTgzCkJfRLVPrqTl4KnpLICpaqSlhByRO4E/pbNQStgokzknAko8JylxamWqUH8uXQrs3Zfbhsh4y1S9nOSEhdTLcBpC7PL52CBlWo5eag3GGI3iZ/WZF2xmJKsWzRL9JDb5+Gn3NcUVahoNcNlvKqdB6f1/CiNGhIUDdquiOJpO+2MhalEXOc1jQH3librx4tRawM09CIPq9OrKtjQLzjuiaWyPQPS1N6YlDwWF5xE1NuIAXxpExnKbcbV/Doje1q37FnSNCjzKKYZPhBGG5jeHjHNTwt1/lzYsmCZzOhuPtOhecfUpyXlPhJT6eWEV+0elDGANvj4aqK4tQ2Dx6uXCneWYgGNrGP9O2E4pOGko4S6cU9KKesSmToMyULnoXKaf6nSV14ViZEuROIDaSeuVNriDc/MJD4KsWTXkrCFZf/Y+1d+K9grS5ref0B6cdcH+6xr1AAAAAASUVORK5CYII=" y="504.5938"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="88" x="557.5" y="562.7324">[Standard S1]</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="603.5" y="578.5576"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="110" x="544.5" y="594.8545">provides search</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="185" x="507" y="611.1514">suggestions, fuzzy search,</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="151" x="524" y="627.4482">and language-specific</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="200" x="501.5" y="643.7451">search, consolidates a single</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="181" x="509" y="660.042">search index from multiple</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="78" x="562.5" y="676.3389">data stores</text><!--entity redisCache--><rect fill="#FFFFFF" height="136.5625" style="stroke: #3C7FC0; stroke-width: 1.5;" width="141" x="6" y="507.5"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="121" x="16" y="528.6387">«AzureRedisCache»</text><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="54" x="49.5" y="546.3203">Cache</text><image height="70" width="63" x="45" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD8AAABGCAIAAAD0ENuBAAADOklEQVR42u2bvUotMRDH85K+gq/gK/gKt7TV1k6wtbmFrcIpRCwEFQu53ELQPwwMIZmZfGezcJYUhz27yS+TmWQmmXU/2dfh/f/f56+bx8/L+7c/d6/nty9n108op1cHKicXD/yb/sIzeBLP4y28+/Hv+6fr5Yz/0BhaRfOECLj2Qh1Dnai5vTNOlDFq74Wb7AzaQosd6DHEEExR26wkQWFdyix4BaNRSQ+ltBvDv1Bi0mCIKn/Q8SSeJ2tJaiAeAEkZPcbOgEar1SOrWb+tmWgxlx5Saa+l7jKklqlFTpPBaHS7A1ChLPrG3jdekJGmsU30eH90B1C/NvKt9P5E1neNpEXQnpr70PvdoAWyaLpkXHIxaNnOXEl60mvrFBYBcmb8Qjdb/Iux9BM8iCP9kV60mcC984OEVejrfDty7DajH+HbzaAvdXEXosdMbzvGcUzsa3wcCieVzQ1FR/Ol8ZoWPYpD6gZNcElPpksQ3Icew+3LO9+ZYYUpioN5nF1ftYGaihA8dUIBknMReXVkIVqXSF6d6eNoo30WQm/BGjeK+53pg0gvM8DLueIOQCi7oY9taTg9R5jV0ZkRiM2gD6IzNlxgBV2iO7zXmwzEptJ3L0f6KfTirL8PenLddkkPbtjxLmVP1YqCX52etoGBuDOrhZ6wa2RM+SvSA52dUONsYUV6qDgvwJqzvSh9EFsmq1qIPjiqgfLsY631bdTwh1ek923Uj+h34OdAwKLfnxmeb0mvbV3l17AZvXacmmOsW9KLNhok0QRFq3M2vWijyVPRJWSv2WhdKsBUen+rsHoDZxt62k4LiqFCGKLVVystjUCLpBai1/bYjMyFhejFSVPLF1mLXrTgpI2uslrFG4B1pywb0Md+fHUmxmz6wFiLbHR7et9YS210Y3rfWCtsVKbvkrGbpGdjrbZRmb5LXUl6MtYWG5Xpja22XvR0Ft1oozJ9ThJyy4knNdNuoyo9qWOXjaR4A0zbfW/f1A8z2Ksz74OTfr+GEXn8HOjI3z5QNFlk0IG/Puj7gyBN32WmDEC6yQT92HNES8kX83NZ44DGVRz/Bp/P+EmkRsxBR7DJLFNOHOHDXSMa/gVl2QIcUIYtoQAAAABJRU5ErkJggg==" y="550.0938"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="88" x="32.5" y="631.2324">[Standard C2]</text><!--entity cosmosDb--><rect fill="#FFFFFF" height="136.5625" style="stroke: #3C7FC0; stroke-width: 1.5;" width="142" x="182.5" y="507.5"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="114" x="196.5" y="528.6387">«AzureCosmosDb»</text><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="122" x="192.5" y="546.3203">Document DB</text><image height="70" width="70" x="218.5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAABGCAIAAAD+THXTAAAEuUlEQVR42s1bMa4UMQz1JbkCV+AKXIGSFlo6JFoaClqQKBCiQAJEgRAF0scokv/DdhzHSXZ3leL/2dlMXp797CQeuht9vv/6c3djnw/ffr98/+PJ6y+PX31u7dnbrzJOGv7+zaeft4OEYTx8/uHB03duY5wpSDwBVwfDY3304mMPCTaGPYbEs3JFohiMpYWvMF38FQPgxsNj22tf8R805LrddwtgGhIeknu/3DaAJOh7HR3yGWVmDKb5SfCRn9CQIiH0AmBYtWQS82CykLh3xftpneCh18CIz0eQLB5UyQuQwz4z24lMBLn2Fmh/4WHDuKfIKfitdKIVj/tSs+W2WZPIBNBF25YeeGDEpDNE7itgptcYfwsOGdMaJlYrmZcMiTsh5C5DERLVGwRfbxGQ7+k1/nZX9ihWx6LnJETWU6esriWUU20dm8h3y3Kol9f18PQeH3PiNn4K+4C0WtolwZPHNsjEVZQQWrcwY/G0hmuE5EdsSqSFMjIS8FMgpzWLp0AX5jdykZIh2foPI6yB6VGEbTYJQvWnTJIiZroFTwZSM8J8jMbrlJF8NWc1PDxEbENIQ656FkQZ/1NedIKTWVSiydaCxpBUp7N6sIKnNZud8BSLyVktoYyqlPV6HU9rPeF2V3E0FQQ2KnXZ/DBgunGFplKpq1CEkQpNrudmdI6iXZBQzSUQBRsHlI/T14LkZp5B3kSHKNoFSYaOuU+cMaUglWPrLhfCwDrcKaBDVreueOj9oto2sBYh2XSG21GiUBLQhTKbAilI8bNPoHJz02R6ThlHGs7oXrpEEjAK5TfbUglRxk5W1hrYEI9IwtT29R5IzZs34sGompGEI5DWiUI8KHF4fY88XAYSjhX3PPB6cht0gzysQ8KBomSjxLUt4UuIOELKxyu1NekuHFRoym8ebYNUZswNQSjZmIVsY6kWLqf4QTwo2Xw9WN7WIal+t6BCPL0TVKtM2yAlFSJvgWo/w92jtng2JEQ8kfLsmu25kDJ43ElMbpdHx8/oprtsD/Gg/2BIdfHkDwhpeCJQ1j0LqYwnqXURJHdjqUAUGh6aDfY/tLcpinxIwcZSGdIKnrwXdSFJimXPyGalz+LBfCeJZ/b0noJDqN4Z2RRFvTM4jD/xTM0edVLmEMp6WgaPysfwVPscHg1JrHy46nI3WDBzRYHiQWPlFk5WvHKpnbRT8hhzaidMLdqwSAR7PoHnP0hCUe/kPLNlqYxN1QepuLSCJ7WBLHM5VX+AqFQ0VAfyan26qG/BbVSmSBkhTptyHv4bv23r08Wih8Dbya1ZWazoQedRqiWHVHgOnVyBq0gTnS9JujC7vTSs1FETZB2vVjLbCOiNltDoV0o9VY2tMrZ2g7SVOiicte5ZrdhJ+UmKnO2VlUG9lkVFi1anlOBc/auttEY5RQsn0brC1Ko5s0Uf658WJDIVna1Q8N8LCuJIU1pnH3OInOCJquD7/s2Y2Xp9awAnyBmutYOquntIw2ExjQoM/3vJFxcsKtf/7yEFhue+0XHa0uLUIapOERdXqVDzS7d09+pvNLVsuDcMwp2GBoyb64jXZcYS1fMUuvMqc22h7u2AkfgxSFvdV4Zasf4Nvt4YHwf+BSeLGtAA+N3AAAAAAElFTkSuQmCC" y="550.0938"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="116" x="195.5" y="631.2324">[SQL API, 400 RUs]</text><!--entity sqlDb--><rect fill="#FFFFFF" height="136.5625" style="stroke: #3C7FC0; stroke-width: 1.5;" width="148" x="878.5" y="507.5"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="128" x="888.5" y="528.6387">«AzureSqlDatabase»</text><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="66" x="919.5" y="546.3203">SQL DB</text><image height="70" width="65" x="920" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEEAAABGCAIAAAAckG6qAAADu0lEQVR42u1aMa4UMQz1JbkCV+AKXIGSFlo6JFoaClqQfoEQBRIgCoQokJYnPelhxUmY3TjJR5pR9LV/Z3biZzv2sxO7HLu+/fz95uOPl++/P3v75fGrT49efMB4+PwO48HTd/zAL3H3yevPeAzP3339dZl/WeceJIDQkImC3jaIjZDWYYDKMSUmvlnuDh6YKN04VkiPOfpCyFVgIg76mAZu4YG+9aCgRLP8xdCSHtJArNuUx1XUsiq+TLGJcaY4B7QIpeJWlrboooVxOEsChggANpm0/qr6GoRh0E10ntnRMC6VEaey+Dqgmo0Bakq0vFWDT+IyqKadqLgR41srhk5KSXD9aszFIknGoPdmhSboPgalFRj8BPBX4IEoByGJXx2kKtMxtFgQGZ6GiOANL9yAIX2cGE4MJ4YTw4nhxHBiODH8pxjYjOGIZE6tmlYzhizwCBGcggEyRZrt+zexeoztKd0CD1+NoVUZqoHQqbl9k2EnBt9lYNeVpSnlK+Zje69a8u/EUO2jsO7BB19qy3m86STxfcFAL/dI/K2W9fZjqDbe6EgeQyGZtw8x78TQWrXA5ieD4lvI7wUG9WZii67VdZQvycc2x1YJVwiNf73fA2S0m77ciQFTstXOzYdC8TF7+GyIz8JftJs0FmFodRr5QKdT5vvBrWe2YfDNxmpDNjaDd2JQf7LD58T5/PIo+JI4XzGKXcbBXdME7g05qqu8/xPInbVDkFM/FFsWUGqLbFN6LXQAhh1EzklnYNur+u1pNZCvNNg/7myEev7i94sLv63y/511nCIyY0N/v137Fd5umzEIACPvwZ1pFVX9na4VGLRaCODa7UMGiU7wXYGBKqdGb9t0ZWpvWWM6BmqdQoxs4JL5V4sCS2+x8HBHEU+4OgfzAEPwRAz+KAwAAAbpHcvx8QMNKleiN1qiw9Bnqplh3AgKa3FxJ2CgYnSYhBGdFqARmL+ytujj4Q4bOecmC5Cxphzk+WfGiG5p8fjHVYFfRU/B/OZdcUlY9QTIwUF9kOGsAcAQV8RoO8iWW0ZoxYp5F4ltiaHPlvsUiPTzsvCq26HVtT7iSNUWwew1Xa6HmEd8Z7IzmNEWO5J6Ir73ZZ1I3D+2Q0KRkoCvyg++TqIL2JEMr4oxstHFdogsEDDsBo8kFyKriytsPQwbfAvNetl3YXYbd9BOX3BNurCUt2w0RQ6GfqG4IF1YyrtUtk893BsvJmXLeh0P37J4WMD/xCrw13LfKyavw6OThq9ebIaGlE3nDd8j/AO+SkWCZXXe4QAAAABJRU5ErkJggg==" y="550.0938"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="88" x="908.5" y="631.2324">[Standard S3]</text><!--entity webJob--><rect fill="#FFFFFF" height="185.4531" style="stroke: #3C7FC0; stroke-width: 1.5;" width="204" x="499.5" y="796"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="99" x="552" y="817.1387">«AzureWebApp»</text><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="74" x="564.5" y="834.8203">Web Job</text><image height="70" width="70" x="566.5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAABGCAIAAAD+THXTAAAFHElEQVR42s1bsaoVQQzNT/oL/oK/4C9Y2mprJ9jaWNgqvELEQlCxELEQ9EBgGE8y2Uyye32P5cHbt3c2J3NykszMlT9n/3z7+fvNxx/P3n558vrz41efHr348PD53bjwJy7cxwMv33+/+/rrdAPkrIEUBsx98PTd1gWcQAh48MW9gAQ3AwnM2kXiXsAG1/w3SAADC05BYucNbropJDAkA0YjB08iqMY1oivzcbDxFpBimsFc2A3yHAYGHlDSxt7BgLsSIltMW0W/Tgh+lxUMExJIyxYPJf9Kd3JUlGdsHeGCRzDJq+lKjpyC5L4G1qs6kXebqALhSbLgGJI7+swEAKAJBMhTEp3lRQaV7OJxBwVCm2FOKURcA+LcJVt4AkLbh3dRwVOwFUE7X7hjaR/PleTjB3dimyxP4o/AOzAayA/TlE1lQcTKSt928aibrXFWf2FKoYayqFYRKxnL8gLqxvQoAvDfQl07m5FxtAOJPql/biVNt2brgJnjk+5YqZBYu9Tl+L1bNBFh9CpMC+ZBOyuYDvrYXGyDSmLK1SCpuhCMJCrAAIZYpmnCiX4SCPH85yk1W4BKyZmMWOv6WdNlfo68NUfFVo0zfJFBVWv7KEDmHCirKdLGO4jCVapx1cWW7f0edjVRMkyxkj9DypT3roK7qHCn35CTtI6IEnce9X3zzcPqZoWHwnIQr9NcuRM1NEyC/81uiEUvxjNQ2TakiYpmQnO6qEFuCUP3V1SxuXXVwNmCvYmK4kWpJLZCHeJGGuhyL4NnjkO3tujE1axqSiWhzEW1oFUVXUzVdL7q3mNzLUs7qMhHGEdo7kjZSNm3ipqAVG6ZUkNl7Zc4YDK8qq1+2Aw21+xl3cMcCIWstaNQbub7WVtZF1BROMmsDa5S70La7c+tDMIkrbi1itd6PBBGGkFmiLZP3CVeoWYPFgmTnTUZKTOhrYMLrCtHeaZHdFGRHMhsNH2A8lLyyqxSbK0Z0mUZSHb+A4kUvCZ3nXXJDCTrsggSPW0D97pwyvPcuuz+QqKkmR9/A9LtiVcbnyEFipd024nyUBM9Vrw4LxUW3zrNQoYXtnTkvDQHjKUpOeBS1uWdSNu4VAAJQbQ+Xm3L5buJs3Iu9cWDgdQccXNhq8ZCwu1s8dtlQD3rMTw1u1g3pynSxBbnzTJvd2eguUFIqQzWitvrJjO6+m/1QJ+EmR1kYin8KG6vG2d0YMAn50kIVoj04YtQUQmv4iSrdZYgNbm+j09FzCGqG5iZ4x4ZBtoYFpdd42VWxON6J5BH7eRowbCTl1dmi2v6eFNhqzzZz/VT2WpNTtwcN/ahrNczAp08N9Wsoey+BENyV80zG4mFM0f22o0ru3Xkb5mRBa5Nu+/OLJePvYz84GTY7GgJBMTdtOsvxuf3Z3VzVhOGHnbTJV4KB4pGiQlq10SvhlQ4AEF1qdjIdnegO+pUW5ZZpTgyz0qLbDUt5TQS60Re9O2uafbAzYp+ZUjuWRwK7hEnq/Ovlj5uuylJv+pwnWS/Ol8XZ4UhDPk9AQnGsl7pn7LTo13jQH9Gtd2mMMj40j+5demPa0NMFimMeGl7d6j+h+SX2rw3D9yXi6nMS1MnkFdLHFf0rcHx4+S7pEmD3RNNsSSu6vctqks/WJvf2dEDufEJsK0BpRa1cb4fGj3OBY70Mpeeh98nqa1bFL/sgzdtLVkWatNylLa+klU7SxwXe/FO8+WQkvGQ/+7cKcbI6RKcjBOFcXiMtfDzF9rdpsgeZO/DAAAAAElFTkSuQmCC" y="838.5938"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="135" x="534" y="919.7324">[WebJobs SDK v3, C#]</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="603.5" y="935.5576"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="180" x="509.5" y="951.8545">runs long-running tasks in</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="110" x="546.5" y="968.1514">the background</text><!--link user to spa--><path d="M575.325,47.044 C521.692,85.041 398.99,171.972 335.004,217.305 " fill="none" id="user-spa" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="330.875,220.229,340.5308,218.2887,334.9544,217.338,335.9052,211.7616,330.875,220.229" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="35" x="535.5" y="90.0669">Uses</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="49" x="528.5" y="104.2715">[HTTPS]</text><!--link user to webApp--><path d="M601.5,47.044 C601.5,66.644 601.5,99.264 601.5,132.479 " fill="none" id="user-webApp" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="601.5,137.813,605.5,128.813,601.5,132.813,597.5,128.813,601.5,137.813" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="35" x="609.5" y="90.0669">Uses</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="49" x="602.5" y="104.2715">[HTTPS]</text><!--link user to cdn--><path d="M624.66,47.167 C635.615,56.091 648.824,66.988 660.5,77 C692,104.01 725.928,134.043 756.226,161.211 " fill="none" id="user-cdn" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="760.284,164.853,756.2578,155.8647,756.5629,161.5133,750.9143,161.8184,760.284,164.853" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="35" x="700.5" y="90.0669">Uses</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="49" x="693.5" y="104.2715">[HTTPS]</text><!--link spa to webApp--><path d="M376.367,247 C412.236,247 454.831,247 493.268,247 " fill="none" id="spa-webApp" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="498.419,247,489.419,243,493.419,247,489.419,251,498.419,247" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="35" x="419.75" y="226.0669">Uses</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="86" x="394.25" y="240.2715">[JSON, HTTPS]</text><!--link spa to webApp--><path d="M381.426,264.043 C389.956,265.247 398.504,266.271 406.75,267 C436.544,269.633 468.867,268.093 498.46,264.937 " fill="none" id="spa-webApp-1" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="376.12,263.271,384.4501,268.5255,381.0679,263.9911,385.6023,260.6089,376.12,263.271" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="59" x="407.75" y="263.0669">Delivers</text><!--link cdn to staticBlobStorage--><path d="M959.564,247 C997.124,247 1039.14,247 1076.83,247 " fill="none" id="cdn-staticBlobStorage" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="1081.88,247,1072.88,243,1076.88,247,1072.88,251,1081.88,247" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="86" x="977.75" y="240.0669">Reads from</text><!--link webApp to queue--><path d="M704.622,346.982 C710.15,350.297 715.786,353.331 721.5,356 C807.319,396.09 844.217,351.677 932.5,386 C988.225,407.665 997.756,423.501 1043.5,462 C1060.44,476.259 1077.66,492.788 1093.29,508.729 " fill="none" id="webApp-queue" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="1096.8,512.335,1093.3872,503.0963,1093.3119,508.7527,1087.6555,508.6773,1096.8,512.335" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="127" x="1009.5" y="406.0669">Puts background</text><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="64" x="1043.5" y="421.1997">jobs into</text><!--link webApp to sqlDb--><path d="M704.913,344.342 C759.703,395.385 825.838,456.998 875.968,503.701 " fill="none" id="webApp-sqlDb" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="879.852,507.32,875.9937,498.2583,876.1937,503.9117,870.5404,504.1117,879.852,507.32" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="119" x="799.5" y="399.0669">Reads from and</text><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="65" x="829" y="414.1997">writes to</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="64" x="829.5" y="428.4043">[ADO.NET]</text><!--link webApp to cosmosDb--><path d="M498.031,345.225 C443.551,396.417 377.968,458.043 328.441,504.581 " fill="none" id="webApp-cosmosDb" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="324.603,508.187,333.9009,504.9391,328.2468,504.7632,328.4228,499.109,324.603,508.187" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="119" x="449.5" y="399.0669">Reads from and</text><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="65" x="479" y="414.1997">writes to</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="56" x="483.5" y="428.4043">[SQL API]</text><!--link webApp to redisCache--><path d="M498.416,307.58 C465.617,324.876 428.699,342.673 393.5,356 C342.087,375.466 323.54,363.236 273.5,386 C219.743,410.454 207.347,421.356 164.5,462 C151.391,474.435 138.633,488.916 127.084,503.279 " fill="none" id="webApp-redisCache" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="123.859,507.325,132.596,502.7792,126.975,503.4147,126.3395,497.7936,123.859,507.325" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="119" x="274.5" y="406.0669">Reads from and</text><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="65" x="304" y="421.1997">writes to</text><!--link webApp to search--><path d="M601.5,356.432 C601.5,388.55 601.5,423.877 601.5,456.592 " fill="none" id="webApp-search" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="601.5,461.819,605.5,452.819,601.5,456.819,597.5,452.819,601.5,461.819" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="86" x="602.5" y="413.5669">Reads from</text><!--link queue to webJob--><path d="M1094.22,643.196 C1078.44,659.297 1060.92,675.919 1043.5,690 C941.208,772.692 798.799,828.09 703.551,858.662 " fill="none" id="queue-webJob" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="1097.77,639.553,1088.6263,643.2125,1094.2826,643.136,1094.3591,648.7924,1097.77,639.553" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="139" x="1002.5" y="747.5669">Gets next job from</text><!--link sqlDb to webJob--><path d="M874.589,645.921 C824.257,690.446 758.223,748.86 703.698,797.094 " fill="none" id="sqlDb-webJob" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="878.491,642.47,869.1,645.438,874.7463,645.7832,874.4011,651.4295,878.491,642.47" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="119" x="789.5" y="733.0669">Reads from and</text><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="65" x="819" y="748.1997">writes to</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="64" x="819.5" y="762.4043">[ADO.NET]</text><!--link cosmosDb to webJob--><path d="M328.629,644.033 C378.526,688.553 444.658,747.559 499.321,796.332 " fill="none" id="cosmosDb-webJob" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="324.763,640.584,328.8148,649.5608,328.4936,643.9131,334.1413,643.5919,324.763,640.584" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="119" x="460.5" y="733.0669">Reads from and</text><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="65" x="490" y="748.1997">writes to</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="56" x="494.5" y="762.4043">[SQL API]</text><!--link redisCache to webJob--><path d="M126.264,648.593 C137.952,663.107 150.973,677.68 164.5,690 C261.137,778.017 403.605,832.358 499.342,861.225 " fill="none" id="redisCache-webJob" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="123.003,644.503,125.4856,654.0338,126.1199,648.4126,131.741,649.0469,123.003,644.503" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="119" x="271.5" y="740.0669">Reads from and</text><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="65" x="301" y="755.1997">writes to</text><!--link cosmosDb to search--><path d="M329.876,576 C377.183,576 438.723,576 491.262,576 " fill="none" id="cosmosDb-search" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="324.763,576,333.763,580,329.763,576,333.763,572,324.763,576" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="130" x="343" y="569.0669">Builds index from</text><!--link search to sqlDb--><path d="M711.596,576 C763.97,576 825.414,576 873.139,576 " fill="none" id="search-sqlDb" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="878.3,576,869.3,572,873.3,576,869.3,580,878.3,576" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="130" x="730" y="569.0669">Builds index from</text><!--link search to webJob--><rect fill="#DDDDDD" height="128.0781" rx="5" ry="5" style="stroke: #000000; stroke-width: 1.0;" width="252" x="1052" y="999"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="0" x="1128" y="1018.9951"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="39" x="1133" y="1018.9951">Type</text><rect fill="#08427B" height="16.2969" style="stroke: none; stroke-width: 1.0;" width="70" x="1058" y="1022.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1082" y="1035.292"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="49" x="1132" y="1035.292">person</text><rect fill="#686868" height="16.2969" style="stroke: none; stroke-width: 1.0;" width="70" x="1058" y="1038.5938"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1082" y="1051.5889"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="108" x="1132" y="1051.5889">external person</text><rect fill="#1168BD" height="16.2969" style="stroke: none; stroke-width: 1.0;" width="70" x="1058" y="1054.8906"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1070" y="1067.8857"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="50" x="1132" y="1067.8857">system</text><rect fill="#999999" height="16.2969" style="stroke: none; stroke-width: 1.0;" width="70" x="1058" y="1071.1875"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1082" y="1084.1826"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="109" x="1132" y="1084.1826">external system</text><rect fill="#438DD5" height="16.2969" style="stroke: none; stroke-width: 1.0;" width="70" x="1058" y="1087.4844"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1070" y="1100.4795"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="65" x="1132" y="1100.4795">container</text><rect fill="#FFFFFF" height="16.2969" style="stroke: none; stroke-width: 1.0;" width="70" x="1058" y="1103.7813"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1086" y="1116.7764"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="162" x="1132" y="1116.7764">Azure service container</text><line style="stroke: #000000; stroke-width: 1.0;" x1="1058" x2="1298" y1="1006" y2="1006"/><line style="stroke: #000000; stroke-width: 1.0;" x1="1058" x2="1298" y1="1022.2969" y2="1022.2969"/><line style="stroke: #000000; stroke-width: 1.0;" x1="1058" x2="1298" y1="1038.5938" y2="1038.5938"/><line style="stroke: #000000; stroke-width: 1.0;" x1="1058" x2="1298" y1="1054.8906" y2="1054.8906"/><line style="stroke: #000000; stroke-width: 1.0;" x1="1058" x2="1298" y1="1071.1875" y2="1071.1875"/><line style="stroke: #000000; stroke-width: 1.0;" x1="1058" x2="1298" y1="1087.4844" y2="1087.4844"/><line style="stroke: #000000; stroke-width: 1.0;" x1="1058" x2="1298" y1="1103.7813" y2="1103.7813"/><line style="stroke: #000000; stroke-width: 1.0;" x1="1058" x2="1298" y1="1120.0781" y2="1120.0781"/><line style="stroke: #000000; stroke-width: 1.0;" x1="1058" x2="1058" y1="1006" y2="1120.0781"/><line style="stroke: #000000; stroke-width: 1.0;" x1="1128" x2="1128" y1="1006" y2="1120.0781"/><line style="stroke: #000000; stroke-width: 1.0;" x1="1298" x2="1298" y1="1006" y2="1120.0781"/><!--
+@startuml
+!pragma revision 1
+
+
+
+
+
+
+skinparam defaultTextAlignment center
+
+skinparam wrapWidth 200
+skinparam maxMessageSize 150
+
+skinparam rectangle {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam database {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam Arrow {
+    Color #666666
+    FontColor #666666
+    FontSize 12
+}
+
+skinparam rectangle<<boundary>> {
+    Shadowing false
+    StereotypeFontSize 0
+    FontColor #444444
+    BorderColor #444444
+    BorderStyle dashed
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+
+skinparam rectangle<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+
+skinparam rectangle<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+
+skinparam rectangle<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+
+skinparam database<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+
+skinparam database<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+
+skinparam database<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam defaultTextAlignment center
+
+skinparam wrapWidth 200
+skinparam maxMessageSize 150
+
+skinparam rectangle {
+    StereotypeFontSize 12
+}
+
+skinparam Arrow {
+    Color #666666
+    FontColor #666666
+    FontSize 12
+}
+
+
+
+
+
+
+
+
+
+
+
+sprite $AzureRedisCache [63x70/16z] {
+rTS7ikCm20PWqq7tlszwI28hqfhj_zHNFXTi6Bnz18b5pJqYMaIucmeJREi0gqSR9rmP9XOrsYgXECRYtJ-6tnFTGPttcEBbJ1ZXyvwGvUscd3gjQGL_vEPa
+Um-_VZrFdkRZ1gBJQ-_RMxfZJYBjdXZnM7cE8Syum-ITocUxvnbNHkWbiQQTydnfpFGQitpY4pxF_yyZujv2SOplcmXmoUTDjERPcsMkhswzpp_FuOUmuAbH
+V3ouQCOVvMMVZhxltAvdzdu0HlHN-FtQ8VBP4RwtaEJaiWcNIVtHsYtudMjEfb7kdghSr_oQO9WCdodF6II403S7cCDdoIVvkpn-Yhlz33UCd-2wMQjpsQXU
+kg1jyp8Fp9sWm0soamjSSq-eSBbgR3KUbArQu86vInMuG-vI1QwvNrMuF3Is0WzwRUotw14Us2zfxG1tsEsN1xZjH_m1xdHBNZ-KNXj-Q2mzTtzjjXLEkLLN
+k6NHAZmWYrRXaaMhSC-YbJXbqIhSicXx7aiUa4NRSrzooQ8DEAru38kMLQ6OBcQDP0YpgA2pjT1jeltRrxiztvEOwPmZf5qDR_sjKypTzvvOzDEHBSPMSHi5
+a5Zq4ii1mMeURukr2kLLdm4
+}
+
+skinparam rectangle<<AzureRedisCache>> {
+    BackgroundColor #FFFFFF
+    BorderColor #3C7FC0
+}
+sprite $AzureCosmosDb [70x70/16z] {
+dPVRbjim24K10PBu__zjEmfs5DRH6gVxfPtRzk5YMw4tJ5yYwhrtOzfftobyHgAqOVGS7R4Xz6QsnuvNZEagqdf4to96_yOn_KeG4NJJzsHdP2o7qitOB1Bn
+80ptom4jl6BQRyKKns96x98wD1p4gH0nivoKvEzWsWeYuDjzENeacHSZ3als2ELcCmfTPQ-3ppT93ff_8lNOcNhzBalJYyRdEiVLDb2GQ06BHaIZn2x9zPjD
+2-R_Q5IHY5as8GRAaPA5rJpzi-EUIJ98nIzQZH9b1NFdM1L6IUhsMzdkMIJOulQvY7NmYYNsWszepR_JLrTEAP36Sa0xYXfhZf1NxP6xiYDWnEQOQygT4630
+4CqLOmA0UZ3jLO_YA4yiEUnngaUUMlBEOnpbeOLVgzy8mGyjxRLlJgU2AgVvzDmtWDhYbp2MJH72-8L1JP8teHA6lMYWXr-RukStHT4WVYGJR0gq-5b20tKM
+M-mewVbabV-r215vZaSF5YuMAB4SJxFZf3ToRtPQFWtMmhYtNomupqgGCzPytY7CAoL9o_DMo-s3D3zhsdPe4oyMq5vObAHat1B5GGILP5LoNujXZl1pIP8z
+cNnBZ10zOasf0YLuGlbM064irrxtSd2KxQq0B4Y2k-8H0uxf9R4gKGB8-wtGIfIyHlHTubIfPndT9IqR_qIYdoSykrZ3uP4te3Xiokai8vhmTRPN805H1dYx
+jVlil_O5IVWpIgEgKRaFdkl91gUZ9Kf5-6h9M8TyVDoTvGYEQFDwxxHrH7IJkY2whUqaX4Ma_zKc0GiojxKru92x6f9_yE4o_TrRFWHnki6IrC22igtx3k6i
+Yvcl1eTNwKn7M6UycIeUTK8wIn38ssESd-XBKX04qBUFPVsZkMqvHdeVQERzt_QPSYezOX-lvVwpzYoJ7jFkN-PLmbWfCiTp9bEYSJEKliFgL6PNfcyHIlu2
+}
+
+skinparam rectangle<<AzureCosmosDb>> {
+    BackgroundColor #FFFFFF
+    BorderColor #3C7FC0
+}
+sprite $AzureSqlDatabase [65x70/16z] {
+xTQ7phEw5eJXMVPgC_T_mGTXlaw0wAZl_r59VqErZUziUbGtARAxCkR0OyEB-eiT4_SiMgyn1ovPwWChmzsdRoABElJ4QwcbOlnjp-WZCN3ErXVeXXSikBw1
+K-ltYUNoJquBiROUDoXjnijF0ZVgvNPgHyEbmPSRgeKJ5vpQzNbWQJUS6a7fBh1q-lXHiUb5BKy22xjhqqqjDu4R_xt0ly2_0AkAnxFCusbtyrcWx7E8ps-J
+1O3vA51OGWeSuft0031y8jQNtB6fDmBOK69h0iYrIVFDW2Kb0h2FRNeZuDY5-F6J2O3F0mhil06CbNmle5uRKTXmxOBfUQ0erHuO07njaRyHc1OLs73Fm00O
+zu3DpNq0YqlsVKB5uMaWA75-pQVF0-hCB6h76W1Icpv8OiOy2vpYEfHV68PpEaS3CAc50PXdK-noUn8GQ_ErGBEaMBbMVcNuedi519a3omWotWaKKEg1BvQg
+vm4QIecVNFquC90A_3PL3mE9gSHV8RyBT0p3XiIPvdMW9s1Zpk5od1cAgq02ixKZpbLV10BMOimnF0FdN0CRwaHYa8vh9iUcz1TXvC0T1JQ3-iDH7BZ513P-
+iW53WNjTs4tgfq8I3p2nMEe71mltxDjcZgI-J2XmRnvpoS6BEWoJuvvdKOLlXcVl0IZmJAp2TpQcWOd71PmfuYdYZ6lYeSQfvlyPc2eyOi8vLniUIE459sFW
+XgKIhrX9x6jINlOzwreEu7y
+}
+
+skinparam rectangle<<AzureSqlDatabase>> {
+    BackgroundColor #FFFFFF
+    BorderColor #3C7FC0
+}
+sprite $AzureWebApp [70x70/16z] {
+dLY9WeIe3ZG9kVp__trlLrgBbc0xcxcHBYgLWqnlQoDHyyZCZ71jlFtTH6E_MNgZlq2mvbwRosiCtnyizGq6ZHWPRcRcaUDY-ma2NyA41d1Mm0S_EnCNYIns
+jaln9xVQXqZ4lq1K7MCddMMuFZjIjjW1iz0-5ruvoD91AXQfb0ymFZxJdXsFOKnPWC1TBs5Oshycjc3JrmqBULkWvaFIH5RAjJl8nZc4bAQIY48vxcjKYDYs
+JMAVBQPpj-Zh5R_Ks4lhodM54P7Syrh0ScJcHCEq2RDzIyDPesns87p1XEBq-FB9Ju9rtG0cbMOrF-7cuun_LQ0fXG1JTIWzbWSgebqg60L2aL5tEP2XO_E1
+gxT00oQ0CONHBbfo_F09f0kMYMoVoIH-EM1p0ZbWObt2UYPcp_F-Kowci21TTmBg-lOof4-aV0PHPB4i-adsr0deJTAamPsKmS6KXRv2L-5wJs3Ow0MlOFhh
+8KShwfPksREtCaf-A4T8eT6yQ8Qj5COGu7m0GIysjiWm_bhrBcxXKLRN5SmWRqzmhnqgf8mPHiwWMA_ikrcP7h3k59yeMeSeVg3OY8AYV1PcSZl-AmhDpu7o
+tgEzv88OqIjrvo09yWKRfXZ0xeoJhnMz79JQePeC1ZmxVi6fTXDNAXIAiGDQXmr2YJ4GqA3guIvT-gd1NQ6yIg2jEyDwgChEmYzX7AEwmwj7itxHK6SWo4id
+6ky0Nz91cSVPnP4mWiaNWM2H2WqtI7U4paWds6BGoAEVBKTAEk6i62jR_amWnai-WxPDqIL_A0bGaV7AlarOK0T65PKOivgZt2Wv-dJJECPpPHYO9j8wptJC
+HCJI35I-hyLyGYb7NeQC7Q6C0rS086zLsx2dNf3ps1npoB94uSG59Sqy4f39nOa9b3bCAL20kBZy8OtNDUVXIdElqXLnBM7glRP-5FGJH9UH0CtyGOS3_NGD
+yzpXs7_lqVBV1fZuguxCkNwRH2nVlsEXYUnq5MOYPcaMM7VWBuriVxIGxPMHvWeYZLz1G0COjDh-QlobHRe-UF9_
+}
+
+skinparam rectangle<<AzureWebApp>> {
+    BackgroundColor #FFFFFF
+    BorderColor #3C7FC0
+}
+sprite $AzureCDN [70x32/16z] {
+hTC5SkWm40DGBHYa-z_tOtcTrCxq3PfHs6Sv9iNPq_1KJBqRZYTywhDXMB51BGq0MTiOM9XQcm2QLXA5QOrM9hcRXbfgGEW2wnrdEKhBY0ICkZ9HUEiVDCEB
+hck93OPFMwc8RtYRaZY6xWJksD2MZXjExU6JIIh35QDEP-ai9-tQv-lVu33gT2-itp6rZoNAJmuqy4-mf6zetymm0B3MFmfWwWWxLeOE3InqdMgeKgU8odJi
+PuvKKZ1BZZRKjGDmFhWNbghW-HlD-lm-Z_-BSr4RdRiXm7-Mdpd-CTzW0F0R
+}
+
+skinparam rectangle<<AzureCDN>> {
+    BackgroundColor #FFFFFF
+    BorderColor #3C7FC0
+}
+sprite $AzureSearch [70x47/16z] {
+dPPNmZCW20G54LdkVz-_VYaMZ6IUKiUsMLFkOEa6XtNXyYrY_iBaAqSr7x6QbwYljAoa-uwUb-Gr9DgxDWwNyq1Z1p-7nh-bLu-fLnk9MWey1fTx8E8dv4hY
+W7jsCispy2eXU9QMcueraQRc4xPQu05ezCY1VjeOze1ExvyQnreizIwYD2oBPeiSVouiJNWzX79dmN_7_maOJn_4QedZMJ4yxOSpud0gZD7AXxn8kBLzrjhp
+cVBeGBmWpA7NVGx8V0ylIwrpob67ADrRP5SGX6ETqUBLNUcPXxJvVUnw2FIOto6vTPezOVCn-04UsrY3JF1Zf5FFDpokXQ12j7aCwjibfKBX3GKxIQxR6Jc9
+UcmvIwWyOFES1VowfaoO2d4pZx3FaWiq8Ocfv_y3vZVODhl8ILpsASf9GFjYaBYyWazB41Q-bLWSQi0lCIgn9Y49cZU11bT9XivbX5it9B17u_pbDm
+}
+
+skinparam rectangle<<AzureSearch>> {
+    BackgroundColor #FFFFFF
+    BorderColor #3C7FC0
+}
+sprite $AzureBlobStorage [70x59/16z] {
+fPVTZiOW24H7L8Hv__VT7zF4PXNRRpttFJ5CIGRynVb8mHELptZ2dkHyWM9Fuoi4EpBVOTXXV4b6JE5R737ErrH4A2zEqXP-GZj9UI1FANl4b7OysYO8oFwq
+JZMOVgpnpG8PWA9B_ceq7cs9_-0Uv5qZOSePYQ6bQ-AqRMqnwzzuQ_vhcJHvMg3POeAkrslwc3G-fJnP3EWM0ve2piMcr6c19aksz6ifgAH0gRzKG9Vh99mi
+5x-MBc15kTo0BjDkBomQM2XZWGuiDbBUMZAq3sTjOHaBjBDKP7f22onzmCaZYvK2vE86Y40OMAWzvT0Y7MSJfEoXXG9XO9c8BGrsQEdaodEB9tXiyLRL-Kjh
+lh4Ke8GMb-l7DW5QO1bR6rWAn1H21xQM300IMHAKJ70l9XjBGqVN5kyFAFtxZSNJr9zcItsoL5oKWxVuilmC2xj5O5jB6PQyj0WA3OaxYmLrOLWK443f8e28
+hImI5DHXeKeI9JrtLXQDolARFGeBbGyBkAFTB3MibtNVubq0ZtkGtLwP9EIUQDvqGqlO8hxhXsDcDKj83aOxfNtMcoi_mKzlYKuvksj6okVjMz0v6x1YWvvS
+90C_I7bGFXljKTeP3yY_3gnl
+}
+
+skinparam rectangle<<AzureBlobStorage>> {
+    BackgroundColor #FFFFFF
+    BorderColor #3C7FC0
+}
+sprite $AzureQueueStorage [70x60/16z] {
+fPO7bkmW30IRBEd-z_s1VYClPXAhsZWEPMWiMxWpx2EQy85iNz3n0R5lo7XBjQyGl2EfVKV56xfzYKQZ9JqQBSd1QCd02zHEAC5eYOPMsMaWdmhel9oA7TD3
+qRvUxMQ_GABHaXgCrWFUemq6B6OzuP2YQy2DPN46wsuiqLOqFMCmpVApW0haV86INkMKpIqg6_foioRKgvpaiYJi22EyepCJcJ9cv1OWvGK0OrhoGcB55EH7
+mBfQbdYwMzhzEJTdoamp_rmMS0FH0hUWg6zkVl4s0nPaMoqj-V6IW5ffQSb7gHbeXHPDSv1LRfQXPHxFx8VHCZTpb2CX3QkqM9-3qdwtpDFxd4rMSyiyeQer
+RgPbPbBD17gpy78rCL2tS8QvS3Cj_2TJTRTmwcdOQc7QtEmM0SPSITajfgsghPR9jTblaCBRBcyMibiSjmn0hR8OVslXGei_62vBrnLQjiq5-gZg358lomuj
+E-hHFf27fM0Zgrd3HfahMHajoRISmI9gowWhoZYZ0pAZTP8Apkdt29ffguUC_SqXWLTZyEtOOaqGqM13HWfscf5Whwh1JegKQ5T7HZ1Qaa-RiN3tBNYD1gCb
+DHejaQC22WPSyPuUZ9Oa3KPBIlz8mvs_
+}
+
+skinparam rectangle<<AzureQueueStorage>> {
+    BackgroundColor #FFFFFF
+    BorderColor #3C7FC0
+}
+
+        hide <<person>> stereotype
+        hide <<external_system>> stereotype
+        hide <<system>> stereotype
+        hide <<external_system>> stereotype
+        hide <<container>> stereotype
+        legend right
+        |=              |= Type |
+        |<#08427B>      | person |
+        |<#686868>      | external person |
+        |<#1168BD>   | system |
+        |<#999999>      | external system |
+        |<#438DD5>   | container |
+        |<#FFFFFF>       | Azure service container |
+        endlegend
+
+rectangle "==User" <<person>> as user
+
+rectangle "==Single-Page App\n//<size:12>[Angular, JS]</size>//" <<container>> as spa
+rectangle "==Web & API App\n<color:#0072C6><$AzureWebApp></color>\n//<size:12>[ASP.NET Core MVC 2.1, C#]</size>//\n\n Delivers the SPA and provides RESTful web APIs which are consumed from the SPA" <<AzureWebApp>> as webApp
+rectangle "==CDN\n<color:#0072C6><$AzureCDN></color>\n//<size:12>[Akamai S2]</size>//\n\n caches publicly available content for lower latency and faster delivery of content" <<AzureCDN>> as cdn
+
+rectangle "==Static Content\n<color:#0072C6><$AzureBlobStorage></color>\n//<size:12>[General Purpose v2, Hot, LRS]</size>//" <<AzureBlobStorage>> as staticBlobStorage
+
+rectangle "==Queue\n<color:#0072C6><$AzureQueueStorage></color>\n//<size:12>[General Purpose v2, LRS]</size>//" <<AzureQueueStorage>> as queue
+rectangle "==Search Index\n<color:#0072C6><$AzureSearch></color>\n//<size:12>[Standard S1]</size>//\n\n provides search suggestions, fuzzy search, and language-specific search, consolidates a single search index from multiple data stores" <<AzureSearch>> as search
+rectangle "==Cache\n<color:#0072C6><$AzureRedisCache></color>\n//<size:12>[Standard C2]</size>//" <<AzureRedisCache>> as redisCache
+
+rectangle "==Document DB\n<color:#0072C6><$AzureCosmosDb></color>\n//<size:12>[SQL API, 400 RUs]</size>//" <<AzureCosmosDb>> as cosmosDb
+rectangle "==SQL DB\n<color:#0072C6><$AzureSqlDatabase></color>\n//<size:12>[Standard S3]</size>//" <<AzureSqlDatabase>> as sqlDb
+
+rectangle "==Web Job\n<color:#0072C6><$AzureWebApp></color>\n//<size:12>[WebJobs SDK v3, C#]</size>//\n\n runs long-running tasks in the background" <<AzureWebApp>> as webJob
+
+user - -> spa : "===Uses\n//<size:12>[HTTPS]</size>//"
+user - -> webApp : "===Uses\n//<size:12>[HTTPS]</size>//"
+user - -> cdn : "===Uses\n//<size:12>[HTTPS]</size>//"
+
+spa -> webApp : "===Uses\n//<size:12>[JSON, HTTPS]</size>//"
+spa <- webApp : "===Delivers"
+
+cdn -> staticBlobStorage : "===Reads from"
+
+webApp - -> queue : "===Puts background jobs into"
+webApp - -> sqlDb : "===Reads from and writes to\n//<size:12>[ADO.NET]</size>//"
+webApp - -> cosmosDb : "===Reads from and writes to\n//<size:12>[SQL API]</size>//"
+webApp - -> redisCache : "===Reads from and writes to"
+webApp - -> search : "===Reads from"
+
+webJob -UP-> queue : "===Gets next job from"
+webJob -UP-> sqlDb : "===Reads from and writes to\n//<size:12>[ADO.NET]</size>//"
+webJob -UP-> cosmosDb : "===Reads from and writes to\n//<size:12>[SQL API]</size>//"
+webJob -UP-> redisCache : "===Reads from and writes to"
+
+cosmosDb <- search : "===Builds index from"
+search -> sqlDb : "===Builds index from"
+
+search -[hidden]D- webJob
+@enduml
+
+PlantUML version 1.2019.05(Sat Apr 20 16:45:36 UTC 2019)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 1.8.0_212-8u212-b01-1~deb9u1-b01
+Operating System: Linux
+OS Version: 5.0.0-13-generic
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

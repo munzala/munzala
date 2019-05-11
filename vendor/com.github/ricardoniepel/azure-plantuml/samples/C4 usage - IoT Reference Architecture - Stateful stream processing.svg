@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="895px" preserveAspectRatio="none" style="width:1801px;height:895px;" version="1.1" viewBox="0 0 1801 895" width="1801px" zoomAndPan="magnify"><defs/><g><!--entity devices--><rect fill="#1168BD" height="38.625" style="stroke: #3C7FC0; stroke-width: 1.5;" width="89" x="6" y="336"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="69" x="16" y="360.8516">Devices</text><!--entity iotHub--><rect fill="#FFFFFF" height="201.75" style="stroke: #3C7FC0; stroke-width: 1.5;" width="210" x="290" y="254.5"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="91" x="349.5" y="275.6387">«AzureIoTHub»</text><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="68" x="361" y="293.3203">IoT Hub</text><image height="70" width="70" x="360" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAABGCAIAAAD+THXTAAAC+UlEQVR42u2au0oFMRCG85K+gq/gK/gKlrba2gm2Nha2CqcQsRBULEQsBM8PgSVks5OZyeSyxz0E0RU2+ZK5/DM57m/Iz93z19H5g2IcX+7cmEhnt686JIwN6R8iwQdOb15g0N6s8TuerBgJAMk58HyVSCdXT8Q0Uqr+SBf3b9mZrh8/14TknSebMfgv3L3/4NiJQcxogITpmfv38f1rZec484pI/EwP+HUg8U9pNUgwJyaSYcKoi0RkpMLs1BOJY3uGsaEFEj2HNIKPguRDH5EukD3XhzQZIcQEAPAzgtRJ2P5IhJsBz8qjeiJFgs0q7mFr8Kq5UMLDRiVgqNNF+lXxaYQURXnbgN4HKSpAcGiHgBSJDBAeAhLsLYzpXsXiIYI7hpWobd0hCisR4EWpGX8iPBZ6WoemV7YIB1hJUu6AxCxG1FQdkOheUrnS7elL2aGLio6eHnaPgXxvlRw5xWLhQbmlZD8vE3R7hr3AwAuxQXRNZVU4umz2IKii5eK/GJOa5DT3anRgnNQ2/FpNltvolPjtnjbDwJf4TTnCp33d4gtbGOSkd7BfnO55YXElRvK3Rsnl2jb91Nk24UuGFxDZKqNG38+JNJhV7yobXUomciLNYtLi4birPdL8rABpVc+E+4VZ/N2uDyrhv9Q1ostKMgzDVkHoSMlmZWiTunlbV7VZ0wp1rU0Qb9Z7ICJnaH42gqhBWUF3iML4oegltUOaN1KYxbw0EzZCykYFhdd1QPKKLqoy+OsLd0EU0GshJYtI6eJ0Ad1VOp8lySOyIl1Ad3A+32CIRolWoDt1ooOKrjw4qd8R1WslVSp685IgxKEtgVVBspWkxAYlTakDkujNtA0nb0qrINENGb4vcUrgeZargkRURKIbaE7fb27GVZCI1YiKSOYXDRsh+bMKLVBxcTQcUvlnLMMzLxk7h4dKEr40iPtrU2LU/kZGNiVghbJU2/hbkFmnijSERhANhTSF0CLZOiASt7jYkDakDckGSX3rOkgunn/22CjNuXIJBL8AAAAASUVORK5CYII=" y="297.0938"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="88" x="351" y="378.2324">[Standard S1]</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="397" y="394.0576"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="130" x="328" y="410.3545">Ingress point for all</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="186" x="300" y="426.6514">telemetry, using built-in IoT</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="157" x="316.5" y="442.9482">Hub Routes for routing</text><!--entity eventHubTelemetry--><rect fill="#FFFFFF" height="201.75" style="stroke: #3C7FC0; stroke-width: 1.5;" width="211" x="715.5" y="8.5"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="108" x="767" y="29.6387">«AzureEventHub»</text><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="155" x="743.5" y="47.3203">Device Telemetry</text><image height="70" width="68" x="787" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEQAAABGCAIAAAD6uaXuAAABgklEQVR42u3aOw6CQBAGYC7pFbyCV/AKlrba2pnY2ljYakJhjIWJGgtjLEzwN1ABO7C4sLPyb6YSeXwszL6IxqvTYLoLPaBIkiT6A0kaxBBDDDHEhIaZbS/x9aUnlvt7c8zm+Eg0FXiIIYYYp5jhPDZtxs6qMLfn23SpUHwx+AdqoBhFyWR9xj6mGC0OOFQHntKrTU8d1T9QZbOFdslv1RFDDDHEtIFBukQ/VwjVmNz1Vc7IoeHyhkHbhNOboviMqcbYFmKI6TumgwQgp/LKXrnL1JwbzNlicDvqrFv4wWBEJNQkInen8Yt8fAyZvGFsCzHE9B2D9xsJSgjVCSA3oeM8NbvEpPPw9ccnthhUlJzKK+fx2DcjhpjWMHjF5Rc0JEzbvWbVGNtGUzUm7ElAYogh5qdesweMaa6+eJvlXnNn1VL6WU2GEZo2bUvnKKaF/mzpHCOeUD5qkB91PGLEEEOMOwy66PIMRvfRHBNWEEMMMcQQoxKDlgge4UvSICJdiP4AW/3isJBNHrEAAAAASUVORK5CYII=" y="51.0938"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="191" x="725.5" y="132.2324">[Standard, 5 TUs, 4 Partitions]</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="823" y="148.0576"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="166" x="736" y="164.3545">In addition to the built-in</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="169" x="734.5" y="180.6514">'Receive device-to-cloud</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="167" x="737.5" y="196.9482">messages' from IoT Hub</text><!--entity telemetryFunction--><rect fill="#FFFFFF" height="195.75" style="stroke: #3C7FC0; stroke-width: 1.5;" width="216" x="1139" y="11.5"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="102" x="1196" y="32.6387">«AzureFunction»</text><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="194" x="1150" y="50.3203">Telemetry Processing</text><image height="64" width="70" x="1212" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAABACAIAAAAoFZbOAAADD0lEQVR42s2aPUoEQRCF65JewSt4Ba9gaKqpmWBqYmCqsIGIgaBiIGIgrAUDY1P9V/WqenuWSTSYqa/79evqN0P7Yb/d+8/R+QN8HV/uPr5/gefSOKSz21cP0t3zF/bcgUg8zDDP6c0L/NxRSDzGh5fcWCQeZhjp+vHT82jamuo8khuIxMM8RXIDkWDVOSU3ComHeZbkRiFd3L/NktwopJOrp1mS8yJxv5Nv8FgTJCRXvPNwpNXTRDWA6oTk1j2aZ/twSKlHc0HO7UhILh0UjIqcqz8tCGiCcpfjGUvHhamstkEeHv7T03rXXI7/mXqMlYpC5gdTXcPlBJXJ4rVIYgbyaqyq626sMBWF8FibIH19gor9PQBJwyPWdOzGaqUiUwNaK8XUegO9XFpGl4r8PNYmiG2Gb6W50tIFVaO9ID8P3Hpb15uSijSj3pY+1npj601DRV3r7HaQWOsNr7euXZGTx5k/YhbfpqKaEWt4/PkjHEo2qMjD48wfa37obDjJw+PJH4uX9TRRpCKYJ1x1WPyQU5HwK/28h6sOjh/EFkqiLP194fwxPPESYiFRmUnNrJP8YlsXV7dJF6d9a6ojTsGUyxE4Gzv1CedBOc+/iYu5C6TquqJp9TZ4VulSbZFFUbVdEU62ajyyIcqphqoODo0bPIW2NXau2qrDXLvNUz5cBK6rhtdhrt3lqZ6XoqhqqsMkx3Oe3pCLtJ1q/VSNvRhwbSVPJ3tw7lc11QGurefpJ0R5b6GkqgUSgIuaeFQ5HkZVVB2whIRndnm0aasYJw1VMZCwurYYFw2PIRM3URVVZ3VtwaNfgQTvCQ2qXHXWXhvmMb9fUlLlqtPE8yE8yFvAYj/fVp2pJsEDNE3Iu1oRV4gZyHcz083TGcaaQPCN+hpi5osEfnsnRgSOIlyfcvD8iIpF+Ar32hv6Hi9VnXIbCf8FI61rzJOQbAgpVZ3JtbeLtJ5H4IRkc0iL6kISi00gLS1z4Gd185EW1QV+VjcfiednlmsPQVqOHvtt/ChKdRNdewjSXNeOR5puceL3B+UCjU0w5KlgAAAAAElFTkSuQmCC" y="54.0938"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="196" x="1149" y="129.2324">[v1, App Service plan P3v2, C#]</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1249" y="145.0576"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="181" x="1154.5" y="161.3545">transform it into a different</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="186" x="1152" y="177.6514">format, e.g. joining external</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="77" x="1208.5" y="193.9482">information</text><!--entity warmStorageCosmos--><rect fill="#FFFFFF" height="185.4531" style="stroke: #3C7FC0; stroke-width: 1.5;" width="218" x="1563" y="17"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="114" x="1615" y="38.1387">«AzureCosmosDb»</text><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="128" x="1608" y="55.8203">Warm Storage</text><image height="70" width="70" x="1637" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAABGCAIAAAD+THXTAAAEuUlEQVR42s1bMa4UMQz1JbkCV+AKXIGSFlo6JFoaClqQKBCiQAJEgRAF0scokv/DdhzHSXZ3leL/2dlMXp797CQeuht9vv/6c3djnw/ffr98/+PJ6y+PX31u7dnbrzJOGv7+zaeft4OEYTx8/uHB03duY5wpSDwBVwfDY3304mMPCTaGPYbEs3JFohiMpYWvMF38FQPgxsNj22tf8R805LrddwtgGhIeknu/3DaAJOh7HR3yGWVmDKb5SfCRn9CQIiH0AmBYtWQS82CykLh3xftpneCh18CIz0eQLB5UyQuQwz4z24lMBLn2Fmh/4WHDuKfIKfitdKIVj/tSs+W2WZPIBNBF25YeeGDEpDNE7itgptcYfwsOGdMaJlYrmZcMiTsh5C5DERLVGwRfbxGQ7+k1/nZX9ihWx6LnJETWU6esriWUU20dm8h3y3Kol9f18PQeH3PiNn4K+4C0WtolwZPHNsjEVZQQWrcwY/G0hmuE5EdsSqSFMjIS8FMgpzWLp0AX5jdykZIh2foPI6yB6VGEbTYJQvWnTJIiZroFTwZSM8J8jMbrlJF8NWc1PDxEbENIQ656FkQZ/1NedIKTWVSiydaCxpBUp7N6sIKnNZud8BSLyVktoYyqlPV6HU9rPeF2V3E0FQQ2KnXZ/DBgunGFplKpq1CEkQpNrudmdI6iXZBQzSUQBRsHlI/T14LkZp5B3kSHKNoFSYaOuU+cMaUglWPrLhfCwDrcKaBDVreueOj9oto2sBYh2XSG21GiUBLQhTKbAilI8bNPoHJz02R6ThlHGs7oXrpEEjAK5TfbUglRxk5W1hrYEI9IwtT29R5IzZs34sGompGEI5DWiUI8KHF4fY88XAYSjhX3PPB6cht0gzysQ8KBomSjxLUt4UuIOELKxyu1NekuHFRoym8ebYNUZswNQSjZmIVsY6kWLqf4QTwo2Xw9WN7WIal+t6BCPL0TVKtM2yAlFSJvgWo/w92jtng2JEQ8kfLsmu25kDJ43ElMbpdHx8/oprtsD/Gg/2BIdfHkDwhpeCJQ1j0LqYwnqXURJHdjqUAUGh6aDfY/tLcpinxIwcZSGdIKnrwXdSFJimXPyGalz+LBfCeJZ/b0noJDqN4Z2RRFvTM4jD/xTM0edVLmEMp6WgaPysfwVPscHg1JrHy46nI3WDBzRYHiQWPlFk5WvHKpnbRT8hhzaidMLdqwSAR7PoHnP0hCUe/kPLNlqYxN1QepuLSCJ7WBLHM5VX+AqFQ0VAfyan26qG/BbVSmSBkhTptyHv4bv23r08Wih8Dbya1ZWazoQedRqiWHVHgOnVyBq0gTnS9JujC7vTSs1FETZB2vVjLbCOiNltDoV0o9VY2tMrZ2g7SVOiicte5ZrdhJ+UmKnO2VlUG9lkVFi1anlOBc/auttEY5RQsn0brC1Ko5s0Uf658WJDIVna1Q8N8LCuJIU1pnH3OInOCJquD7/s2Y2Xp9awAnyBmutYOquntIw2ExjQoM/3vJFxcsKtf/7yEFhue+0XHa0uLUIapOERdXqVDzS7d09+pvNLVsuDcMwp2GBoyb64jXZcYS1fMUuvMqc22h7u2AkfgxSFvdV4Zasf4Nvt4YHwf+BSeLGtAA+N3AAAAAAElFTkSuQmCC" y="59.5938"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="74" x="1635" y="140.7324">[2,000 RUs]</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1674" y="156.5576"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="198" x="1573" y="172.8545">for consumption, e.g. display</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="108" x="1618" y="189.1514">on a dashboard</text><!--entity streamAnalytics--><rect fill="#FFFFFF" height="220.3438" style="stroke: #3C7FC0; stroke-width: 1.5;" width="220" x="711" y="245.5"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="148" x="747" y="266.6387">«AzureStreamAnalytics»</text><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="149" x="746.5" y="284.3203">Stream Analytics</text><image height="56" width="70" x="786" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAAA4CAIAAADPZBliAAADTklEQVR42tVawWocMQz15/cX+gv5hUKuvfSQc6Cn0kMgLT2EkEOhFQgcIVnPkkeeyS5mWXZ3xnqy/PQkT/t3+uvz1ycen+5/8vjy+Kfw/u1kPN9+vHQkfRC8G4YkF0eO77/ebhXSEE9t7LXLo66Pm4R09/AMIBHg6R0i8VkG6ffr3+Wo40GAMRjeh/hvZZDY/fQOvIijDpBEBxMEXwCJdrbd63LRyCYcct7l9O5dCFC1cjxyVloZj7WnY3qhl83aJjwnjC2QLsQDGLLtyzPsSDlOWKKCvWQNpWgkqB6n0/fEFvSfgwhBEjsKqS8UZnAv1aSYMCg1WklSUmBoKQgqfd/jjT8wB9o/Z4FhQVgpiMi4eETZ3BUPRaxUyiCtEboCFlyu7YJo6OAeZnJwKOK9HnENFrj16kE53otPsD0iqHZBUnNnyzh1uZRtU1RgrgYciZ0tZ6VwWqu0aQoZihLVlC287NdwAvUMlXisKJYkrjbY0FOSFfqvNHVQRqh7tqkmkGmHbfX8Gk8ydlV7+or0XjC25pFY5C4KT5bH1eU2kCJVo91jDVBzyiC7OF0r8KDPFjO5FuxY+ukoJDZi6ngbNgoPpj6bxwCqQ5C69dag7mZ6t9NL+7DXPWcBF9RA4piJWKb8PewH0H14ABW/C5JKEVgHWGaz1DfcOSqwmUILC2cyo4HEJ8mRRRp9GGpt5WbMVPG8HCTeAYmrCbJcHGGUtd5q8FaqYGu9q7hQb9o9YGUbM0rXE6kmeArJOySsa8hEZUevGqaqb7gPZSzFNWSunRKxI9vCnyZQzynxJDtpp6h1iEQ5IAOLJyvSI6JhXi+pVbZs64GxWlt1FLLrH2G5aJt/yLxSp/EuZxkxJA/FFtY4XIPFW0WJQn2h/+SlGuDs7iZ20FqnMleop4AN8+ZCUbAgfFZ6D57/Oo8Po2i5gZodXgxXtiZT7cXjwyOJGkhHjsbKF+oopIXCc/dCbTzYPGdYcqo/X7r8bHNv4LEKWeNAzsugJthyVotRyRyfPaeZpsqNB5vDchjkwUhbeHo+gBVj5QM3Xn84JSyOW3L2w2t4702fD/qIkLBiypZqHwUSiL3lmvpiSF6fpOoJ12sgDTVHSdRdBonpWI4qPPT6D+y8zWvUeP5RAAAAAElFTkSuQmCC" y="288.0938"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="46" x="798" y="355.2324">[6 SUs]</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="823" y="371.0576"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="188" x="725" y="387.3545">apply complex queries over</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="184" x="727" y="403.6514">time periods, tolerates late</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="134" x="752" y="419.9482">(up to 21 days) and</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="200" x="721" y="436.2451">out-of-order (up to one hour)</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="47" x="797.5" y="452.542">events</text><!--entity alertingFunction--><rect fill="#FFFFFF" height="130.5625" style="stroke: #3C7FC0; stroke-width: 1.5;" width="184" x="1155" y="290"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="102" x="1196" y="311.1387">«AzureFunction»</text><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="69" x="1212.5" y="328.8203">Alerting</text><image height="64" width="70" x="1212" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAABACAIAAAAoFZbOAAADD0lEQVR42s2aPUoEQRCF65JewSt4Ba9gaKqpmWBqYmCqsIGIgaBiIGIgrAUDY1P9V/WqenuWSTSYqa/79evqN0P7Yb/d+8/R+QN8HV/uPr5/gefSOKSz21cP0t3zF/bcgUg8zDDP6c0L/NxRSDzGh5fcWCQeZhjp+vHT82jamuo8khuIxMM8RXIDkWDVOSU3ComHeZbkRiFd3L/NktwopJOrp1mS8yJxv5Nv8FgTJCRXvPNwpNXTRDWA6oTk1j2aZ/twSKlHc0HO7UhILh0UjIqcqz8tCGiCcpfjGUvHhamstkEeHv7T03rXXI7/mXqMlYpC5gdTXcPlBJXJ4rVIYgbyaqyq626sMBWF8FibIH19gor9PQBJwyPWdOzGaqUiUwNaK8XUegO9XFpGl4r8PNYmiG2Gb6W50tIFVaO9ID8P3Hpb15uSijSj3pY+1npj601DRV3r7HaQWOsNr7euXZGTx5k/YhbfpqKaEWt4/PkjHEo2qMjD48wfa37obDjJw+PJH4uX9TRRpCKYJ1x1WPyQU5HwK/28h6sOjh/EFkqiLP194fwxPPESYiFRmUnNrJP8YlsXV7dJF6d9a6ojTsGUyxE4Gzv1CedBOc+/iYu5C6TquqJp9TZ4VulSbZFFUbVdEU62ajyyIcqphqoODo0bPIW2NXau2qrDXLvNUz5cBK6rhtdhrt3lqZ6XoqhqqsMkx3Oe3pCLtJ1q/VSNvRhwbSVPJ3tw7lc11QGurefpJ0R5b6GkqgUSgIuaeFQ5HkZVVB2whIRndnm0aasYJw1VMZCwurYYFw2PIRM3URVVZ3VtwaNfgQTvCQ2qXHXWXhvmMb9fUlLlqtPE8yE8yFvAYj/fVp2pJsEDNE3Iu1oRV4gZyHcz083TGcaaQPCN+hpi5osEfnsnRgSOIlyfcvD8iIpF+Ar32hv6Hi9VnXIbCf8FI61rzJOQbAgpVZ3JtbeLtJ5H4IRkc0iL6kISi00gLS1z4Gd185EW1QV+VjcfiednlmsPQVqOHvtt/ChKdRNdewjSXNeOR5puceL3B+UCjU0w5KlgAAAAAElFTkSuQmCC" y="332.5938"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="164" x="1165" y="407.7324">[v2, Consumption plan, JS]</text><!--entity coldBlobStorage--><rect fill="#FFFFFF" height="237.3125" style="stroke: #3C7FC0; stroke-width: 1.5;" width="218" x="712" y="501"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="125" x="758.5" y="522.1387">«AzureBlobStorage»</text><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="114" x="764" y="539.8203">Cold Storage</text><image height="59" width="70" x="786" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAAA7CAIAAABJ8GvMAAADaElEQVR42s2ascoVMRCF5yV9BV/BV/AVLG21tRNsbSxsFf5CxEJQsRCxEPTAgSFkdyfJ2dlkL8Pl3svd7HyZ5OwkGfs3/nr88uHR8w8T7PXHn4J7NnrBi/ff5vDA0Hc/fv+9Fgk3mBYi2rO3X69Fevrmy0we2sP3P1chvfv8az4P7MmrT1choeklSDD0Zj4SxGcVD3UiH2myKmwNSpuJBNlZyzMk6G0kCM5yHhr0NgdpiXCfEXQ7KdwYD1mWJegmqwKiN/oQjPuuk6qZ+JmWzvXrTzpVU9BNSOfK6KPPoIcnbZQqTvxMUAUPfVY+UQlsD1Uw5k0QbqYnCGOWjm3v3qQKBN2EdK4TCY3AKufwFd7Ayt93+7RJdZT4mZDONZFA4gOj7J1qDrj8HI2UmOpIJ0xI52Kk6tHhSP47QuRsvJeciO0KrwnpXBMJf8A7UzJHoqh4ZBhG3q4SQHe06cxu4mdCOtc5lyqkksE7eHeQezx7+ncr6CakcylIdOU80lbQTViH3w2pmr0mrMM1JF7lXlZT6wxSlfiZsDunIXHycCz4tN4d6gJSqRMm7M41FQ995t2GP+Mz2ndHMQI5CI/USEAqdcKEdXgTiU6Xxi7z9QiuDTJUDcmnqwnr8PQcLwuJiZ8J2fRtkeibCdv2t0WiSJiwR9dEYrqNzoJP28a3mXgWEjXJhJ3UGAm+Vo9zV+oyQw8yFQ3JrzJhfRojsavgOtqksFKBqrVAOpIvn0zYf4yR+Mhzb/iV21qg9UDlIpWLXBN2iQMkD4V7zKCVAOlI1RLDhBO+ISTmQZciVQtBE05cbhWl7XLdhHOxeC5VSAQom81F2m6+mnB6GSPRYwaczlX/TETa3SI34agiRvKM2B9B9IzPK/+Rn3cHRT/S7galCZUAzewBruBm+APe3S20iQsrO4N0tI1sQr3GHXK84FDQhGMYf05ffdoXIAVHJyYcoXtzVxTflCliz9HJ2PnSkaCXQeeESbQe7Y3LIEw7ePbN1ItewYZ48xDa5PIA3BIDDx2WGyU0qKlCL9L80q7zBR3tIoGZBXgpZTdd1SkLC6KEIsoupFVla1oJW29Z1PIalf4ai16ktToxVA46UGK4qt5rtGh3rLZ1SaBGK2HGkObXTo4Wtip14pMFfaiqVUSaWXHYWVNYvf4DRNxN1N2ePIQAAAAASUVORK5CYII=" y="543.5938"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="167" x="735.5" y="613.7324">[General Purpose v2, Cool,</text><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="50" x="796" y="627.7012">RA-GRS]</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="823" y="643.5264"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="198" x="722" y="659.8232">all incoming data records are</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="179" x="729.5" y="676.1201">archived indefinitely at low</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="132" x="753" y="692.417">cost, and are easily</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="138" x="750" y="708.7139">accessible for batch</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="77" x="782.5" y="725.0107">processing</text><!--link devices to iotHub--><path d="M95.2257,355.5 C142.674,355.5 220.253,355.5 284.468,355.5 " fill="none" id="devices-iotHub" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="289.851,355.5,280.851,351.5,284.851,355.5,280.851,359.5,289.851,355.5" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="133" x="126" y="351.5669">Send telemetry to</text><!--link iotHub to eventHubTelemetry--><path d="M500.265,295.007 C564.199,257.913 645.937,210.489 710.765,172.877 " fill="none" id="iotHub-eventHubTelemetry" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="715.402,170.186,705.6102,171.2446,711.0777,172.696,709.6262,178.1635,715.402,170.186" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="149" x="531" y="176.5669">Routes all telemetry</text><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="15" x="598" y="191.6997">to</text><!--link iotHub to streamAnalytics--><path d="M505.554,355.5 C568.725,355.5 647.872,355.5 710.957,355.5 " fill="none" id="iotHub-streamAnalytics" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="500.265,355.5,509.265,359.5,505.265,355.5,509.265,351.5,500.265,355.5" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="105" x="550.5" y="336.5669">Analyzes each</text><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="81" x="565" y="351.6997">event from</text><!--link iotHub to coldBlobStorage--><path d="M500.265,420.42 C563.002,459.482 642.882,509.219 707.105,549.207 " fill="none" id="iotHub-coldBlobStorage" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="711.702,552.069,706.1764,543.9162,707.4576,549.4261,701.9477,550.7072,711.702,552.069" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="149" x="531" y="421.5669">Routes all telemetry</text><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="15" x="598" y="436.6997">to</text><!--link eventHubTelemetry to telemetryFunction--><path d="M931.877,109.5 C995.662,109.5 1075.65,109.5 1138.95,109.5 " fill="none" id="eventHubTelemetry-telemetryFunction" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="926.537,109.5,935.537,113.5,931.537,109.5,935.537,105.5,926.537,109.5" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="115" x="975" y="90.5669">Processes each</text><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="81" x="994.5" y="105.6997">event from</text><!--link streamAnalytics to alertingFunction--><path d="M931.191,355.5 C998.747,355.5 1084.68,355.5 1149.69,355.5 " fill="none" id="streamAnalytics-alertingFunction" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="1154.73,355.5,1145.73,351.5,1149.73,355.5,1145.73,359.5,1154.73,355.5" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="141" x="962" y="336.5669">Triggers for output</text><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="79" x="995.5" y="351.6997">batches to</text><!--link telemetryFunction to warmStorageCosmos--><path d="M1355.01,109.5 C1416.91,109.5 1494.75,109.5 1557.69,109.5 " fill="none" id="telemetryFunction-warmStorageCosmos" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="1562.96,109.5,1553.96,105.5,1557.96,109.5,1553.96,113.5,1562.96,109.5" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="69" x="1422" y="75.5669">Writes all</text><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="146" x="1386" y="90.6997">transformed events</text><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="15" x="1451.5" y="105.8325">to</text><rect fill="#DDDDDD" height="128.0781" rx="5" ry="5" style="stroke: #000000; stroke-width: 1.0;" width="252" x="1538" y="756"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="0" x="1614" y="775.9951"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="39" x="1619" y="775.9951">Type</text><rect fill="#08427B" height="16.2969" style="stroke: none; stroke-width: 1.0;" width="70" x="1544" y="779.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1568" y="792.292"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="49" x="1618" y="792.292">person</text><rect fill="#686868" height="16.2969" style="stroke: none; stroke-width: 1.0;" width="70" x="1544" y="795.5938"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1568" y="808.5889"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="108" x="1618" y="808.5889">external person</text><rect fill="#1168BD" height="16.2969" style="stroke: none; stroke-width: 1.0;" width="70" x="1544" y="811.8906"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1556" y="824.8857"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="50" x="1618" y="824.8857">system</text><rect fill="#999999" height="16.2969" style="stroke: none; stroke-width: 1.0;" width="70" x="1544" y="828.1875"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1568" y="841.1826"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="109" x="1618" y="841.1826">external system</text><rect fill="#438DD5" height="16.2969" style="stroke: none; stroke-width: 1.0;" width="70" x="1544" y="844.4844"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1556" y="857.4795"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="65" x="1618" y="857.4795">container</text><rect fill="#FFFFFF" height="16.2969" style="stroke: none; stroke-width: 1.0;" width="70" x="1544" y="860.7813"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1572" y="873.7764"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="162" x="1618" y="873.7764">Azure service container</text><line style="stroke: #000000; stroke-width: 1.0;" x1="1544" x2="1784" y1="763" y2="763"/><line style="stroke: #000000; stroke-width: 1.0;" x1="1544" x2="1784" y1="779.2969" y2="779.2969"/><line style="stroke: #000000; stroke-width: 1.0;" x1="1544" x2="1784" y1="795.5938" y2="795.5938"/><line style="stroke: #000000; stroke-width: 1.0;" x1="1544" x2="1784" y1="811.8906" y2="811.8906"/><line style="stroke: #000000; stroke-width: 1.0;" x1="1544" x2="1784" y1="828.1875" y2="828.1875"/><line style="stroke: #000000; stroke-width: 1.0;" x1="1544" x2="1784" y1="844.4844" y2="844.4844"/><line style="stroke: #000000; stroke-width: 1.0;" x1="1544" x2="1784" y1="860.7813" y2="860.7813"/><line style="stroke: #000000; stroke-width: 1.0;" x1="1544" x2="1784" y1="877.0781" y2="877.0781"/><line style="stroke: #000000; stroke-width: 1.0;" x1="1544" x2="1544" y1="763" y2="877.0781"/><line style="stroke: #000000; stroke-width: 1.0;" x1="1614" x2="1614" y1="763" y2="877.0781"/><line style="stroke: #000000; stroke-width: 1.0;" x1="1784" x2="1784" y1="763" y2="877.0781"/><!--
+@startuml
+!pragma revision 1
+
+
+
+
+
+
+skinparam defaultTextAlignment center
+
+skinparam wrapWidth 200
+skinparam maxMessageSize 150
+
+skinparam rectangle {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam database {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam Arrow {
+    Color #666666
+    FontColor #666666
+    FontSize 12
+}
+
+skinparam rectangle<<boundary>> {
+    Shadowing false
+    StereotypeFontSize 0
+    FontColor #444444
+    BorderColor #444444
+    BorderStyle dashed
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+
+skinparam rectangle<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+
+skinparam rectangle<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+
+skinparam rectangle<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+
+skinparam database<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+
+skinparam database<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+
+skinparam database<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam defaultTextAlignment center
+
+skinparam wrapWidth 200
+skinparam maxMessageSize 150
+
+skinparam rectangle {
+    StereotypeFontSize 12
+}
+
+skinparam Arrow {
+    Color #666666
+    FontColor #666666
+    FontSize 12
+}
+
+
+
+
+
+
+
+
+
+
+
+sprite $AzureFunction [70x64/16z] {
+hTK7Ra8n48JXTVVc_lSDTKNxtMIFUe0F9cFhIJV-3w9Erf992R8O1QJ8OiA9Fb90YR8QFT17uea-KaxqSIVwI3hHH-fM7nyQfx_OgtFB52oaxd4Gw-IyYeSb
+cZrcahq_y3vERuoRG99TPzh7LMBubuWez36cltb-lJrG7sRQY1JgOxapVemunJvZfho_EmxkJp664JxzARx76nCOuUiCcpDJ3Q7h39iJyzWklAFj55W34T_l
+WunJG-1XHiyqO00HRIC9hXqZeOrKlBs0z0gf4sIg_QQfGh5nMlNtnTWTcMyVj7MF-7lAMnz0lDu_d-wCctbMXoOYae71lH8YrhC00tlLBcBCe92w3WA_XWl5
+0TBxtnGScP4seyq-uVPI5fbW8eoCY2KHKs1aHYpnbt4qCYDjnWgfe-KCmMzuPogF71bXnWeLGfAquurvAwIJ23DMo2yZnhmLIe146SMfVN-YaUiOiMUSFZv0
+8oT0EDw9FI0ZlRYIP8TYAseZxyI_Hjv8jf4t2rNPJh2HDmj5sOzcsKzGEP3ivK2I7CZgF1S
+}
+
+skinparam rectangle<<AzureFunction>> {
+    BackgroundColor #FFFFFF
+    BorderColor #3C7FC0
+}
+sprite $AzureStreamAnalytics [70x56/16z] {
+fPQ9pgqW38GxNT__YUzMhnE1Fv3mPJb79H-M3geSaPbLvNA5rJzIhiXgL6we1xyjg94BuhMO49Kz458lGKTM74mVoeA8lWuwVyHxCI4Y6aNw9AAQs4cQiAo9
+vD_SI7RiBNMC7UMZyY-7jx9El1kaWNgUtWgnwaQJeLTdKMu7B38hCwmFHu_B5h08PkTR5uGST9kUE2w8asRONoAvc5x4ZZT0W-VCeDbBV7Kog5cDWUCpFbL6
+a8ycgJ6CELDAdisAPqNocIAwBrgahz7IGOFrZ6CyKdjKCjgJQF37q6gUD72VhUAdm_ZelwQgriA4F61f2HDEdlfAVCZFgrbP_FzuLLEyovGO6-qRImN6v4R_
+1z1_R6D1labbRq8OsRJkkwmi79nFnypSa-jbdqOJdJkjgxRQTD9-sk-X_VgQdcJEiQ60nR3pleg_CEuUpyE04oPO0XQtaj9my41ySnQi2AioWuV465QLXX8o
+hbMQ4CjNekETQf6O9kuz0wW5brXqUEWXvhvDrqWg9Jq3T7wr2Q5d39dL1fSHzVUv3wxx1XoyJFQ4p4njkhiPr2bnyp55TF_5lYUFAagB6d5eK7AWiSKd20Es
+aJoFFsU5S-hXbP2jnZd6Q94z-tKAkI1Oq0N6hDx0pjxWBEW2-5z-bFm6
+}
+
+skinparam rectangle<<AzureStreamAnalytics>> {
+    BackgroundColor #FFFFFF
+    BorderColor #3C7FC0
+}
+sprite $AzureEventHub [68x70/16z] {
+xTF5bSKm341HaKdzzplaC4UPpxfhdsTEUbK2lUuJ6ju8T8uiD1ZEeRM6Dues2Cv1RHH0hceYbbR6tGXNqu7Q2s1mduOtK3gMXi2Ff9q81t5i1J0rfhonVwRI
+mGDtoqkDe9rqj46nW_0ZQYSVQqnv0qC73GrQljlz1aa7bXeOE-J_zXY9dTs6wTzEMDwOgM7WZPr_UnXAnPD_ox2BAe1acBSgMXN8vlrh2rSQteXoqgHXyWaD
+RqWk5oNu1W
+}
+
+skinparam rectangle<<AzureEventHub>> {
+    BackgroundColor #FFFFFF
+    BorderColor #3C7FC0
+}
+sprite $AzureCosmosDb [70x70/16z] {
+dPVRbjim24K10PBu__zjEmfs5DRH6gVxfPtRzk5YMw4tJ5yYwhrtOzfftobyHgAqOVGS7R4Xz6QsnuvNZEagqdf4to96_yOn_KeG4NJJzsHdP2o7qitOB1Bn
+80ptom4jl6BQRyKKns96x98wD1p4gH0nivoKvEzWsWeYuDjzENeacHSZ3als2ELcCmfTPQ-3ppT93ff_8lNOcNhzBalJYyRdEiVLDb2GQ06BHaIZn2x9zPjD
+2-R_Q5IHY5as8GRAaPA5rJpzi-EUIJ98nIzQZH9b1NFdM1L6IUhsMzdkMIJOulQvY7NmYYNsWszepR_JLrTEAP36Sa0xYXfhZf1NxP6xiYDWnEQOQygT4630
+4CqLOmA0UZ3jLO_YA4yiEUnngaUUMlBEOnpbeOLVgzy8mGyjxRLlJgU2AgVvzDmtWDhYbp2MJH72-8L1JP8teHA6lMYWXr-RukStHT4WVYGJR0gq-5b20tKM
+M-mewVbabV-r215vZaSF5YuMAB4SJxFZf3ToRtPQFWtMmhYtNomupqgGCzPytY7CAoL9o_DMo-s3D3zhsdPe4oyMq5vObAHat1B5GGILP5LoNujXZl1pIP8z
+cNnBZ10zOasf0YLuGlbM064irrxtSd2KxQq0B4Y2k-8H0uxf9R4gKGB8-wtGIfIyHlHTubIfPndT9IqR_qIYdoSykrZ3uP4te3Xiokai8vhmTRPN805H1dYx
+jVlil_O5IVWpIgEgKRaFdkl91gUZ9Kf5-6h9M8TyVDoTvGYEQFDwxxHrH7IJkY2whUqaX4Ma_zKc0GiojxKru92x6f9_yE4o_TrRFWHnki6IrC22igtx3k6i
+Yvcl1eTNwKn7M6UycIeUTK8wIn38ssESd-XBKX04qBUFPVsZkMqvHdeVQERzt_QPSYezOX-lvVwpzYoJ7jFkN-PLmbWfCiTp9bEYSJEKliFgL6PNfcyHIlu2
+}
+
+skinparam rectangle<<AzureCosmosDb>> {
+    BackgroundColor #FFFFFF
+    BorderColor #3C7FC0
+}
+sprite $AzureBlobStorage [70x59/16z] {
+fPVTZiOW24H7L8Hv__VT7zF4PXNRRpttFJ5CIGRynVb8mHELptZ2dkHyWM9Fuoi4EpBVOTXXV4b6JE5R737ErrH4A2zEqXP-GZj9UI1FANl4b7OysYO8oFwq
+JZMOVgpnpG8PWA9B_ceq7cs9_-0Uv5qZOSePYQ6bQ-AqRMqnwzzuQ_vhcJHvMg3POeAkrslwc3G-fJnP3EWM0ve2piMcr6c19aksz6ifgAH0gRzKG9Vh99mi
+5x-MBc15kTo0BjDkBomQM2XZWGuiDbBUMZAq3sTjOHaBjBDKP7f22onzmCaZYvK2vE86Y40OMAWzvT0Y7MSJfEoXXG9XO9c8BGrsQEdaodEB9tXiyLRL-Kjh
+lh4Ke8GMb-l7DW5QO1bR6rWAn1H21xQM300IMHAKJ70l9XjBGqVN5kyFAFtxZSNJr9zcItsoL5oKWxVuilmC2xj5O5jB6PQyj0WA3OaxYmLrOLWK443f8e28
+hImI5DHXeKeI9JrtLXQDolARFGeBbGyBkAFTB3MibtNVubq0ZtkGtLwP9EIUQDvqGqlO8hxhXsDcDKj83aOxfNtMcoi_mKzlYKuvksj6okVjMz0v6x1YWvvS
+90C_I7bGFXljKTeP3yY_3gnl
+}
+
+skinparam rectangle<<AzureBlobStorage>> {
+    BackgroundColor #FFFFFF
+    BorderColor #3C7FC0
+}
+sprite $AzureIoTHub [70x70/16z] {
+xPPLWjWm34Gj6KVtlszXOGAkeqOfTz-tymoYfDjacy1zIxEPlyEIEmmzFxDqUwK_iGokw75BjOqIjc2T3Je8hYrgUoGjA9l5pqyDMlI7MCHvEzV2R24zR57R
+4D_YBZ2ak2Lb9aEBM8ZMLbzS-Oc53mI9MaYxY9BqyK9FBeC5-GHbjAEmIun71YPoVMmHl9IavAn10ni5y9B8JUAQPWGvVYVR4TOCPof71dozMDbQ4QTdUOTH
+B7OHqLpiXAmpueNABslj73Xdr3lo0Cn5d40wkEDd1gEtMd9MgNQWknQyVpcTrKyx8yNzXR3krWdyVmZuAPxzXuDNjKClDcaT6CDhM3dBLSziszKat1UmAymU
+xhjbVpaDzeMnFNHm8e2xCmubD8xQz4fta3emVLHlZYV5gKL6eYsOqdKHxT9UqSifLETKBliiPO-xBC7nxRBgyXqM8rZvzOvbhAuASIrzyIvY6ysrw757Kcm3
+heNBytmXubkITZDhafvPIEH6Cu7NTQchIAEHubgO0s3MpIIV0bP0n4AKrHYqa0-B0smYCBC-0m
+}
+
+skinparam rectangle<<AzureIoTHub>> {
+    BackgroundColor #FFFFFF
+    BorderColor #3C7FC0
+}
+
+left to right direction
+        hide <<person>> stereotype
+        hide <<external_system>> stereotype
+        hide <<system>> stereotype
+        hide <<external_system>> stereotype
+        hide <<container>> stereotype
+        legend right
+        |=              |= Type |
+        |<#08427B>      | person |
+        |<#686868>      | external person |
+        |<#1168BD>   | system |
+        |<#999999>      | external system |
+        |<#438DD5>   | container |
+        |<#FFFFFF>       | Azure service container |
+        endlegend
+
+rectangle "==Devices" <<system>> as devices
+
+rectangle "==IoT Hub\n<color:#0072C6><$AzureIoTHub></color>\n//<size:12>[Standard S1]</size>//\n\n Ingress point for all telemetry, using built-in IoT Hub Routes for routing" <<AzureIoTHub>> as iotHub
+
+rectangle "==Device Telemetry\n<color:#0072C6><$AzureEventHub></color>\n//<size:12>[Standard, 5 TUs, 4 Partitions]</size>//\n\n In addition to the built-in 'Receive device-to-cloud messages' from IoT Hub" <<AzureEventHub>> as eventHubTelemetry
+rectangle "==Telemetry Processing\n<color:#0072C6><$AzureFunction></color>\n//<size:12>[v1, App Service plan P3v2, C#]</size>//\n\n transform it into a different format, e.g. joining external information" <<AzureFunction>> as telemetryFunction
+rectangle "==Warm Storage\n<color:#0072C6><$AzureCosmosDb></color>\n//<size:12>[2,000 RUs]</size>//\n\n for consumption, e.g. display on a dashboard" <<AzureCosmosDb>> as warmStorageCosmos
+
+rectangle "==Stream Analytics\n<color:#0072C6><$AzureStreamAnalytics></color>\n//<size:12>[6 SUs]</size>//\n\n apply complex queries over time periods, tolerates late (up to 21 days) and out-of-order (up to one hour) events" <<AzureStreamAnalytics>> as streamAnalytics
+rectangle "==Alerting\n<color:#0072C6><$AzureFunction></color>\n//<size:12>[v2, Consumption plan, JS]</size>//" <<AzureFunction>> as alertingFunction
+
+rectangle "==Cold Storage\n<color:#0072C6><$AzureBlobStorage></color>\n//<size:12>[General Purpose v2, Cool, RA-GRS]</size>//\n\n all incoming data records are archived indefinitely at low cost, and are easily accessible for batch processing" <<AzureBlobStorage>> as coldBlobStorage
+
+devices - -> iotHub : "===Send telemetry to"
+
+iotHub - -> eventHubTelemetry : "===Routes all telemetry to"
+iotHub <- - streamAnalytics : "===Analyzes each event from"
+iotHub - -> coldBlobStorage : "===Routes all telemetry to"
+
+eventHubTelemetry <- - telemetryFunction : "===Processes each event from"
+streamAnalytics - -> alertingFunction : "===Triggers for output batches to"
+
+telemetryFunction - -> warmStorageCosmos : "===Writes all transformed events to"
+@enduml
+
+PlantUML version 1.2019.05(Sat Apr 20 16:45:36 UTC 2019)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 1.8.0_212-8u212-b01-1~deb9u1-b01
+Operating System: Linux
+OS Version: 5.0.0-13-generic
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>
