@@ -21,8 +21,11 @@
 
 ' LAYOUT_WITH_LEGEND
 
-System_Ext(pagerduty, "PagerDuty")
+System_Ext(dependabot, "Dependabot")
 System_Ext(github, "GitHub")
+Rel(dependabot, github, "raises pull-requests that bumps gitmodules")
+
+System_Ext(pagerduty, "PagerDuty")
 System_Ext(azureDevOps, "Azure DevOps")
 
 Person(developer, "Developer")
