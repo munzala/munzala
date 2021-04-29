@@ -1,8 +1,0 @@
-# Copyright (c) 2019 Geoffrey Huntley. All rights reserved.
-# SPDX-License-Identifier: AGPL-3.0
-
-version: 1
-update_configs:
-  - package_manager: "submodules"
-    directory: "/"
-    update_schedule: "weekly"
